@@ -1,0 +1,71 @@
+title: Dinakdakan
+summary:
+  en: >-
+    Boiled and grilled pig's face, ears, tongue and intestines tossed with vinegar, calamansi,
+    onions and chilies, bound with mashed pig's brain.
+  tl: >-
+    Pinakuluan at inihaw na mukha, tainga, dila at bituka ng baboy, hinaluan ng suka, kalamansi,
+    sibuyas at sili, at utak ng baboy.
+category: ulam
+image: photos/dinakdakan.png
+tags: [pork, grilled, ilocano, pulutan, spicy]
+addedOn: "2026-10-13"
+
+ingredients:
+  - title: { en: For boiling, tl: Pampakulo }
+    items:
+      - amount: 1
+        unit: kg
+        item:
+          {
+            en: "pig's face, ears, tongue and intestines",
+            tl: "mukha, tainga, dila at bituka ng baboy",
+          }
+      - amount: 1
+        item: { en: white onion, tl: puting sibuyas }
+        note: { en: quartered, tl: hiniwa sa apat }
+      - item: { en: water, tl: tubig }
+        note: { en: enough to cover the meat, tl: sapat para lumubog ang karne }
+  - title: { en: Dressing, tl: Sangkap sa paghalo }
+    items:
+      - amount: 1
+        item: { en: "whole pig's brain", tl: buong utak ng baboy }
+      - amount: 2
+        item: { en: white or red onions, tl: puti o pulang sibuyas }
+        note: { en: finely diced, tl: tinadtad nang pino }
+      - amount: 1/2
+        unit: cup
+        item: { en: vinegar, tl: suka }
+      - amount: 10
+        item: { en: calamansi or lime, tl: kalamansi o lime }
+        note: { en: juiced, tl: piniga }
+      - amount: 5
+        item: { en: long green chilies (siling pansigang), tl: siling pansigang }
+        note: { en: chopped, tl: tinadtad }
+      - amount: 3
+        item: { en: "bird's eye chilies (siling labuyo)", tl: siling labuyo }
+        note: { en: chopped, tl: tinadtad }
+      - item: { en: salt and pepper, tl: asin at paminta }
+        note: { en: to taste, tl: ayon sa panlasa }
+
+review:
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: Boil the meat with the quartered onion until tender. Drain, pat dry and set aside.
+        tl: Pakuluan ang karne kasama ang sibuyas hanggang lumambot. Patuluin, patuyuin at itabi.
+      - en: Put the pig's brain in a strainer and dip it briefly in boiling water until it turns white.
+        tl: Ilagay ang utak ng baboy sa salaan at isawsaw sandali sa kumukulong tubig hanggang pumuti.
+      - en: Grill the boiled meat, then cut it into bite-size pieces.
+        tl: Ihawin ang pinalambot na karne, saka hiwain nang pang-isang subo.
+      - en: >-
+          Add the vinegar, calamansi juice, siling pansigang, diced onions and siling labuyo, and
+          season with salt and pepper.
+        tl: >-
+          Ilagay ang suka, katas ng kalamansi, siling pansigang, sibuyas at siling labuyo, at
+          timplahan ng asin at paminta.
+      - en: Add the pig's brain and mash it in until it is thoroughly blended with the meat.
+        tl: Ilagay ang utak ng baboy at durugin hanggang mahalo nang mabuti sa karne.
+      - en: Serve and enjoy!
+        tl: Ihain at i-enjoy!
