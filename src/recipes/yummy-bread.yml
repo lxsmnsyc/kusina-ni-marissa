@@ -1,0 +1,51 @@
+title: Yummy Bread
+subtitle:
+  { en: Banana chocolate chip bread pudding, tl: Bread pudding na may saging at chocolate chips }
+summary:
+  en: Toasted bread cubes baked with mashed lakatan bananas, eggs, milk, cinnamon and chocolate chips.
+  tl: Tinoast na tinapay na hinurno kasama ng dinurog na lakatan, itlog, gatas, cinnamon at chocolate chips.
+category: panghimagas
+image: photos/yummy-bread.png
+tags: [bread, banana, chocolate, baked]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 10
+        unit: { tl: hiwa, en: slice }
+        item: { en: sliced white bread (Tasty), tl: tinapay (Tasty) }
+        note: { en: cubed, tl: hiniwa nang pa-cube }
+      - amount: 5
+        item: { en: lakatan bananas, tl: saging na lakatan }
+        note: { en: mashed, tl: dinurog }
+      - amount: 4
+        item: { en: eggs, tl: itlog }
+      - amount: 1
+        unit: tsp
+        item: { en: ground cinnamon, tl: cinnamon powder }
+      - amount: 2
+        unit: tsp
+        item: vanilla
+      - amount: 1
+        unit: cup
+        item: { en: evaporated milk, tl: evaporada }
+      - amount: 1/2
+        unit: cup
+        item: { en: sugar, tl: asukal }
+        note: { en: optional, tl: opsyonal }
+      - amount: 1
+        unit: cup
+        item: chocolate chips
+
+review:
+  - The size of the baking pan is not given.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: Cut the bread into cubes and toast in the oven at 175 °C for 20 minutes.
+        tl: Hiwain nang pa-cube ang tinapay at i-toast sa oven sa 175 °C nang 20 minuto.
+      - en: Combine all the ingredients.
+        tl: Pagsama-samahin ang lahat ng sangkap.
+      - en: Transfer to a baking pan and bake at 175 °C for 25 minutes.
+        tl: Ilipat sa baking pan at i-bake sa 175 °C nang 25 minuto.
