@@ -1,0 +1,91 @@
+title: Moist Choco Cake
+subtitle: { en: Steamed chocolate cake with fudge topping, tl: Steamed chocolate cake na may fudge }
+summary:
+  en: A moist steamed chocolate cake with a hint of coffee, spread with a condensed milk chocolate fudge.
+  tl: Malambot na steamed chocolate cake na may kaunting kape, pinahiran ng chocolate fudge na gawa sa condensed milk.
+category: panghimagas
+image: photos/moist-choco-cake.png
+tags: [chocolate, cake, steamed, fudge, birthday]
+addedOn: "2026-10-13"
+
+ingredients:
+  - title: { en: Cake, tl: Cake }
+    items:
+      - amount: 2
+        unit: cup
+        item: cake flour
+      - amount: 1 1/2
+        unit: cup
+        item: { en: sugar, tl: asukal }
+      - amount: 1
+        unit: cup
+        item: cocoa powder
+      - amount: 2
+        unit: tsp
+        item: baking powder
+      - amount: 1
+        unit: tsp
+        item: baking soda
+      - amount: 1
+        unit: tsp
+        item: { en: salt, tl: asin }
+      - amount: 1
+        unit: cup
+        item: { en: evaporated milk, tl: evaporada }
+      - amount: 2
+        unit: tsp
+        item: { en: instant coffee, tl: kape }
+        note: { en: dissolved in ½ cup warm water, tl: tinunaw sa ½ tasang maligamgam na tubig }
+      - amount: 3
+        item: { en: large eggs, tl: malalaking itlog }
+      - amount: 1
+        unit: cup
+        item: { en: vegetable oil, tl: mantika }
+      - amount: 1/2
+        unit: tsp
+        item: vanilla
+  - title: { en: Chocolate fudge topping, tl: Chocolate fudge topping }
+    items:
+      - amount: 1
+        unit: { tl: lata, en: can }
+        item: condensed milk
+      - amount: 1/2
+        unit: cup
+        item: cocoa powder
+      - amount: 1/2
+        unit: tsp
+        item: vanilla
+      - amount: 3
+        unit: tsp
+        item: butter
+
+review:
+  - The pan size and number of pans are not given.
+  - The decorations in the photo (wafer sticks, candies, sprinkles) are not part of the recipe.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - title: { en: Cake, tl: Cake }
+    steps:
+      - en: Preheat the steamer. Grease and line the baking pans and set aside.
+        tl: Painitin ang steamer. Pahiran ng mantika at lagyan ng liner ang mga baking pan, at itabi.
+      - en: Sift the dry ingredients together.
+        tl: Salain nang sabay ang mga tuyong sangkap.
+      - en: >-
+          In another bowl, mix the wet ingredients, including the dissolved coffee. Pour into the
+          dry ingredients and mix well.
+        tl: >-
+          Sa ibang bowl, paghaluin ang mga basang sangkap, kasama ang tinunaw na kape. Ibuhos sa
+          mga tuyong sangkap at haluing mabuti.
+      - en: Pour the batter into the pans and steam for 30 to 40 minutes.
+        tl: Ibuhos ang batter sa mga pan at i-steam nang 30 hanggang 40 minuto.
+  - title: { en: Chocolate fudge topping, tl: Chocolate fudge topping }
+    steps:
+      - en: >-
+          In a pan, mix everything except the butter. Cook over low heat, stirring constantly,
+          until thick.
+        tl: >-
+          Sa isang kawali, paghaluin ang lahat maliban sa butter. Lutuin sa mahinang apoy at
+          haluin nang tuloy-tuloy hanggang lumapot.
+      - en: Stir in the butter, then spread over the cake.
+        tl: Ihalo ang butter, saka ipahid sa cake.
