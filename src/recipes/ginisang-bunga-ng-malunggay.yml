@@ -1,0 +1,55 @@
+title:
+  tl: Ginisang Bunga ng Malunggay
+  en: Sautéed Moringa Pods with Sardines
+summary:
+  tl: Bunga ng malunggay na iginisa sa sardinas at kamatis, may okra at talong.
+  en: Moringa pods sautéed with canned sardines and tomato, with okra and eggplant.
+category: ulam
+image: photos/ginisang-bunga-ng-malunggay.png
+tags: [malunggay, sardines, vegetables, ginisa]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 3
+        item: { tl: bunga ng malunggay, en: moringa pods (bunga ng malunggay) }
+      - amount: 1
+        unit: { tl: lata, en: can }
+        item: { tl: sardinas, en: sardines }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+      - amount: 4
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+      - amount: 1
+        item: { tl: kamatis, en: tomato }
+      - item: { tl: patis, en: fish sauce }
+      - item: { tl: asin, en: salt }
+      - item: { tl: paminta, en: pepper }
+      - item: { tl: mantika, en: cooking oil }
+      - item: { tl: tubig, en: water }
+  - title: Optional
+    items:
+      - item: okra
+      - item: { tl: talong, en: eggplant }
+
+review:
+  - The sibuyas, bawang and kamatis have no preparation (sliced or chopped).
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Igisa sa isang kawali ang sibuyas at bawang. Idagdag ang kamatis at patis.
+        en: Sauté the onion and garlic in a pan. Add the tomato and fish sauce.
+      - tl: >-
+          Isunod na ilagay ang sardinas. Igisa nang isang minuto. Lagyan ng kaunting tubig at
+          pakuluan.
+        en: >-
+          Add the sardines and sauté for a minute. Add a little water and bring to a boil.
+      - tl: >-
+          Kapag kumulo na, ilagay ang bunga ng malunggay at okra. Pakuluan nang 2 minuto.
+        en: When it boils, add the moringa pods and okra. Boil for 2 minutes.
+      - tl: >-
+          Idagdag ang talong. Timplahan ng asin at paminta, at pakuluan nang 3 hanggang 5 minuto.
+        en: >-
+          Add the eggplant. Season with salt and pepper, and boil for 3 to 5 minutes.
