@@ -1,0 +1,92 @@
+title: Pakbet Tagalog
+summary:
+  en: Pork and mixed vegetables simmered in sautéed shrimp paste, Tagalog style, with squash.
+  tl: Baboy at sari-saring gulay na niluto sa ginisang bagoong, istilong Tagalog, may kalabasa.
+category: ulam
+image: photos/pakbet-tagalog.png
+tags: [pork, vegetables, bagoong, kalabasa]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/4
+        unit: lb
+        item: { en: pork, tl: baboy }
+        note: { en: thinly sliced, tl: hiniwa nang manipis }
+      - amount: 1
+        item: { en: large eggplant, tl: malaking talong }
+        note: { en: chopped, tl: hiniwa }
+      - amount: 1
+        item: { en: medium bitter melon, tl: katamtamang laki ng ampalaya }
+        note: { en: chopped, tl: hiniwa }
+      - amount: 1/4
+        unit: lb
+        item: { en: squash, tl: kalabasa }
+        note: { en: cut into 2 × 1 inch cubes, tl: hiniwa nang 2 × 1 pulgada }
+      - amount: 3
+        item: { en: large tomatoes, tl: malalaking kamatis }
+        note: { en: sliced, tl: hiniwa }
+      - amount: 1
+        item: { en: onion, tl: sibuyas }
+        note: { en: sliced, tl: hiniwa }
+      - amount: 1
+        unit: tbsp
+        item: { en: ginger, tl: luya }
+        note: { en: minced, tl: tinadtad }
+      - amount: 3
+        unit: { tl: butil, en: clove }
+        item: { en: garlic, tl: bawang }
+        note: { en: crushed, tl: dinikdik }
+      - amount: 6-8
+        item: okra
+      - amount: 1
+        unit: { tl: tali, en: bunch }
+        item: { en: string beans, tl: sitaw }
+        note: { en: cut into 3-inch lengths, tl: hiniwa nang 3 pulgada }
+      - amount: 1
+        unit: { tl: tali, en: bunch }
+        item: kangkong
+      - amount: 1
+        item: { en: patola (sponge gourd), tl: patola }
+      - amount: 4
+        unit: tbsp
+        item: { en: shrimp paste, tl: bagoong alamang }
+      - amount: 1
+        unit: cup
+        item: { en: water, tl: tubig }
+      - amount: 3
+        unit: tbsp
+        item: { en: cooking oil, tl: mantika }
+      - item: { en: salt and pepper, tl: asin at paminta }
+
+review:
+  - Salt and pepper are listed, but no step uses them.
+  - The patola is listed but not prepared. It is probably peeled and sliced, as in the photo.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: Heat a pan and add the cooking oil.
+        tl: Painitin ang kawali at ilagay ang mantika.
+      - en: When the oil is hot, sauté the garlic, ginger, onion and tomatoes.
+        tl: Kapag mainit na ang mantika, igisa ang bawang, luya, sibuyas at kamatis.
+      - en: Add the pork and cook until light brown, about 5 to 8 minutes.
+        tl: Ilagay ang baboy at lutuin hanggang bahagyang pumula, mga 5 hanggang 8 minuto.
+      - en: Add the shrimp paste and cook for 2 minutes.
+        tl: Ilagay ang bagoong at lutuin nang 2 minuto.
+      - en: >-
+          Add the water and bring to a boil. Simmer for 10 to 15 minutes, or until the pork is
+          tender.
+        tl: >-
+          Ilagay ang tubig at pakuluan. Hinaan ang apoy at lutuin nang 10 hanggang 15 minuto, o
+          hanggang lumambot ang baboy.
+      - en: Add the squash and cook for 5 to 7 minutes, or until soft.
+        tl: Ilagay ang kalabasa at lutuin nang 5 hanggang 7 minuto, o hanggang lumambot.
+      - en: >-
+          Add the remaining vegetables and mix. Simmer for 5 minutes, or until all the vegetables are
+          cooked. Do not overcook them.
+        tl: >-
+          Ilagay ang natitirang gulay at haluin. Lutuin nang 5 minuto, o hanggang maluto ang lahat
+          ng gulay. Huwag itong i-overcook.
+      - en: Serve hot with steamed rice.
+        tl: Ihain nang mainit kasama ng kanin.
