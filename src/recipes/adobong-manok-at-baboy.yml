@@ -1,0 +1,60 @@
+title:
+  tl: Adobong Manok at Baboy
+  en: Chicken and Pork Adobo
+summary:
+  tl: Baboy at manok na niluto sa suka, toyo, bawang at laurel.
+  en: Pork and chicken braised in vinegar, soy sauce, garlic and bay leaves.
+category: ulam
+tags: [chicken, pork, adobo, vinegar]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/2
+        unit: lb
+        item: { tl: baboy, en: pork }
+        note: { tl: hiniwa, en: sliced }
+      - amount: 1/4
+        unit: { tl: tasa, en: cup }
+        item: { tl: suka, en: vinegar }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: toyo, en: soy sauce }
+      - amount: 1
+        unit: { tl: ulo, en: head }
+        item: { tl: bawang, en: garlic }
+        note: { tl: tinalupan at pinukpok, en: peeled and crushed }
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: { tl: sibuyas, en: onion }
+        note: { tl: tinadtad, en: chopped }
+      - amount: 1
+        unit: { tl: kutsarita, en: tsp }
+        item: { tl: itim na paminta, en: black pepper }
+      - amount: 2
+        item: { tl: dahon ng laurel, en: bay leaves }
+      - amount: 2
+        unit: { tl: tasa, en: cup }
+        item: { tl: tubig, en: water }
+      - amount: 1/2
+        unit: lb
+        item: { tl: manok, en: chicken }
+        note: { tl: hiniwa, en: cut into pieces }
+
+review:
+  - No photo. The one supplied looked like a styled web thumbnail. Add Marissa's own photo.
+  - The wording ("librang", "kainamang iniluto") reads like a machine translation of an English recipe, so this may be copied. Check before publishing publicly.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          Haluin ang baboy, suka, toyo, bawang, sibuyas, paminta, dahon ng laurel at tubig, at
+          pakuluan.
+        en: >-
+          Combine the pork, vinegar, soy sauce, garlic, onion, pepper, bay leaves and water, and
+          bring to a boil.
+      - tl: Pakuluin hanggang maluto nang mabuti ang baboy.
+        en: Simmer until the pork is cooked through.
+      - tl: Idagdag ang manok at pakuluin nang dalawampung minuto.
+        en: Add the chicken and simmer for twenty minutes.
