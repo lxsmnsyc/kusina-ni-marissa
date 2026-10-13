@@ -1,0 +1,65 @@
+title: Banana Cake
+summary:
+  en: Moist steamed banana cake made with mashed bananas and evaporated milk.
+  tl: Malambot na steamed banana cake na gawa sa dinurog na saging at evaporated milk.
+category: merienda
+image: photos/banana-cake.png
+tags: [banana, cake, steamed]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { en: cup, tl: tasa }
+        item: { en: banana, tl: saging }
+        note: { en: mashed, tl: dinurog }
+      - amount: 1
+        unit: { en: cup, tl: tasa }
+        item: { en: sugar, tl: asukal }
+      - amount: 2
+        item: { en: eggs, tl: itlog }
+      - amount: 1/2
+        unit: { en: cup, tl: tasa }
+        item: { en: butter or oil, tl: butter o mantika }
+      - amount: 1
+        unit: tsp
+        item: { en: salt, tl: asin }
+      - amount: 1
+        unit: tsp
+        item: vanilla
+      - amount: 1 1/2
+        unit: { en: cup, tl: tasa }
+        item: all-purpose flour
+      - amount: 1
+        unit: tsp
+        item: baking soda
+      - amount: 1
+        unit: tsp
+        item: baking powder
+      - amount: 1
+        unit: small can
+        item: evaporated milk
+
+review:
+  - The photo shows small cupcakes in paper liners, but step 3 pours the batter into one greased pan. Check which one Marissa uses.
+  - The original was written in English. The user chose to keep it (2026-10-13).
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: >-
+          Sift the flour, sugar, salt, baking powder and baking soda together. Mix the dry
+          ingredients thoroughly until evenly distributed.
+        tl: >-
+          Salain nang sabay ang harina, asukal, asin, baking powder at baking soda. Haluing mabuti
+          ang mga tuyong sangkap hanggang pantay ang pagkakahalo.
+      - en: >-
+          In a separate bowl, mix the eggs, mashed banana, butter, vanilla and evaporated milk. Then
+          mix well with the dry ingredients until a batter forms.
+        tl: >-
+          Sa ibang mangkok, paghaluin ang itlog, dinurog na saging, butter, vanilla at evaporated
+          milk. Saka ihalo nang mabuti sa mga tuyong sangkap hanggang maging batter.
+      - en: Grease the pan with butter and pour in the batter.
+        tl: Pahiran ng butter ang lalagyan at ibuhos ang batter.
+      - en: Steam for 20 to 30 minutes.
+        tl: I-steam nang 20 hanggang 30 minuto.
