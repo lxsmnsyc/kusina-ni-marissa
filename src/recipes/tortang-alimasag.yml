@@ -1,0 +1,76 @@
+title:
+  tl: Tortang Alimasag
+  en: Stuffed Crab Omelette
+summary:
+  tl: Hinimay na alimasag na hinaluan ng gulay at itlog, ibinalik sa shell at prinito.
+  en: Flaked crab mixed with vegetables and egg, stuffed back into the shells and fried.
+category: ulam
+image: photos/tortang-alimasag.png
+tags: [crab, seafood, egg, fried]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { tl: alimasag, en: blue crabs (alimasag) }
+      - amount: 1
+        item: { tl: katamtamang laking carrot, en: medium carrot }
+        note: { tl: hiniwang maliliit na pakuwadrado, en: diced small }
+      - amount: 2
+        item: { tl: itlog, en: eggs }
+        note: { tl: binati, en: beaten }
+      - amount: 1
+        item: { tl: kamatis, en: tomato }
+        note: { tl: hiniwang pino, en: finely chopped }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+        note: { tl: hiniwang pino, en: finely chopped }
+      - amount: 1
+        item: { tl: patatas, en: potato }
+        note: { tl: hiniwang maliliit na pakuwadrado, en: diced small }
+      - amount: 5
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+        note: { tl: hiniwang pino, en: minced }
+      - item: { tl: dahon ng sibuyas, en: green onions }
+        note: { tl: hiniwang maliliit, en: chopped }
+      - amount: 1
+        item: { tl: maliit na red bell pepper, en: small red bell pepper }
+        note: { tl: hiniwang maliliit, en: chopped }
+      - item: { tl: asin, en: salt }
+      - item: { tl: paminta, en: pepper }
+      - item: { tl: mantika, en: cooking oil }
+        note: { tl: pamprito, en: for frying }
+      - item: lemon
+        note: { tl: pang-garnish (optional), en: for garnish (optional) }
+
+review:
+  - The recipe does not say how long to fry the stuffed shells, or whether to fry them filling-side down.
+  - The potato goes in raw at step 5. It may need to be cooked first so it is tender after frying.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Lutuin ang alimasag sa kaunting tubig at asin.
+        en: Cook the crabs in a little salted water.
+      - tl: Pagkaluto, himayin ang laman ng alimasag at itabi ang shell.
+        en: When cooked, pick out the crab meat and keep the shells.
+      - tl: Igisa ang sibuyas, bawang, kamatis at carrots, at i-stir-fry nang isang minuto.
+        en: Sauté the onion, garlic, tomato and carrot for a minute.
+      - tl: Ilagay sa isang mixing bowl.
+        en: Transfer to a mixing bowl.
+      - tl: >-
+          Sa mixing bowl, ihalo ang patatas, red bell pepper, hinimay na alimasag, asin, paminta,
+          dahon ng sibuyas at binating itlog.
+        en: >-
+          Add the potato, bell pepper, crab meat, salt, pepper, green onions and beaten eggs, and
+          mix.
+      - tl: Kapag na-mix nang mabuti, ilagay na po sa shell ng alimasag.
+        en: When well mixed, spoon the filling into the crab shells.
+      - tl: >-
+          Painitin ang isang deep frying pan at lagyan ng mantika. Kapag mainit na ang mantika,
+          ilagay na po ang alimasag.
+        en: Heat oil in a deep frying pan. When hot, fry the stuffed shells.
+      - tl: Kapag luto na, maaari itong lagyan ng dahon ng sibuyas sa ibabaw.
+        en: When cooked, top with green onions.
