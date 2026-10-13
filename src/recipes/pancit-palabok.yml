@@ -1,0 +1,119 @@
+title: Pancit Palabok
+summary:
+  tl: >-
+    Bihon na may malapot na sarsang may giniling, tinapa at chicharon, may itlog, kintsay at
+    piniritong bawang sa ibabaw.
+  en: >-
+    Rice noodles in a thick sauce with ground pork, smoked fish and chicharon, topped with egg,
+    Chinese celery and fried garlic.
+category: kanin-at-pansit
+tags: [noodles, pancit, pork, tinapa]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: { tl: bihon na pang-palabok, en: palabok rice noodles }
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { tl: giniling na baboy, en: ground pork }
+      - amount: 10
+        unit: slice
+        item: loaf bread
+        note:
+          tl: himayin o hiwain nang maliliit at ibabad sa tubig
+          en: torn or cut into small pieces and soaked in water
+      - amount: 1/2
+        unit: cup
+        item: cornstarch
+        note: { tl: tunawin sa 2 cups na tubig, en: dissolved in 2 cups water }
+      - amount: 300
+        unit: g
+        item: { tl: tinapa, en: smoked fish (tinapa) }
+        note: { tl: himayin at alisin ang tinik, en: flaked and deboned }
+      - amount: 1
+        unit: { tl: pakete, en: pack }
+        item: { tl: chicharon baboy, en: pork chicharon }
+        note: { tl: durugin, en: crushed }
+      - amount: 4
+        item: Knorr shrimp cubes
+      - amount: 10
+        item: { tl: nilagang itlog, en: hard-boiled eggs }
+      - amount: 1/2
+        unit: cup
+        item: { tl: achuete oil, en: annatto oil }
+      - amount: 1/2
+        unit: cup
+        item: { tl: kintsay, en: Chinese celery }
+        note: { tl: tinadtad, en: chopped }
+      - amount: 2
+        unit: { tl: ulo, en: head }
+        item: { tl: bawang, en: garlic }
+        note: { tl: dinikdik, en: crushed }
+      - amount: 2
+        item: { tl: malaking sibuyas, en: large onions }
+        note: { tl: hiniwa, en: sliced }
+      - amount: 1/2
+        unit: cup
+        item: { tl: mantika, en: cooking oil }
+      - amount: 1
+        unit: tsp
+        item: { tl: pinong paminta, en: ground pepper }
+      - item: { tl: patis, en: fish sauce }
+        note: { tl: ayon sa panlasa, en: to taste }
+      - item: { tl: asin, en: salt }
+      - item: { tl: dahon ng saging, en: banana leaves }
+        note: optional
+
+review:
+  - No photo was sent with this recipe.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Ibabad ang bihon sa tubig bago ilubog sa kumukulong tubig.
+        en: Soak the noodles in water before cooking them in boiling water.
+      - tl: Sa isang kawali, iprito ang hinimay na tinapa hanggang sa matusta nang bahagya.
+        en: In a pan, fry the flaked smoked fish until lightly toasted.
+      - tl: >-
+          Sa isang talyasi o malaking kawali, iprito ang bawang sa mantika hanggang sa pumula.
+          Hanguin sa isang lalagyan.
+        en: >-
+          In a wide pan or wok, fry the garlic in the oil until golden. Transfer to a bowl.
+      - tl: >-
+          Isunod na ang sibuyas para maigisa. Ilagay na rin ang giniling na baboy at timplahan ng
+          asin at paminta. Halu-haluin hanggang sa mawala ang pagka-pink ng karne.
+        en: >-
+          Sauté the onion in the same oil. Add the ground pork and season with salt and pepper.
+          Stir until the meat is no longer pink.
+      - tl: >-
+          Ilagay na ang kalahati ng tinustang tinapa at kalahati ng dinurog na chicharon. Ilagay na
+          rin ang binabad na loaf bread, shrimp cubes at achuete oil. Ilagay na rin ang tinunaw na
+          cornstarch. (Kapag masyadong malapot, dagdagan ng kaunting tubig. Kapag naman malabnaw,
+          dagdagan ng cornstarch. Kayo na po ang bahalang mag-adjust sa nais ninyong lapot ng
+          sauce.) Timplahan na rin ng patis. Halu-haluin.
+        en: >-
+          Add half the toasted fish and half the crushed chicharon. Add the soaked bread, shrimp
+          cubes and annatto oil, then the dissolved cornstarch. (If it gets too thick, add a little
+          water; if too thin, add more cornstarch. Adjust to the thickness you like.) Season with
+          fish sauce and stir.
+      - tl: Tikman ang sauce at i-adjust ang lasa.
+        en: Taste the sauce and adjust the seasoning.
+      - tl: >-
+          Magpakulo ng tubig sa isang kaserola. Kapag kumulo na, ilagay na ang binabad na bihon.
+          Hayaang maluto at saka i-drain.
+        en: >-
+          Boil water in a pot. When it boils, add the soaked noodles. Cook, then drain.
+      - tl: >-
+          Ihalo ang nilutong bihon sa ginawang palabok sauce. Haluing mabuti hanggang sa ma-coat
+          ng sauce ang lahat ng noodles.
+        en: Toss the cooked noodles in the palabok sauce until all the noodles are coated.
+      - tl: Hanguin sa isang bilao na may dahon ng saging o sa isang lalagyan.
+        en: Transfer to a banana-leaf-lined bilao or a serving dish.
+      - tl: >-
+          Ibudbod sa ibabaw ang natitirang tinapa at chicharon. Ilagay din ang hiniwang nilagang
+          itlog, tinadtad na kintsay at ang piniritong bawang.
+        en: >-
+          Top with the rest of the smoked fish and chicharon, the sliced eggs, chopped Chinese
+          celery and fried garlic.
