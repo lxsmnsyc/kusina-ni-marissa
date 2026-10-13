@@ -1,0 +1,54 @@
+title:
+  en: Kilawing Talaba
+  tl: Kilawing Talaba
+subtitle: { en: Oysters in vinegar, tl: Talaba sa suka }
+summary:
+  en: Fresh oysters marinated in vinegar with garlic, native onions and pepper.
+  tl: Sariwang talaba na ibinabad sa suka na may bawang, sibuyas Tagalog at paminta.
+category: ulam
+image: photos/kilawing-talaba.png
+tags: [oysters, seafood, kilawin, vinegar]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { en: cup, tl: tasa }
+        item: { en: fresh oyster meat, tl: sariwang laman ng talaba }
+      - unit: { en: cup, tl: tasa }
+        item: { en: vinegar, tl: suka }
+      - amount: 3
+        unit: { en: clove, tl: butil }
+        item: { en: garlic, tl: bawang }
+        note: { en: crushed, tl: dinikdik }
+      - amount: 4-5
+        item: { en: native onions (sibuyas Tagalog), tl: sibuyas Tagalog }
+      - amount: 1/2
+        unit: tsp
+        item: { en: peppercorns, tl: buong paminta }
+        note: { en: coarsely pounded, tl: dinikdik nang magaspang }
+      - unit: tsp
+        item: { en: salt, tl: asin }
+
+review:
+  - The vinegar and salt have no amounts ("cup vinegar", "tsp. salt"). The numbers were probably lost when the text was copied.
+  - The text looks scanned from a printed cookbook ("sibuvas-taga/og", "5.ho,urs"), so it may not be Marissa's own. Check before publishing publicly.
+  - "Food safety: the oysters are eaten raw unless boiled. Only use very fresh oysters from a trusted source."
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: Slice the onions into thin rings.
+        tl: Hiwain nang manipis at pabilog ang sibuyas.
+      - en: Add the garlic, salt and pepper to the vinegar.
+        tl: Ilagay ang bawang, asin at paminta sa suka.
+      - en: Add the oysters. Let stand for 2 to 3 hours.
+        tl: Idagdag ang talaba. Hayaan nang 2 hanggang 3 oras.
+
+notes:
+  - en: >-
+      If you plan to serve it 5 or more hours later, bring it to a boil over high heat and remove
+      it from the heat right away, or the oysters will shrink to the size of peas.
+    tl: >-
+      Kung ihahain 5 oras o higit pa pagkatapos, pakuluan sa malakas na apoy at alisin agad sa apoy,
+      kung hindi ay liliit ang talaba na kasinlaki ng gisantes.
