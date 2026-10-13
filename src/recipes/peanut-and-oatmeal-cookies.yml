@@ -1,0 +1,66 @@
+title: Peanut and Oatmeal Cookies
+summary:
+  en: Chewy oatmeal cookies with brown sugar, a little corn syrup and crushed peanuts.
+  tl: Oatmeal cookies na may brown sugar, kaunting corn syrup at dinurog na mani.
+category: panghimagas
+image: photos/peanut-and-oatmeal-cookies.png
+tags: [cookies, oats, peanuts, baked]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 2 1/4
+        unit: cup
+        item: all-purpose flour
+      - amount: 1
+        unit: tsp
+        item: baking soda
+      - amount: 1/4
+        unit: tsp
+        item: { en: salt, tl: asin }
+        note: { en: Marissa uses ½ tsp, tl: ½ tsp ang gamit ni Marissa }
+      - amount: 1 1/4
+        unit: cup
+        item: { en: rolled oats, tl: oats }
+        note: { en: such as Quaker, tl: gaya ng Quaker }
+      - amount: 3/4
+        unit: cup
+        item: { en: dark brown sugar, tl: dark brown sugar }
+      - amount: 3/4
+        unit: cup
+        item: { en: white sugar, tl: puting asukal }
+      - amount: 1
+        unit: cup
+        item: margarine
+      - amount: 2
+        unit: tbsp
+        item: corn syrup
+      - amount: 2
+        item: { en: eggs, tl: itlog }
+      - amount: 1/2
+        unit: cup
+        item: { en: peanuts, tl: mani }
+        note: { en: crushed, tl: dinurog }
+
+review:
+  - The recipe does not say how big to make each cookie or how to shape them.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: Preheat the oven to 350 °F (175 °C).
+        tl: Painitin ang oven sa 350 °F (175 °C).
+      - en: Cream the margarine and both sugars for 5 minutes.
+        tl: I-cream ang margarine at ang dalawang klase ng asukal nang 5 minuto.
+      - en: Add the eggs and corn syrup.
+        tl: Ilagay ang itlog at corn syrup.
+      - en: >-
+          Add the flour, baking soda, salt and oats. Mix on the lowest speed (no. 1); do not
+          overmix.
+        tl: >-
+          Ilagay ang harina, baking soda, asin at oats. Haluin sa pinakamabagal na speed (no. 1);
+          huwag i-overmix.
+      - en: Add the crushed peanuts.
+        tl: Ilagay ang dinurog na mani.
+      - en: Bake for 10 to 15 minutes.
+        tl: I-bake nang 10 hanggang 15 minuto.
