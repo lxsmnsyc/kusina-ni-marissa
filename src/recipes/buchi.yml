@@ -1,0 +1,44 @@
+title: Buchi
+summary:
+  en: Fried sesame balls made from glutinous rice flour and mashed sweet potato.
+  tl: Pritong bilog na may linga, gawa sa malagkit na harina at dinurog na kamote.
+category: merienda
+image: photos/buchi.png
+tags: [buchi, kamote, sesame, fried]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { en: glutinous rice flour, tl: malagkit na harina }
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { en: white sugar, tl: puting asukal }
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: { en: sweet potato (kamote), tl: kamote }
+        note: { en: boiled and mashed, tl: nilaga at dinurog }
+      - item: { en: sesame seeds, tl: linga }
+      - item: { en: water, tl: tubig }
+        note: { en: for dipping, tl: pang-dip }
+      - item: { en: cooking oil, tl: mantika }
+        note: { en: for deep-frying, tl: pamprito }
+  - title: { en: Optional filling, tl: Opsyonal na palaman }
+    items:
+      - item: { en: "jackfruit (langka), ube or mango", tl: "langka, ube o mangga" }
+
+review:
+  - The recipe does not say how big to make the balls or how to add the optional filling.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: Combine the flour, sugar and mashed sweet potato.
+        tl: Paghaluin ang malagkit na harina, asukal at dinurog na kamote.
+      - en: Shape into balls. Add a filling in the center if you like.
+        tl: Bilugin. Lagyan ng palaman sa gitna kung nais.
+      - en: Dip each ball in a bowl of water, then roll it in sesame seeds.
+        tl: Isawsaw ang bawat bola sa isang mangkok ng tubig, saka i-roll sa linga.
+      - en: Deep-fry over medium heat until golden brown.
+        tl: I-deep fry sa katamtamang apoy hanggang pumula.
