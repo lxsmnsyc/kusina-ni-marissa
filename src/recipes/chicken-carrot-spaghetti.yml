@@ -1,0 +1,55 @@
+title: Chicken Carrot Spaghetti
+summary:
+  tl: Spaghetti na may sweet-style na sauce, manok at ginadgad na carrots.
+  en: Spaghetti in a sweet-style sauce with diced chicken and grated carrot.
+category: kanin-at-pansit
+image: photos/chicken-carrot-spaghetti.png
+tags: [pasta, spaghetti, chicken]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 3
+        unit: { tl: ulo, en: head }
+        item: { tl: bawang, en: garlic }
+        note: { tl: dinikdik at pino, en: crushed and minced }
+      - amount: 2
+        unit: tbsp
+        item: { tl: sibuyas, en: onion }
+        note: { tl: pino, en: finely chopped }
+      - amount: 1/2
+        unit: cup
+        item: { tl: karne ng manok, en: chicken meat }
+        note: { tl: "130 g, hiniwang pakuwadrado", en: "130 g, diced" }
+      - amount: 1
+        item: carrot
+        note: { tl: "80 g, ginadgad nang magaspang", en: "80 g, coarsely grated" }
+      - amount: 1/4
+        unit: cup
+        item: { tl: tubig, en: water }
+      - amount: 1
+        unit: { tl: pakete, en: pack }
+        item: spaghetti pasta
+        note: 175 g
+      - amount: 1
+        unit: pouch
+        item: sweet-style spaghetti sauce
+        note: 250 g
+      - item: { tl: asin, en: salt }
+        note: { tl: ayon sa panlasa, en: to taste }
+
+review:
+  - The gram weights in parentheses ("1 pc (80 grams) Carrots", "1 pouch (250 grams)") look like a package or brand recipe, so the text may not be Marissa's own. The photo looks like hers. Check before publishing publicly.
+  - 3 ulo ng bawang (3 heads of garlic) is a lot for this amount. It may mean 3 butil (cloves).
+  - The photo shows grated cheese on top, but cheese is not in the recipe.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Igisa ang bawang, sibuyas, manok at carrots.
+        en: Sauté the garlic, onion, chicken and carrot.
+      - tl: >-
+          Ilagay ang spaghetti sauce, ¼ cup na tubig at asin ayon sa panlasa. Takpan at pakuluin.
+        en: Add the spaghetti sauce, ¼ cup water and salt to taste. Cover and simmer.
+      - tl: Kapag luto na, ilagay na sa nalutong pasta.
+        en: When done, pour over the cooked pasta.
