@@ -1,0 +1,58 @@
+title: Mamon
+subtitle: Sponge cake
+summary:
+  tl: Malambot na butter sponge cake na may butter at keso sa ibabaw.
+  en: Soft butter sponge cakes brushed with butter and topped with grated cheese.
+category: merienda
+image: photos/mamon.png
+tags: [cake, baked, cheese]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: stick
+        item: butter
+      - amount: 2/3
+        unit: cup
+        item: all-purpose flour
+      - amount: 2/3
+        unit: cup
+        item: { tl: asukal, en: sugar }
+      - amount: 1
+        unit: tsp
+        item: baking powder
+      - amount: 1
+        unit: tsp
+        item: vanilla
+      - amount: 3
+        item: { tl: itlog, en: eggs }
+  - title: { tl: Pang-ibabaw (optional), en: Topping (optional) }
+    items:
+      - item: butter
+      - item: { tl: keso, en: cheese }
+        note: { tl: ginadgad, en: grated }
+
+review:
+  - Steps 3 and 4 both add the flour and baking powder. They probably mean to mix the dry ingredients first (step 3), then sift them into the batter (step 4).
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Painitin ang oven sa 350°F (177°C).
+        en: Preheat the oven to 350°F (177°C).
+      - tl: Pagsamahin ang butter, asukal at vanilla gamit ang hand mixer.
+        en: Cream the butter, sugar and vanilla with a hand mixer.
+      - tl: Ilagay ang itlog nang isa-isa at i-mix.
+        en: Add the eggs one at a time, mixing after each.
+      - tl: Pagsamahin ang all-purpose flour at baking powder, at i-mix nang mabuti.
+        en: Combine the flour and baking powder and mix well.
+      - tl: >-
+          Salain ang harina at baking powder papasok sa egg mixture, at i-fold.
+        en: Sift the flour mixture into the egg mixture and fold it in.
+      - tl: Isalin na po sa mga lalagyan.
+        en: Pour into molds.
+      - tl: I-bake nang 25 minuto.
+        en: Bake for 25 minutes.
+      - tl: Pagkaluto, pahiran ng butter ang ibabaw at gadgaran ng keso kung nais.
+        en: When done, brush the tops with butter and sprinkle with grated cheese if you like.
