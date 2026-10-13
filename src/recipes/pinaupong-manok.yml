@@ -1,0 +1,98 @@
+title: Pinaupong Manok
+subtitle: { en: Salt-roasted sitting chicken, tl: Manok na nakaupo sa asin }
+summary:
+  en: >-
+    A whole chicken stuffed with lemongrass, onion, garlic and ginger, cooked sitting up on a bed of
+    rock salt and banana leaves, served with a buttery lemon sauce.
+  tl: >-
+    Buong manok na pinalamanan ng tanglad, sibuyas, bawang at luya, niluto nang nakaupo sa asin at
+    dahon ng saging, at inihain kasama ng sarsang may butter at lemon.
+category: ulam
+tags: [chicken, roasted, lemongrass, turbo broiler]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        item: { en: whole chicken, tl: buong manok }
+        note: { en: size 14–16, tl: size 14–16 }
+      - amount: 2
+        item: { en: onions, tl: sibuyas }
+        note: { en: quartered, tl: hiniwa sa apat }
+      - amount: 1
+        unit: { tl: ulo, en: head }
+        item: { en: garlic, tl: bawang }
+        note: { en: pounded with the skin on, tl: dinikdik nang may balat }
+      - amount: 1/2
+        unit: { tl: hinlalaki, en: thumb-sized piece }
+        item: { en: ginger, tl: luya }
+        note: { en: minced, tl: tinadtad }
+      - amount: 3
+        unit: { tl: tangkay, en: stalk }
+        item: { en: lemongrass, tl: tanglad }
+      - item: { en: freshly ground black pepper, tl: bagong giling na paminta }
+      - item: { en: salt, tl: asin }
+      - amount: 3
+        unit: { tl: tasa, en: cup }
+        item: { en: rock salt, tl: magaspang na asin }
+      - item: { en: banana leaves, tl: dahon ng saging }
+  - title: { en: Sauce, tl: Sarsa }
+    items:
+      - amount: 3
+        unit: tbsp
+        item: { en: melted butter, tl: tinunaw na butter }
+      - amount: 3
+        unit: tbsp
+        item: { en: lemon juice, tl: katas ng lemon }
+      - amount: 3
+        unit: tbsp
+        item: { en: chicken drippings, tl: katas ng manok }
+        note:
+          en: from resting the chicken, not from the bottom of the pot
+          tl: mula sa pinahingang manok, hindi mula sa ilalim ng kaserola
+      - amount: 1
+        unit: tsp
+        item: { en: ginger paste, tl: dinikdik na luya }
+      - amount: 3
+        unit: { tl: butil, en: clove }
+        item: { en: garlic, tl: bawang }
+        note: { en: minced, tl: tinadtad }
+      - item: { en: salt, tl: asin }
+
+review:
+  - No photo was provided.
+  - Step 1 rubs the chicken with garlic, but the recipe does not say which garlic. It is probably some of the pounded head.
+  - The original "1 whole garlic" was read as 1 head of garlic.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: >-
+          Rub the chicken generously inside and out with salt, garlic and freshly ground black
+          pepper.
+        tl: >-
+          Kuskusing mabuti ng asin, bawang at bagong giling na paminta ang loob at labas ng manok.
+      - en: Stuff the cavity with the onions, lemongrass, garlic and ginger.
+        tl: Palamanan ang loob ng manok ng sibuyas, tanglad, bawang at luya.
+      - en: >-
+          Spread the rock salt in the bottom of a clay pot and cover it with banana leaves. Sit the
+          chicken upright on the leaves, making sure it does not touch the sides of the pot. Cook
+          over an open flame for 2 to 2½ hours, or until the chicken is tender.
+        tl: >-
+          Ilatag ang magaspang na asin sa ilalim ng palayok at takpan ng dahon ng saging. Iupo ang
+          manok sa ibabaw ng dahon, at siguraduhing hindi ito dumidikit sa gilid ng palayok.
+          Lutuin sa apoy nang 2 hanggang 2½ oras, o hanggang lumambot ang manok.
+      - en: >-
+          When cooked, set the chicken on a wire rack to cool, with a container underneath to catch
+          the juices.
+        tl: >-
+          Kapag luto na, ilagay ang manok sa wire rack para lumamig, at saluhin ang katas nito sa
+          isang lalagyan.
+      - en: Combine all the sauce ingredients in a saucepan and simmer over low heat for 5 minutes.
+        tl: Pagsamahin sa isang kaserola ang lahat ng sangkap ng sarsa at lutuin sa mahinang apoy nang 5 minuto.
+      - en: Transfer the chicken to a serving plate and serve with the sauce for dipping.
+        tl: Ilipat ang manok sa isang plato at ihain kasama ng sarsa.
+
+notes:
+  - en: With the same ingredients, you can cook it in a turbo broiler at 180 °C for 1 hour and 20 minutes.
+    tl: Sa parehong sangkap, puwede rin itong lutuin sa turbo broiler sa 180 °C nang 1 oras at 20 minuto.
