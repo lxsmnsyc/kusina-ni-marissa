@@ -1,0 +1,75 @@
+title: Cathedral Window
+subtitle: { tl: Sariling bersyon, en: Own version }
+summary:
+  tl: Makukulay na cubes ng gulaman sa puting gulaman na may gatas at cream.
+  en: Colorful gelatin cubes set in a creamy white milk gelatin.
+category: panghimagas
+image: photos/cathedral-window.png
+tags: [gulaman, gelatin, no-bake]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 3
+        unit: { tl: pakete, en: pack }
+        item: flavored gulaman
+        note:
+          tl: kung Mr. Gulaman, tig-½ lang ng 1 pakete
+          en: if using Mr. Gulaman, use only ½ pack of each
+      - amount: 2
+        unit: { tl: pakete, en: pack }
+        item: white gulaman
+      - amount: 1
+        unit: big can
+        item: condensed milk
+      - amount: 1
+        item: evaporated milk
+      - amount: 1
+        unit: cup
+        item: pineapple juice
+      - amount: 1
+        unit: { tl: kahon, en: box }
+        item: all-purpose cream
+        note: 250 ml
+      - amount: 2
+        unit: tbsp
+        item: vanilla
+      - amount: 1
+        unit: cup
+        item: { tl: asukal, en: sugar }
+
+review:
+  - '"1 evap milk" has no unit. It probably means 1 can.'
+  - Step 2 uses 6 cups of boiling water, and step 1 needs water for the flavored gulaman, but water is not in the ingredient list.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          Lutuin ang mga flavored gelatin (red, green, yellow) nang bukod. Pag naluto na, hiwain
+          nang pa-cubes. Set aside, o ilagay na sa mga llanera, lagyan ng bawat kulay.
+        en: >-
+          Cook each flavored gelatin (red, green, yellow) separately. When set, cut into cubes. Set
+          aside, or divide the colors among the llaneras.
+      - tl: >-
+          Lutuin ang white gulaman sa kumukulong tubig (6 cups). Then pag tunaw na tunaw na ang
+          gulaman, ilagay ang juice, milk, all-purpose cream, vanilla at sugar, at haluing mabuti
+          hanggang sa ma-mix nang mabuti ang lahat ng ingredients.
+        en: >-
+          Cook the white gulaman in 6 cups of boiling water. When it has fully dissolved, add the
+          juice, milk, all-purpose cream, vanilla and sugar, and stir until everything is well
+          mixed.
+      - tl: Pag malapit nang kumulo at may mga bula na sa gilid, patayin na ang apoy.
+        en: When it is about to boil and bubbles form around the edge, turn off the heat.
+      - tl: >-
+          Salain, at pagkasala, palamigin sandali at ilagay na sa mga llanera. Palamigin hanggang sa
+          mabuo na ito.
+        en: >-
+          Strain it, let it cool briefly, then pour it into the llaneras over the cubes. Let it cool
+          until set.
+      - tl: Ilagay na sa ref to chill. Kung walang ref po, puwede rin.
+        en: Chill in the refrigerator. If you have no refrigerator, it will still set.
+
+notes:
+  - tl: Puwede po kayong mag-adjust ng ingredients ayon sa inyong panlasa.
+    en: Feel free to adjust the ingredients to your taste.
