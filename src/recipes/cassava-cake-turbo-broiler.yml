@@ -1,0 +1,52 @@
+title: Cassava Cake in Turbo Broiler
+summary:
+  tl: Cassava cake na may condensed milk at macapuno, niluto sa turbo broiler.
+  en: Cassava cake with condensed milk and macapuno, cooked in a turbo broiler.
+category: merienda
+image: photos/cassava-cake-turbo-broiler.png
+tags: [cassava, macapuno, kakanin, turbo broiler]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 2
+        unit: { tl: kilo, en: kg }
+        item: { tl: kamoteng kahoy (cassava), en: cassava }
+        note: { tl: ginadgad, en: grated }
+      - amount: 3
+        item: condensed milk
+      - amount: 1
+        unit: { tl: garapon, en: jar }
+        item: sweet macapuno
+      - amount: 1/2
+        unit: cup
+        item: { tl: butter o margarine, en: butter or margarine }
+        note: { tl: tinunaw, en: melted }
+
+review:
+  - '"3 condensed milk" has no unit. It probably means 3 cans (1½ in the batter, 1½ on top).'
+  - 250°C is very hot for a turbo broiler. It may mean a lower setting. Check the temperature.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Ilagay ang margarine sa kamoteng kahoy at i-mix nang mabuti.
+        en: Add the melted margarine to the cassava and mix well.
+      - tl: Ilagay ang 1½ condensed milk at i-mix uli.
+        en: Add 1½ of the condensed milk and mix again.
+      - tl: Pahiran ng margarine ang parchment paper bago ilagay ang batter sa pan.
+        en: Grease parchment paper with margarine before putting the batter in the pan.
+      - tl: >-
+          Kapag nailagay na, lagyan ng macapuno sa ibabaw at isalang na sa turbo nang 30 minutes sa
+          250°C.
+        en: >-
+          Once it is in the pan, top with macapuno and cook in the turbo broiler for 30 minutes at
+          250°C.
+      - tl: After 30 minutes, lagyan ng condensed milk ang ibabaw nang paikot.
+        en: After 30 minutes, drizzle condensed milk around the top.
+      - tl: At isalang nang mga 2 minutes.
+        en: Cook for about 2 more minutes.
+      - tl: After 2 minutes, alisin at palamigin.
+        en: After 2 minutes, take it out and let it cool.
+      - tl: Lagyan ng macapuno para sa toppings.
+        en: Top with more macapuno.
