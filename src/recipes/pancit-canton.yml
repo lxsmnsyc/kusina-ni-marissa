@@ -1,0 +1,98 @@
+title: Pancit Canton
+summary:
+  tl: Pansit canton na may hipon, manok, atay ng manok, kabute at gulay.
+  en: Egg noodles stir-fried with shrimp, chicken, chicken liver, mushrooms and vegetables.
+category: kanin-at-pansit
+tags: [noodles, pancit, shrimp, chicken]
+servings: 6
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/2
+        unit: lb
+        item: { tl: sugpo, en: prawns }
+        note: { tl: tinalupan at tinanggalan ng ugat, en: peeled and deveined }
+      - amount: 1
+        item: { tl: puti ng itlog, en: egg white }
+      - amount: 2
+        unit: { tl: kutsara, en: tbsp }
+        item: cornstarch
+        note: { tl: para sa sugpo at manok, en: for the prawns and chicken }
+      - amount: 1
+        item: { tl: dibdib ng manok, en: chicken breast }
+        note: { tl: "boneless, hiniwa", en: "boneless, sliced" }
+      - amount: 3
+        unit: { tl: kutsara, en: tbsp }
+        item: { tl: mantika, en: cooking oil }
+      - amount: 3
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+        note: { tl: tinalupan at pinukpok, en: peeled and crushed }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+        note: { tl: tinadtad, en: chopped }
+      - item: { tl: patis o toyo, en: fish sauce or soy sauce }
+        note: { tl: ayon sa panlasa, en: to taste }
+      - item: { tl: itim na paminta, en: black pepper }
+        note: { tl: ayon sa panlasa, en: to taste }
+      - amount: 2
+        item: { tl: atay ng manok, en: chicken livers }
+        note: { tl: pinakuluan at hiniwa, en: boiled and sliced }
+      - amount: 1 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: sabaw ng manok, en: chicken broth }
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: { tl: tuyong itim na kabute, en: dried black mushrooms }
+        note:
+          tl: ibinabad sa mainit na tubig nang 20 minuto, inalisan ng tangkay, at hiniwa
+          en: soaked in hot water for 20 minutes, stemmed and sliced
+      - amount: 1
+        item: { tl: maliit na carrot, en: small carrot }
+        note: { tl: hiniwa, en: sliced }
+      - amount: 2
+        unit: { tl: kutsara, en: tbsp }
+        item: cornstarch
+        note: { tl: tinunaw sa ¼ tasang tubig, en: dissolved in ¼ cup water }
+      - amount: 1
+        unit: { tl: pakete, en: pack }
+        item: { tl: tuyong canton noodles, en: dried egg noodles (canton) }
+        note: ½ lb
+      - item: { tl: kalamansi, en: calamansi }
+        note: { tl: "o dayap o lemon, hiniwa", en: "or lime or lemon, sliced" }
+
+review:
+  - No photo was sent with this recipe.
+  - The original Tagalog reads like a machine translation of an English recipe ("isdang sarsa", "Intsik itlog na bihon", "Magkasiya sa anim"), so this may be copied. The Tagalog was rewritten into natural wording. Check before publishing publicly.
+  - The original ends with "Magkasiya sa anim" (serves six). Recorded as 6 servings.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          Sa isang mangkok, haluin ang sugpo, puti ng itlog at 1 kutsarang cornstarch. Pahiran ang
+          manok ng 1 kutsarang cornstarch. Itabi.
+        en: >-
+          In a bowl, mix the prawns with the egg white and 1 tbsp cornstarch. Coat the chicken with
+          1 tbsp cornstarch. Set aside.
+      - tl: Sa wok o kawali, initin ang mantika at igisa ang bawang at sibuyas.
+        en: In a wok or pan, heat the oil and sauté the garlic and onion.
+      - tl: >-
+          Idagdag ang sugpo at manok. Igisa nang ilang minuto, saka timplahan ayon sa panlasa.
+          Idagdag ang atay.
+        en: >-
+          Add the prawns and chicken. Stir-fry for a few minutes, then season to taste. Add the
+          chicken livers.
+      - tl: >-
+          Ibuhos ang sabaw at pakuluan. Idagdag ang lahat ng gulay at lutuin hanggang malambot pero
+          malutong pa.
+        en: >-
+          Pour in the broth and bring to a boil. Add all the vegetables and cook until tender but
+          still crisp.
+      - tl: Palaputin gamit ang tinunaw na cornstarch.
+        en: Thicken with the dissolved cornstarch.
+      - tl: Idagdag ang noodles, haluin at lutuin hanggang maluto.
+        en: Add the noodles, toss and cook until done.
+      - tl: Ihain sa bandehado at palibutan ng hiniwang kalamansi o lemon.
+        en: Serve on a platter surrounded by calamansi or lemon slices.
