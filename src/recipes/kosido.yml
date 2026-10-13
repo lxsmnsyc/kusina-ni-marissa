@@ -1,0 +1,63 @@
+title: Kosido
+summary:
+  tl: Nilagang baboy at baka na may chorizo, garbanzos, patatas at gulay.
+  en: A stew of pork and beef with chorizo, chickpeas, potatoes and vegetables.
+category: sabaw
+tags: [pork, beef, chorizo, stew]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/4
+        unit: { tl: kilo, en: kg }
+        item: { tl: karneng baboy na may taba, en: fatty pork }
+      - amount: 1/4
+        unit: { tl: kilo, en: kg }
+        item: { tl: karneng baka, en: beef }
+      - amount: 2
+        item: { tl: tsoriso, en: chorizo }
+        note: { tl: hiniwang manipis, en: thinly sliced }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: garbanzos, en: chickpeas }
+      - amount: 2
+        item: { tl: sibuyas, en: onions }
+      - amount: 6
+        item: { tl: dahon ng petsay, en: pechay leaves }
+      - amount: 6
+        item: { tl: dahon ng repolyo, en: cabbage leaves }
+      - amount: 4
+        item: { tl: patatas, en: potatoes }
+      - amount: 1/4
+        unit: { tl: kilo, en: kg }
+        item: { tl: bitsuelas, en: green beans }
+      - amount: 1
+        item: carrot
+      - item: { tl: paminta, en: pepper }
+      - item: { tl: toyo, en: soy sauce }
+      - item: { tl: tubig na pinagbabaran ng atsuete, en: annatto water }
+      - item: { tl: tubig, en: water }
+
+review:
+  - No photo was sent with this recipe.
+  - The patatas is listed twice ("4 na patatas" and "2 patatas"). Recorded once as 4.
+  - '"1/4 bitsuelas" has no unit. Recorded as ¼ kilo.'
+  - The paminta, toyo and atsuete water are used in the steps but were not in the ingredient list. They were added.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Pakuluan ang karneng baboy at baka, at ilaga hanggang lumambot.
+        en: Boil the pork and beef and simmer until tender.
+      - tl: Ilagay ang tsoriso, sibuyas at garbanzos.
+        en: Add the chorizo, onions and chickpeas.
+      - tl: Ilagay ang patatas at carrot, at pakuluin.
+        en: Add the potatoes and carrot and bring to a boil.
+      - tl: Ilagay ang bitsuelas. Isunod na ang dahon ng petsay at repolyo.
+        en: Add the green beans, then the pechay and cabbage leaves.
+      - tl: Timplahan ng paminta at toyo, at pakuluin hanggang lumambot.
+        en: Season with pepper and soy sauce and simmer until tender.
+      - tl: Ilagay ang tubig na pinagbabaran ng atsuete.
+        en: Add the annatto water.
+      - tl: Alisin sa lutuan kapag malambot na ang karne.
+        en: Remove from the heat once the meat is tender.
