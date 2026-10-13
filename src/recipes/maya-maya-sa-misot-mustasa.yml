@@ -1,0 +1,69 @@
+title:
+  tl: Maya-Maya sa Miso't Mustasa
+  en: Red Snapper in Miso and Mustard Greens
+summary:
+  tl: Maya-maya sa maasim na sabaw na may miso, mustasa, labanos at siling pang-sigang.
+  en: Red snapper in a sour miso broth with mustard greens, radish and long green chilies.
+category: sabaw
+image: photos/maya-maya-sa-misot-mustasa.png
+tags: [fish, maya-maya, miso, sour]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        item: { tl: maya-maya, en: red snapper (maya-maya) }
+        note: { tl: katamtamang laki, en: medium size }
+      - amount: 2
+        item: { tl: kamatis, en: tomatoes }
+        note: { tl: hiniwang maliliit, en: chopped }
+      - amount: 2
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+        note: { tl: pinitpit, en: crushed }
+      - amount: 6
+        item:
+          { tl: dahon ng burong mustasa o sariwang mustasa, en: pickled or fresh mustard leaves }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+        note: { tl: hiniwang maliliit, en: chopped }
+      - amount: 1
+        item: { tl: labanos, en: radish }
+        note: { tl: hiniwa, en: sliced }
+      - amount: 2
+        item: { tl: siling pang-sigang, en: long green chilies }
+      - amount: 1
+        unit: { tl: maliit na pakete, en: small pack }
+        item: { tl: sinigang sa sampalok mix, en: tamarind soup mix }
+      - amount: 3
+        unit: { tl: kutsara, en: tbsp }
+        item: miso
+      - amount: 2
+        unit: { tl: kutsara, en: tbsp }
+        item: { tl: mantika, en: cooking oil }
+      - item: { tl: asin, en: salt }
+
+review:
+  - Water is not listed, though the dish has a broth.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          Alisin ang lansa ng isda sa pamamagitan ng asin. Alisan ng hasang at mga palikpik.
+        en: Rub the fish with salt to remove the fishy smell. Remove the gills and fins.
+      - tl: Hugasan at gilitin ayon sa nais na laki, at asinan nang bahagya.
+        en: Wash and cut into pieces of any size, then salt lightly.
+      - tl: Hiwaing maliliit ang sibuyas at kamatis, at pitpitin ang bawang.
+        en: Chop the onion and tomatoes, and crush the garlic.
+      - tl: >-
+          Magsalang ng kawali at lagyan ng kaunting mantika. Isunod ang bawang, ang sibuyas, ang
+          kamatis at miso. Pakuluin.
+        en: >-
+          Heat a pan with a little oil. Add the garlic, onion, tomatoes and miso. Bring to a boil.
+      - tl: Ilagay ang sinigang mix at labanos.
+        en: Add the tamarind soup mix and radish.
+      - tl: Pagkulo, ilagay ang mustasa at sili. Isunod ang isda.
+        en: When it boils, add the mustard leaves and chilies, then the fish.
+      - tl: Timplahan ng asin ayon sa panlasa.
+        en: Season with salt to taste.
