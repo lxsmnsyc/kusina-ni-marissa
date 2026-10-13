@@ -1,0 +1,74 @@
+title: No-Bake Oreo Cheesecake
+summary:
+  tl: Cheesecake na may Oreo crust at Oreo sa loob, hindi na kailangang i-bake.
+  en: A no-bake cheesecake with an Oreo crust and Oreo pieces folded into the filling.
+category: panghimagas
+image: photos/no-bake-oreo-cheesecake.png
+tags: [cheesecake, oreo, no-bake]
+addedOn: "2026-10-13"
+
+ingredients:
+  - title: { tl: Para sa base, en: For the base }
+    items:
+      - amount: 16
+        item: Oreo cookies
+        note: { tl: dinurog, en: crushed }
+      - amount: 4
+        unit: tbsp
+        item: butter
+        note: { tl: tinunaw, en: melted }
+  - title: { tl: Para sa filling, en: For the filling }
+    items:
+      - amount: 2
+        unit: { tl: kahon, en: box }
+        item: whipping cream
+        note:
+          tl: 250 ml bawat isa, o 2 kahon ng all-purpose cream (kung Nestlé, i-chill nang magdamag)
+          en: 250 ml each, or 2 boxes all-purpose cream (if using Nestlé, chill overnight)
+      - amount: 200
+        unit: g
+        item: cream cheese
+      - amount: 6
+        unit: tbsp
+        item: confectioners' sugar
+      - amount: 1
+        unit: tsp
+        item: vanilla
+      - amount: 8
+        item: Oreo cookies
+        note: { tl: kinapiraso, en: broken into pieces }
+
+review:
+  - The decorations on top and sides are not listed.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          I-fold ang tinunaw na butter sa dinurog na Oreo hanggang maghalo nang mabuti at maging
+          parang basang buhangin. Ito ang base. Ilagay sa isang 6 × 6 na springform pan.
+        en: >-
+          Mix the melted butter into the crushed Oreos until it looks like wet sand. Press this base
+          into a 6 × 6 inch springform pan.
+      - tl: >-
+          Isunod po nating i-beat ang whipping cream nang mga 3 hanggang 5 minuto, hanggang sa
+          dumoble ang volume. Kung Nestlé cream po ang gagamitin, i-chill po muna nang magdamag sa
+          ref. Itabi muna.
+        en: >-
+          Beat the whipping cream for 3 to 5 minutes until doubled in volume. If using Nestlé
+          cream, chill it overnight first. Set aside.
+      - tl: >-
+          Isunod po natin ang cream cheese, then idagdag ang sugar at vanilla. I-mix po nating
+          mabuti gamit ang mixer.
+        en: Beat the cream cheese with the sugar and vanilla using a mixer until smooth.
+      - tl: Ilagay na rin po natin ang whipping cream sa cream cheese mixture at i-mix po ulit.
+        en: Add the whipped cream to the cream cheese mixture and mix again.
+      - tl: >-
+          Ilagay na rin po natin ang kinapirasong Oreo at i-fold po sa mixture. Ilagay na po sa
+          pan sa ibabaw ng base at i-chill muna po sa ref nang ilang oras.
+        en: >-
+          Fold in the broken Oreos. Spread the filling over the base and chill for a few hours.
+      - tl: >-
+          Kapag okay na po, alisin na po natin sa pan, at puwede na po nating lagyan ng decorations
+          sa ibabaw at gilid.
+        en: When set, remove it from the pan and decorate the top and sides.
