@@ -1,0 +1,87 @@
+title:
+  tl: Relyenong Pusit
+  en: Stuffed Squid
+summary:
+  tl: Pusit na pinalamanan ng giniling na baboy at gulay, binalot sa itlog at harina at prinito.
+  en: Squid stuffed with ground pork and vegetables, coated in egg and flour and pan-fried.
+category: ulam
+image: photos/relyenong-pusit.png
+tags: [squid, seafood, ground pork, fried]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { tl: pusit, en: squid }
+        note: { tl: nilinis, en: cleaned }
+      - amount: 1/4
+        unit: lb
+        item: { tl: giniling na baboy, en: ground pork }
+      - amount: 1
+        item: { tl: katamtamang laking carrot, en: medium carrot }
+        note: { tl: hiniwang pino, en: finely diced }
+      - amount: 1
+        item: { tl: katamtamang laking patatas, en: medium potato }
+        note: { tl: hiniwang pino, en: finely diced }
+      - amount: 2
+        unit: { tl: tangkay, en: stalk }
+        item: { tl: kintsay, en: Chinese celery }
+        note: { tl: tinadtad nang pino, en: finely chopped }
+      - amount: 1
+        item: { tl: katamtamang laking sibuyas, en: medium onion }
+        note: { tl: hiniwang pino, en: finely chopped }
+      - amount: 4
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+        note: { tl: hiniwang pino, en: minced }
+      - amount: 1
+        item: { tl: katamtamang laking kamatis, en: medium tomato }
+        note: { tl: hiniwang pino, en: finely chopped }
+      - amount: 1
+        item: lemon
+        note: { tl: kinatas, en: juiced }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: toyo, en: soy sauce }
+      - item: { tl: asin, en: salt }
+      - item: { tl: paminta, en: pepper }
+      - amount: 2
+        item: { tl: itlog, en: eggs }
+        note: { tl: binati, en: beaten }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: all-purpose flour
+      - amount: 10
+        unit: tbsp
+        item: { tl: mantika, en: cooking oil }
+      - item: toothpick
+
+review:
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: I-marinate ang pusit sa toyo at katas ng lemon nang 30 minuto.
+        en: Marinate the squid in the soy sauce and lemon juice for 30 minutes.
+      - tl: Igisa ang bawang, sibuyas, kamatis at kintsay.
+        en: Sauté the garlic, onion, tomato and Chinese celery.
+      - tl: Ilagay ang giniling at lutuin.
+        en: Add the ground pork and cook.
+      - tl: Idagdag ang carrots at patatas, at timplahan ng asin at paminta.
+        en: Add the carrot and potato, and season with salt and pepper.
+      - tl: >-
+          Kapag luto na, palamigin. Isama ang kalahati ng binating itlog, at palamanan na ang pusit.
+        en: When cooked, let cool. Mix in half the beaten egg, then stuff the squid.
+      - tl: Lagyan ng toothpick ang bukas na bahagi.
+        en: Close the open end with a toothpick.
+      - tl: Pagulungin sa itlog at sa harina.
+        en: Roll in the remaining egg, then in flour.
+      - tl: Magpainit ng mantika at i-pan-fry na ang pusit.
+        en: Heat the oil and pan-fry the squid.
+      - tl: Lutuin ang magkabilang bahagi nang 3 minuto.
+        en: Cook each side for 3 minutes.
+
+notes:
+  - tl: Huwag i-overcook ang pusit upang manatiling malambot at hindi makunat.
+    en: Do not overcook the squid, so it stays tender and not rubbery.
