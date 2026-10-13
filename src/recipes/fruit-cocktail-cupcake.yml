@@ -1,0 +1,55 @@
+title: Fruit Cocktail Cupcake
+summary:
+  tl: Steamed cupcake na may keso at fruit cocktail sa loob at ibabaw.
+  en: Steamed cheese cupcakes made with fruit cocktail syrup and topped with fruit cocktail.
+category: merienda
+image: photos/fruit-cocktail-cupcake.png
+tags: [cupcake, steamed, fruit cocktail, cheese]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 2
+        unit: cup
+        item: all-purpose flour
+      - amount: 2
+        unit: tsp
+        item: baking powder
+      - amount: 1
+        unit: cup
+        item: { tl: asukal, en: sugar }
+      - amount: 4
+        item: { tl: buong itlog, en: whole eggs }
+      - amount: 1/2
+        unit: { tl: kahon, en: box }
+        item: { tl: keso, en: cheese }
+        note: { tl: ginadgad, en: grated }
+      - amount: 8
+        unit: tsp
+        item: { tl: mantika, en: oil }
+      - amount: 432
+        unit: g
+        item: Today's Fruit Cocktail
+        note: { tl: patuluin, en: drained }
+      - item: fruit cocktail syrup
+        note: { tl: mula sa lata, en: from the can }
+
+review:
+  - The photo shows red and green cupcakes, but no food coloring is in the recipe.
+  - The fruit cocktail syrup has no amount.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: I-mix ang all-purpose flour, baking powder, asukal at keso.
+        en: Mix the flour, baking powder, sugar and cheese.
+      - tl: >-
+          Isunod ang mantika, ang itlog nang isa-isa, at ang fruit cocktail syrup. I-mix hanggang
+          maging smooth (gamit ang hand mixer).
+        en: >-
+          Add the oil, then the eggs one at a time, then the fruit cocktail syrup. Mix with a hand
+          mixer until smooth.
+      - tl: Ilagay na po sa mga cupcake liner at lagyan ng fruit cocktail sa ibabaw.
+        en: Spoon into cupcake liners and top with fruit cocktail.
+      - tl: I-steam nang 25 minuto o hanggang luto, gamit ang toothpick test.
+        en: Steam for 25 minutes, or until a toothpick comes out clean.
