@@ -1,0 +1,53 @@
+title: Bistek Tagalog
+subtitle: { tl: Baboy o baka, en: Pork or beef }
+summary:
+  tl: Manipis na hiwa ng baboy o baka na niluto sa toyo at kalamansi, may sibuyas sa ibabaw.
+  en: Thinly sliced pork or beef braised in soy sauce and calamansi, topped with onion rings.
+category: ulam
+image: photos/bistek-tagalog.png
+tags: [beef, pork, soy sauce, calamansi]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { tl: baboy o baka, en: pork or beef }
+        note: { tl: hiwain nang manipis, en: thinly sliced }
+      - amount: 2
+        item: { tl: sibuyas, en: onions }
+        note: { tl: hiwain nang pabilog, en: sliced into rings }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: toyo, en: soy sauce }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: tubig, en: water }
+      - amount: 5-6
+        item: { tl: kalamansi, en: calamansi }
+        note: { tl: "pigain, alisin ang buto", en: "juiced, seeds removed" }
+      - item: { tl: betsin, en: MSG }
+      - item: { tl: mantika, en: cooking oil }
+        note: { tl: kaunti, en: a little }
+
+review:
+  - '"½ tubig" has no unit. Recorded as ½ tasa to match the toyo.'
+  - The mantika was only in step 3 of the original. It was added to the ingredient list.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          Pakuluan ang karne sa toyo, tubig, betsin, kalamansi at 1 sibuyas hanggang sa lumambot.
+          Takpan at hinaan ang apoy.
+        en: >-
+          Simmer the meat in the soy sauce, water, MSG, calamansi and 1 onion until tender. Cover
+          and lower the heat.
+      - tl: Alisin ang katas ng karne at itabi.
+        en: Pour off the cooking liquid and set it aside.
+      - tl: Iprito sa kaunting mantika ang karne.
+        en: Fry the meat in a little oil.
+      - tl: >-
+          Ihalo na ulit ang katas. Alisin sa apoy at ilagay sa niluto ang natirang sibuyas.
+        en: >-
+          Stir the cooking liquid back in. Remove from the heat and add the remaining onion.
