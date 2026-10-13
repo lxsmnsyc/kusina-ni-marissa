@@ -1,0 +1,72 @@
+title: Leche Flan with Pinipig
+summary:
+  tl: Steamed leche flan na may matamis na pinipig at gata sa ibabaw.
+  en: Steamed leche flan topped with sweetened rice flakes cooked in coconut milk.
+category: panghimagas
+image: photos/leche-flan-with-pinipig.png
+tags: [leche flan, pinipig, steamed, coconut milk]
+addedOn: "2026-10-13"
+
+ingredients:
+  - title: { tl: Para sa leche flan, en: For the leche flan }
+    items:
+      - amount: 10
+        item: egg yolks
+      - amount: 2
+        item: { tl: buong itlog, en: whole eggs }
+      - amount: 1
+        unit: big can
+        item: condensed milk
+      - amount: 1
+        unit: big can
+        item: evaporated milk
+      - amount: 1
+        unit: tsp
+        item: vanilla
+      - amount: 1
+        unit: tsp
+        item: lemon juice
+  - title: { tl: Para sa caramel, en: For the caramel }
+    items:
+      - amount: 1
+        unit: cup
+        item: { tl: asukal, en: sugar }
+  - title: { tl: Para sa pinipig, en: For the pinipig }
+    items:
+      - amount: 2
+        unit: cup
+        item: { tl: pinipig, en: rice flakes (pinipig) }
+      - amount: 1
+        unit: cup
+        item: { tl: gata, en: coconut milk }
+      - amount: 1/2
+        unit: cup
+        item: evaporated milk
+      - amount: 1
+        unit: cup
+        item: { tl: asukal, en: sugar }
+        note: { tl: o ayon sa panlasa, en: or to taste }
+
+review:
+  - The original paste had two versions. The English one matches Panlasang Pinoy ("Pour-in", "Share and Enjoy!"). Marissa's Tagalog version was used, and the photo is hers (it has her name on it).
+  - Her last step was cut off ("Steam ulit ng mga 25 minuto hangg"). It probably ends "hanggang maluto".
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Pagsama-samahin ang mga sangkap ng pinipig at i-set aside.
+        en: Mix the pinipig ingredients together and set aside.
+      - tl: >-
+          Mag-caramelize ng asukal. Lagyan ang bawat llanera at isalang sa kalan sa mahinang apoy.
+        en: >-
+          Caramelize the sugar in each llanera over low heat.
+      - tl: Pagsama-samahin ang leche flan mixture at i-mix nang mabuti.
+        en: Mix the leche flan ingredients well.
+      - tl: Salain bago isalin sa llanera, at takpan ng aluminum foil.
+        en: Strain into the llaneras and cover with aluminum foil.
+      - tl: I-steam nang 30 minuto.
+        en: Steam for 30 minutes.
+      - tl: Pagkaluto, palamigin muna bago ilagay sa ibabaw ang pinipig.
+        en: When cooked, let it cool before spreading the pinipig mixture on top.
+      - tl: I-steam ulit nang mga 25 minuto hanggang maluto.
+        en: Steam again for about 25 minutes until done.
