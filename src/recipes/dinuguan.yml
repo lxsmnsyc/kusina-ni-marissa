@@ -1,0 +1,76 @@
+title: Dinuguan
+summary:
+  tl: Baboy, puso, tripe at atay na niluto sa dugo ng baboy at suka, inihahain kasama ng puto.
+  en: Pork, heart, tripe and liver stewed in pork blood and vinegar, served with puto.
+category: ulam
+image: photos/dinuguan.png
+tags: [pork, offal, blood stew]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 2
+        unit: tbsp
+        item: { tl: mantika, en: cooking oil }
+      - amount: 3
+        unit: { tl: ulo, en: head }
+        item: { tl: bawang, en: garlic }
+        note: { tl: pinitpit, en: crushed }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+        note: { tl: hiniwa-hiwa, en: sliced }
+      - amount: 1/4
+        unit: cup
+        item: { tl: luya, en: ginger }
+      - amount: 1 1/2
+        unit: { tl: kilo, en: kg }
+        item: { tl: baboy, en: pork }
+        note: { tl: hiniwa nang pakuwadrado, en: cubed }
+      - amount: 1
+        item: { tl: puso ng baboy, en: pork heart }
+        note: { tl: pinakuluan at hiniwa, en: boiled and sliced }
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { tl: tripe ng baka (laman o goto), en: beef tripe }
+        note: { tl: niluto at hiniwa, en: cooked and sliced }
+      - amount: 1/4
+        unit: { tl: kilo, en: kg }
+        item: { tl: atay ng baboy, en: pork liver }
+        note: { tl: hiniwa nang pakuwadrado, en: cubed }
+      - amount: 2
+        unit: cup
+        item: { tl: sabaw ng baboy, en: pork broth }
+      - amount: 1 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: dugo ng baboy, en: pork blood }
+      - amount: 4
+        item: { tl: mahabang siling berde, en: long green chilies }
+      - item: { tl: asin, en: salt }
+      - amount: 1/2
+        unit: cup
+        item: { tl: suka, en: vinegar }
+  - title: { tl: Para sa paghahain, en: For serving }
+    items:
+      - item: puto
+
+review:
+  - The atay ng baboy is listed but no step adds it.
+  - 3 ulo ng bawang (3 heads of garlic) is a lot. It may mean 3 butil (cloves).
+  - The ginger has no preparation (sliced or minced).
+  - The asin is listed but no step uses it.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Igisa ang bawang, sibuyas at luya sa mantika.
+        en: Sauté the garlic, onion and ginger in the oil.
+      - tl: Idagdag ang baboy, puso at tripe. Pakuluang maigi hanggang sa maluto.
+        en: Add the pork, heart and tripe. Simmer well until cooked.
+      - tl: Kapag naluto na ang karne, ibuhos ang suka at sabaw ng baboy.
+        en: Once the meat is cooked, pour in the vinegar and pork broth.
+      - tl: Ihuli ang sili.
+        en: Add the chilies last.
+      - tl: Ibuhos ang dugo ng baboy at haluing mabuti. Pakuluan.
+        en: Pour in the pork blood and stir well. Bring to a boil.
+      - tl: Ihain nang may kasamang puto.
+        en: Serve with puto.
