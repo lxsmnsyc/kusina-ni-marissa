@@ -1,0 +1,86 @@
+title: Sapin-Sapin
+summary:
+  tl: Patong-patong na kakanin na may ube, langka at puting layer, may latik sa ibabaw.
+  en: A layered glutinous rice cake with ube, jackfruit and plain layers, topped with latik.
+category: merienda
+image: photos/sapin-sapin.png
+tags: [kakanin, ube, langka, steamed]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 2
+        unit: cup
+        item: { tl: malagkit na harina, en: glutinous rice flour }
+      - amount: 4
+        unit: cup
+        item: { tl: gata, en: coconut milk }
+      - amount: 1
+        unit: cup
+        item: { tl: asukal, en: granulated sugar }
+      - amount: 7
+        unit: oz
+        item: condensed milk
+        note: { tl: ½ lata, en: ½ can }
+      - amount: 1/2
+        unit: cup
+        item: { tl: langka, en: jackfruit (langka) }
+        note: { tl: inalisan ng buto, en: seeded }
+      - amount: 3/4
+        unit: cup
+        item: ube
+        note: { tl: dinurog, en: mashed }
+      - amount: 1/2
+        unit: tsp
+        item: vanilla extract
+      - amount: 1/4
+        unit: tsp
+        item: ube extract
+      - amount: 1
+        unit: tbsp
+        item: { tl: mantika, en: cooking oil }
+        note: { tl: o coconut oil, en: or coconut oil }
+      - item: violet food coloring
+      - item: yellow food coloring
+      - amount: 1/4
+        unit: cup
+        item: latik
+
+review:
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Sa isang malaking bowl, pagsamahin ang harina at asukal. Haluing mabuti.
+        en: In a large bowl, combine the flour and sugar. Mix well.
+      - tl: >-
+          Ilagay ang condensed milk, gata at vanilla extract. Haluing mabuti hanggang maging smooth
+          ang texture.
+        en: Add the condensed milk, coconut milk and vanilla. Mix until smooth.
+      - tl: Hatiin sa tatlong parte.
+        en: Divide the batter into three parts.
+      - tl: >-
+          Sa unang bahagi, idagdag ang ube, ube extract at violet food coloring. Haluing mabuti at
+          itabi.
+        en: To the first part, add the ube, ube extract and violet coloring. Mix well and set aside.
+      - tl: >-
+          Ilagay sa food processor ang langka at i-shred. Ihalo ito at ang yellow food coloring sa
+          ikalawang bahagi. Haluing mabuti at itabi.
+        en: >-
+          Shred the jackfruit in a food processor. Mix it and the yellow coloring into the second
+          part. Set aside.
+      - tl: Ang ikatlong bahagi ay ganoon lamang.
+        en: Leave the third part plain.
+      - tl: Magpakulo ng tubig sa steamer. Pahiran ng mantika ang isang bilog na baking pan.
+        en: Bring water to a boil in a steamer. Grease a round baking pan with oil.
+      - tl: >-
+          Kayo na po ang magdesisyon kung aling kulay ang unang lulutuin. Ibuhos ito sa pan at
+          i-steam nang 16 na minuto.
+        en: >-
+          Pick which color goes first. Pour it into the pan and steam for 16 minutes.
+      - tl: Ganoon din po sa pangalawang kulay.
+        en: Do the same with the second color.
+      - tl: Ibuhos ang ikatlong kulay at i-steam nang 15 hanggang 20 minuto.
+        en: Pour in the third color and steam for 15 to 20 minutes.
+      - tl: Budburan ng latik sa ibabaw.
+        en: Sprinkle latik on top.
