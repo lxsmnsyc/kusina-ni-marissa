@@ -1,0 +1,46 @@
+title:
+  tl: Sampalok Candy
+  en: Tamarind Candy
+summary:
+  tl: Matamis-maasim na kendi mula sa hinog na sampalok, muscovado at kamote, ini-roll sa asukal.
+  en: Sweet and sour candy made from ripe tamarind, muscovado sugar and sweet potato, rolled in sugar.
+category: panghimagas
+tags: [tamarind, candy, minatamis]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { tl: hinog na sampalok, en: ripe tamarind }
+      - amount: 2
+        unit: { tl: tasa, en: cup }
+        item: muscovado sugar
+      - amount: 2
+        unit: { tl: tasa, en: cup }
+        item: { tl: kamote, en: sweet potato }
+        note:
+          tl: dinurog, pambawas sa asim
+          en: mashed, to tone down the sourness
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: { tl: tubig, en: water }
+      - item: { tl: puting asukal, en: white sugar }
+        note: { tl: pang-roll, en: for rolling }
+      - item: { tl: asin, en: salt }
+      - item: cellophane
+        note: { tl: pambalot, en: for wrapping }
+
+review:
+  - No photo. The one supplied looked like a web thumbnail. Add Marissa's own photo.
+  - The ingredient list mentions a cooked "sampalok jam", but the steps only say to mix by hand. The cooking step seems to be missing.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Paghalu-haluin ang lahat ng sangkap gamit ang kamay.
+        en: Mix all the ingredients together by hand.
+      - tl: Igulong-gulong sa puting asukal.
+        en: Roll into pieces and coat them in white sugar.
+      - tl: Ibalot sa cellophane.
+        en: Wrap in cellophane.
