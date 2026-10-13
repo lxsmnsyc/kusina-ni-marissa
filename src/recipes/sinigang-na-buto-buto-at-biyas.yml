@@ -1,0 +1,69 @@
+title:
+  tl: Sinigang na Buto-Buto at Biyas ng Baboy
+  en: Pork Ribs and Leg Sinigang
+subtitle: { tl: Sariling bersyon, en: Own version }
+summary:
+  tl: Buto-buto at biyas ng baboy sa maasim na sabaw ng sampalok, may gabi at gulay.
+  en: Pork spare ribs and leg in a sour tamarind broth with taro and vegetables.
+category: sabaw
+tags: [pork, sinigang, tamarind, soup]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { tl: buto-buto (spare ribs), en: pork spare ribs }
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { tl: biyas ng baboy, en: pork leg (biyas) }
+      - amount: 1/2
+        item: { tl: sibuyas bumbay, en: onion }
+        note: { tl: ginayat, en: sliced }
+      - amount: 1/4
+        unit: { tl: kilo, en: kg }
+        item: { tl: sampalok na hilaw, en: unripe tamarind }
+      - amount: 2
+        item: { tl: maliliit na gabi, en: small taro }
+        note: { tl: pinag-apat, en: quartered }
+      - amount: 5
+        item: okra
+      - amount: 3
+        item: { tl: sigarilyas, en: winged beans (sigarilyas) }
+      - amount: 1
+        item: { tl: labanos, en: radish }
+      - amount: 2
+        item: { tl: siling berde, en: long green chilies }
+      - amount: 1
+        unit: { tl: tali, en: bunch }
+        item: { tl: kangkong, en: water spinach (kangkong) }
+      - amount: 3
+        item: { tl: kamatis, en: tomatoes }
+        note: { tl: hiniwang maliliit, en: chopped }
+      - amount: 1
+        unit: { tl: maliit na tali, en: small bunch }
+        item: { tl: sitaw, en: string beans }
+      - item: { tl: asin, en: salt }
+
+review:
+  - No photo yet. The one sent in chat did not come through as a file.
+  - The kangkong is listed but no step adds it.
+  - The pork is boiled in sabaw-sinaing (rice washing water), which is not in the ingredient list.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Pakuluan sa sabaw-sinaing ang baboy. Idagdag ang kamatis, sibuyas at asin.
+        en: Boil the pork in rice washing water. Add the tomatoes, onion and salt.
+      - tl: Lutuin sa ibang kaserola ang sampalok. Kunin ang katas.
+        en: Cook the tamarind in another pot and extract the juice.
+      - tl: Isama sa baboy. Pakuluan uli. Dagdagan ng sabaw kung kailangan.
+        en: Add it to the pork and bring to a boil again. Add more liquid if needed.
+      - tl: >-
+          Kung luto na ito, isama ang labanos at sitaw. Isunod ang gabi, sigarilyas, okra at sili.
+        en: >-
+          When the pork is cooked, add the radish and string beans, then the taro, winged beans,
+          okra and chilies.
+      - tl: >-
+          Timplahan ng asin kung nais pa, dagdagan ayon sa panlasa, at pakuluin. Ihain nang mainit.
+        en: Season with more salt to taste and bring to a boil. Serve hot.
