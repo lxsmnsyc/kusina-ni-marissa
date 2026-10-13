@@ -1,0 +1,70 @@
+title: Banana Float with a Twist
+subtitle: { en: Own version, tl: Sariling bersyon }
+summary:
+  en: A chilled layered dessert of graham, cream, sliced bananas, melted chocolate and Oreos.
+  tl: Malamig na panghimagas na may patong-patong na graham, cream, saging, tsokolate at Oreo.
+category: panghimagas
+image: photos/banana-float.png
+tags: [banana, graham, chocolate, no-bake]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 3
+        item: { en: ripe bananas, tl: hinog na saging }
+        note: { en: sliced into rounds, tl: hiniwang pabilog }
+      - amount: 1
+        unit: small can
+        item: condensed milk
+      - amount: 1
+        unit: { en: box, tl: kahon }
+        item: all-purpose cream
+      - amount: 1
+        unit: { en: cup, tl: tasa }
+        item: graham crackers
+        note: { en: crushed, tl: dinurog }
+      - amount: 1
+        unit: { en: cup, tl: tasa }
+        item: Oreo cookies
+        note: { en: crushed, tl: dinurog }
+      - amount: 1/2
+        unit: { en: cup, tl: tasa }
+        item: { en: chocolate, tl: tsokolate }
+        note: { en: chopped, tl: tinadtad }
+      - amount: 2
+        unit: tbsp
+        item: butter
+      - item: { en: grated chocolate, tl: ginadgad na tsokolate }
+        note: { en: for garnish, tl: pampalamuti }
+
+review:
+  - No grated chocolate for the garnish is in the original ingredient list. It was added.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: >-
+          Put the chopped chocolate and butter in a heatproof bowl and set it over a pot of boiling
+          water. Stir constantly until melted. Set aside.
+        tl: >-
+          Ilagay ang tinadtad na tsokolate at butter sa isang mangkok na hindi dumidikit, at
+          ipatong sa kaserolang may kumukulong tubig. Haluin nang tuloy-tuloy hanggang matunaw.
+          Itabi.
+      - en: Mix the condensed milk and cream. Set aside.
+        tl: Paghaluin ang condensed milk at cream. Itabi.
+      - en: >-
+          Spread the crushed graham in a large rectangular container. Add a layer of the cream
+          mixture, then a layer of sliced bananas. Drizzle the bananas with the melted chocolate.
+          Add a layer of Oreos, then coat with more cream mixture.
+        tl: >-
+          Ilagay ang dinurog na graham sa isang malaking parihabang lalagyan. Sunod ang cream
+          mixture, saka ang hiniwang saging. Buhusan ang saging ng tinunaw na tsokolate. Sunod ang
+          Oreo, saka balutin muli ng cream mixture.
+      - en: >-
+          Repeat the layers, from graham through Oreos, and finish with the remaining cream mixture.
+          Garnish with grated chocolate.
+        tl: >-
+          Ulitin ang mga patong mula graham hanggang Oreo, at tapusin sa natitirang cream mixture.
+          Palamutian ng ginadgad na tsokolate sa ibabaw.
+      - en: Chill for several hours and serve.
+        tl: Palamigin nang ilang oras at ihain.
