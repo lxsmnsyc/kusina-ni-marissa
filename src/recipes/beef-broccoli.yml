@@ -20,20 +20,20 @@ ingredients:
       - amount: 1
         unit: small can
         item: { tl: whole mushroom, en: whole mushrooms }
-      - amount: 1
+      - amount: 2
         unit: cup
         item: broccoli
+        note: { tl: kasama ang stalks, en: florets and stalks }
       - amount: 2
         unit: tbsp
         item: oyster sauce
       - amount: 2
         unit: tbsp
         item: cornstarch
-      - item: { tl: paminta, en: black pepper }
-        note: { tl: konti, en: a little }
+        note: { tl: tinunaw sa konting tubig, en: dissolved in a little water }
+      - item: { tl: paminta at asin, en: salt and pepper }
 
 review:
-  - Paminta was not in the original ingredient list. It was added because step 5 uses it.
   - The summary and the English translation were written during conversion, not by Marissa.
   - No servings, prep time or cook time in the original.
 
@@ -43,11 +43,15 @@ steps:
         en: Simmer the beef until tender.
       - tl: Kapag malambot na, alisin ang baka at itabi ang pinagkuluan.
         en: Once tender, take out the beef and set the broth aside.
-      - tl: Igisa ang bawang, sibuyas, baka at mushroom. Ilagay ang sabaw, pakuluin at takpan.
-        en: Sauté the garlic, onion, beef and mushrooms. Add the broth, bring to a boil and cover.
-      - tl: Isunod ang broccoli.
-        en: Add the broccoli.
-      - tl: Ilagay ang oyster sauce at cornstarch. Lagyan ng konting paminta.
-        en: Add the oyster sauce and cornstarch. Season with a little pepper.
+      - tl: >-
+          Igisa ang sibuyas, bawang, baka, broccoli stalks at mushroom. Ilagay ang sabaw, pakuluin
+          at takpan.
+        en: >-
+          Sauté the onion, garlic, beef, broccoli stalks and mushrooms. Add the broth, bring to a
+          boil and cover.
+      - tl: Isunod ang broccoli florets.
+        en: Add the broccoli florets.
+      - tl: Ilagay ang oyster sauce at tinunaw na cornstarch. Lagyan ng konting paminta at asin.
+        en: Add the oyster sauce and dissolved cornstarch. Season with a little salt and pepper.
       - tl: Timplahan pa kung nais, ayon sa inyong panlasa, at pakuluin.
         en: Adjust the seasoning to taste and bring to a boil.
