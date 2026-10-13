@@ -23,9 +23,10 @@ ingredients:
         item: { tl: bawang, en: garlic }
       - amount: 1/4
         item: { tl: repolyo, en: cabbage }
-      - amount: 1
-        unit: guhit
+      - amount: 100
+        unit: g
         item: { tl: bitsuelas, en: green beans }
+        note: 1 guhit
       - amount: 1
         item: { tl: maliit na carrot, en: small carrot }
       - amount: 1
@@ -48,7 +49,6 @@ ingredients:
 
 review:
   - '"1/4 atay at balunbalunan" has no unit. Recorded as ¼ kilo, which is a guess.'
-  - '"1 guht n bitsuelas" is unclear. Recorded as "1 guhit". It may mean a bundle (tali) or a handful.'
   - Step 2 fries the tofu and sets it aside, but no step adds it back. No oil is listed for frying either.
   - Step 3 sautés "manok", which here means the liver and gizzards.
   - The calamansi was only in the last step of the original. It was added as its own ingredient group.

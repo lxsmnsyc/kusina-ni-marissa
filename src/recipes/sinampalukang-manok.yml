@@ -14,9 +14,10 @@ ingredients:
       - amount: 1/2
         unit: { tl: kilo, en: kg }
         item: { tl: manok, en: chicken }
-      - amount: 1
-        unit: guhit
+      - amount: 100
+        unit: g
         item: { tl: usbong ng sampalok, en: young tamarind leaves }
+        note: 1 guhit
       - amount: 1
         unit: { tl: tali, en: bunch }
         item: { tl: kangkong, en: water spinach (kangkong) }
@@ -33,7 +34,6 @@ ingredients:
       - item: { tl: tubig, en: water }
 
 review:
-  - '"1 guhit" for the tamarind leaves is unclear, as in Miki with Patola. It may mean a bundle or a handful.'
   - The bawang, sibuyas, kamatis and luya have no amounts.
   - The English translation was written during conversion.
 
