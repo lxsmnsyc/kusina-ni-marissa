@@ -1,0 +1,71 @@
+title: Spaghetti
+subtitle: { tl: Sariling bersyon, en: Own version }
+summary:
+  tl: Matamis na Pinoy spaghetti na may giniling, hotdog, ham, mushroom at keso.
+  en: Sweet Filipino-style spaghetti with ground meat, hotdog, ham, mushrooms and cheese.
+category: kanin-at-pansit
+tags: [pasta, spaghetti, ground meat, hotdog]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: spaghetti pasta
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item:
+          tl: giniling na baboy, baka o corned beef
+          en: ground pork, ground beef or corned beef
+      - amount: 2
+        item: carrots
+        note: { tl: ginadgad, en: grated }
+      - amount: 2
+        item: bell pepper
+        note: { tl: hiniwang pino, en: finely chopped }
+      - amount: 1/4
+        item: ham
+      - amount: 1/4
+        item: hotdog
+      - amount: 1
+        item: Nestlé all-purpose cream
+      - amount: 1
+        unit: { tl: pakete, en: pack }
+        item: spaghetti sauce
+        note: sweet style
+      - amount: 2
+        unit: big can
+        item: Reno liver spread
+      - amount: 1
+        unit: can
+        item: Campbell's mushrooms
+      - item: { tl: asin, en: salt }
+      - item: { tl: betsin, en: MSG }
+      - item: { tl: paminta, en: pepper }
+      - item: { tl: asukal, en: sugar }
+
+review:
+  - No photo yet. The one sent in chat did not come through as a file.
+  - The ham and hotdog ("1/4") have no unit. They probably mean ¼ kilo.
+  - The sibuyas, bawang, pickles and keso are used in the steps but not listed.
+  - The paminta is listed but no step uses it.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Pakuluan ang pasta. Itabi, or set aside.
+        en: Boil the pasta and set it aside.
+      - tl: Igisa ang sibuyas, bawang at meat, at palambutin.
+        en: Sauté the onion, garlic and meat until the meat is cooked.
+      - tl: If okay na, ilagay ang carrots na ginadgad at bell pepper na hiniwang pino.
+        en: Then add the grated carrots and finely chopped bell pepper.
+      - tl: Ilagay ang tomato sauce.
+        en: Add the spaghetti sauce.
+      - tl: Ilagay ang mushroom, ham at hotdog. Ilagay ang Nestlé cream at Reno.
+        en: Add the mushrooms, ham and hotdog, then the cream and liver spread.
+      - tl: Pakuluin nang mga ilang minuto. Lagyan ng pickles, asukal, asin at betsin.
+        en: Simmer for a few minutes. Add pickles, sugar, salt and MSG.
+      - tl: >-
+          Luto na ang sauce at puwede nang ilagay sa pasta. Lagyan ng ginadgad na keso sa
+          paghahain.
+        en: The sauce is ready to pour over the pasta. Top with grated cheese when serving.
