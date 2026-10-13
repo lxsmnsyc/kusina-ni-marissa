@@ -1,0 +1,59 @@
+title: Cola Chicken
+summary:
+  en: Chicken cooked down in cola, oyster sauce and ketchup until sticky and glazed.
+  tl: Manok na niluto sa cola, oyster sauce at ketchup hanggang lumapot at kumintab.
+category: ulam
+image: photos/cola-chicken.png
+tags: [chicken, glazed, cola]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 500
+        unit: ml
+        item: Coca-Cola
+      - amount: 1
+        unit: tbsp
+        item: oyster sauce
+      - amount: 1/4
+        unit: { en: cup, tl: tasa }
+        item: ketchup
+        note: { en: banana or tomato, tl: banana o tomato }
+      - amount: 1/2
+        unit: { en: kg, tl: kilo }
+        item: { en: chicken breast, tl: pitso ng manok }
+        note: { en: cut into pieces, tl: hiniwa }
+      - amount: 1
+        item: { en: medium red onion, tl: katamtamang laking pulang sibuyas }
+        note: { en: sliced into rings, tl: hiniwang pabilog }
+      - item: { en: salt, tl: asin }
+        note: { en: to taste, tl: ayon sa panlasa }
+
+review:
+  - The wording ("It will look rather gross when it first starts cooking") reads like an online recipe, so the text may be copied. The photo looks like Marissa's own. Check before publishing publicly.
+  - The salt is listed but no step uses it.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: Put the chicken pieces in a frying pan. Add the cola, oyster sauce and ketchup.
+        tl: Ilagay ang manok sa kawali. Idagdag ang cola, oyster sauce at ketchup.
+      - en: >-
+          Cook over medium heat, turning the pieces often. It will not look appealing at first.
+        tl: >-
+          Lutuin sa katamtamang apoy, at baligtarin nang madalas. Hindi pa ito kaaya-ayang tingnan
+          sa simula.
+      - en: >-
+          The liquid will slowly evaporate and form a glaze on the chicken. Cook until most of the
+          liquid is gone, about 15 to 20 minutes.
+        tl: >-
+          Unti-unting mababawasan ang sabaw at magiging glaze sa manok. Lutuin hanggang halos
+          maubos ang sabaw, mga 15 hanggang 20 minuto.
+      - en: >-
+          Watch the chicken closely near the end, since the liquid evaporates quickly and it burns
+          easily.
+        tl: >-
+          Bantayang mabuti ang manok sa bandang huli, dahil mabilis matuyo ang sabaw at madali
+          itong masunog.
+      - en: Serve garnished with the onion rings.
+        tl: Ihain na may sibuyas sa ibabaw.
