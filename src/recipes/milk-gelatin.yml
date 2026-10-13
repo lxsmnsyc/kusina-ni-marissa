@@ -1,0 +1,55 @@
+title: Milk Gelatin
+subtitle: { tl: Sariling bersyon, en: Own version }
+summary:
+  tl: Gulaman na may evaporated at condensed milk, saging na lakatan at pasas.
+  en: Creamy milk gelatin with lakatan bananas and raisins.
+category: panghimagas
+image: photos/milk-gelatin.png
+tags: [gulaman, gelatin, banana, no-bake]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: pakete, en: pack }
+        item: Mr. Gulaman
+      - amount: 1
+        unit: big can
+        item: evaporated milk
+      - amount: 1
+        unit: big can
+        item: condensed milk
+      - amount: 2
+        item: { tl: saging na lakatan, en: lakatan bananas }
+        note: { tl: hiniwa, en: sliced }
+      - item: { tl: pasas, en: raisins }
+      - amount: 4
+        unit: cup
+        item: { tl: tubig, en: water }
+      - amount: 1
+        unit: tsp
+        item: vanilla
+
+review:
+  - The pasas has no amount.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Hiwain ang saging at ilagay sa llanera, pati na rin ang pasas. Itabi.
+        en: Slice the bananas and put them in the llanera with the raisins. Set aside.
+      - tl: >-
+          Tunawin ang Mr. Gulaman sa tubig at isalang. Isama ang mga gatas at vanilla. Haluing
+          mabuti hanggang sa bumigat na ang paghalo.
+        en: >-
+          Dissolve the gulaman in the water and put it over the heat. Add both milks and the
+          vanilla. Stir well until it feels heavier to stir.
+      - tl: >-
+          Pag nakita mo nang bumubula na sa mga gilid, patayin na ang apoy.
+        en: When bubbles form around the edges, turn off the heat.
+      - tl: Puwede mo na itong isalin sa llanera at palamigin.
+        en: Pour it into the llanera and let it set.
+
+notes:
+  - tl: Yung nasa picture po, nata de coco ang inilagay ko.
+    en: The one in the photo uses nata de coco instead.
