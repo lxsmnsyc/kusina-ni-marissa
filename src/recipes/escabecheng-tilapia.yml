@@ -1,0 +1,68 @@
+title:
+  tl: Escabecheng Tilapia
+  en: Sweet and Sour Tilapia (Escabeche)
+summary:
+  tl: Piniritong tilapia na binuhusan ng matamis-maasim na sarsang may suka, toyo at gulay.
+  en: Fried tilapia topped with a sweet and sour sauce of vinegar, soy sauce and vegetables.
+category: ulam
+tags: [fish, tilapia, sweet and sour]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: tilapia
+      - amount: 4
+        item: { tl: kamatis, en: tomatoes }
+      - amount: 1
+        item: carrot
+        note: { tl: hiniwang parihaba, en: cut into strips }
+      - amount: 4
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+        note: { tl: dinikdik, en: crushed }
+      - amount: 1
+        item: { tl: luya, en: ginger }
+        note: { tl: hiniwa, en: sliced }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+        note: { tl: hiniwa, en: sliced }
+      - amount: 2
+        item: bell pepper
+        note: { tl: puwedeng berde at pula, en: green and red work well }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: suka, en: vinegar }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: asukal na pula, en: brown sugar }
+      - amount: 1/4
+        unit: { tl: tasa, en: cup }
+        item: { tl: toyo, en: soy sauce }
+      - item: { tl: mantika, en: cooking oil }
+      - item: cornstarch
+        note: { tl: tinunaw sa kaunting tubig, en: dissolved in a little water }
+      - item: { tl: asin, en: salt }
+      - item: { tl: paminta, en: pepper }
+
+review:
+  - No photo was sent with this recipe.
+  - '"1 luya" has no unit. It probably means 1 thumb-size piece.'
+  - Step 3 adds water, but water for the sauce is not in the ingredient list.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Asinan at lagyan ng paminta ang tilapia, at iprito. Itabi.
+        en: Season the tilapia with salt and pepper, and fry. Set aside.
+      - tl: Igisa ang sibuyas, bawang, luya at kamatis nang 2 minuto.
+        en: Sauté the onion, garlic, ginger and tomatoes for 2 minutes.
+      - tl: Ibuhos ang suka, toyo, tubig at asukal na pula.
+        en: Pour in the vinegar, soy sauce, water and brown sugar.
+      - tl: Idagdag ang tinunaw na cornstarch. Haluin hanggang sa lumapot ang sauce.
+        en: Add the dissolved cornstarch. Stir until the sauce thickens.
+      - tl: Ilagay ang carrot at bell pepper at pakuluin.
+        en: Add the carrot and bell peppers and bring to a boil.
+      - tl: Ilagay ang tilapia sa plato at ibuhos ang sauce.
+        en: Place the tilapia on a plate and pour the sauce over it.
