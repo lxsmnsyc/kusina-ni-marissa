@@ -1,0 +1,146 @@
+title: Pancit Malabon
+summary:
+  tl: >-
+    Makapal na noodles sa sarsang may katas ng hipon at atsuete, may baboy, tokwa, tinapa at
+    chicharon sa ibabaw.
+  en: >-
+    Thick rice noodles in a shrimp and annatto sauce with pork and tofu, topped with smoked fish,
+    chicharon and egg.
+category: kanin-at-pansit
+tags: [noodles, pancit, shrimp, pork]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { tl: palabok noodles, en: thick rice noodles (palabok) }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: celery
+        note: { tl: ginayat, en: sliced }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: hipon, en: shrimp }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: karne ng baboy, en: pork }
+        note: { tl: hiniwang maliit at pakuwadrado, en: cut into small cubes }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: mantika, en: cooking oil }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: tokwa, en: firm tofu }
+        note: { tl: hiniwang maliit at pakuwadrado, en: cut into small cubes }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: sibuyas, en: onion }
+        note: { tl: ginayat, en: sliced }
+      - amount: 8
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+        note: { tl: dinikdik, en: crushed }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: parsley
+        note: { tl: ginayat, en: chopped }
+      - amount: 4
+        unit: { tl: kutsara, en: tbsp }
+        item: { tl: harina, en: flour }
+      - amount: 2
+        unit: { tl: tasa, en: cup }
+        item: { tl: katas ng hipon, en: shrimp juice }
+        note: { tl: mula sa dinikdik na ulo at balat, en: from the pounded heads and shells }
+      - amount: 8
+        unit: { tl: litro, en: L }
+        item: { tl: kumukulong tubig, en: boiling water }
+        note: { tl: pambabad sa noodles, en: for soaking the noodles }
+      - item: { tl: asin, en: salt }
+      - item: { tl: paminta, en: pepper }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: tinapa, en: smoked fish (tinapa) }
+        note: { tl: dinurog, en: flaked }
+      - amount: 2
+        item: { tl: nilagang itlog, en: hard-boiled eggs }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: chicharon baboy, en: pork chicharon }
+        note: { tl: durog, en: crushed }
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: { tl: katas ng atsuete, en: annatto water }
+        note:
+          tl: atsuete na kinatas sa 1 tasang maligamgam na tubig
+          en: annatto seeds steeped in 1 cup warm water
+  - title: { tl: Para sa paghahain, en: For serving }
+    items:
+      - item: { tl: kalamansi, en: calamansi }
+
+review:
+  - No photo was sent with this recipe.
+  - 8 litro (8 liters) of boiling water for soaking ½ kilo of noodles is a lot. It may mean 8 tasa (cups).
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          Ibabad sa kumukulong tubig ang noodles nang 10 hanggang 15 minuto, o hanggang lumambot.
+          Salain at ilagay sa isang bandehado. Itabi.
+        en: >-
+          Soak the noodles in boiling water for 10 to 15 minutes, or until soft. Drain and put on a
+          platter. Set aside.
+      - tl: Hiwain nang maliit at pakuwadrado ang karne ng baboy.
+        en: Cut the pork into small cubes.
+      - tl: Hiwain ang mga gulay.
+        en: Cut the vegetables.
+      - tl: Hiwain nang maliit at pakuwadrado ang tokwa.
+        en: Cut the tofu into small cubes.
+      - tl: >-
+          Alisin ang balat at ulo ng hipon. Ihiwalay, dikdikin at kunin ang katas. Itabi.
+        en: >-
+          Remove the shrimp shells and heads. Set the shrimp aside. Pound the heads and shells and
+          extract the juice. Set aside.
+      - tl: Katasin ang atsuete sa isang tasang maligamgam na tubig. Salain at itabi.
+        en: Steep the annatto seeds in 1 cup of warm water. Strain and set aside.
+      - tl: >-
+          Magpainit ng mantika sa malaking kawali. Igisa ang sibuyas at bawang hanggang maging light
+          brown. Ilagay na rin ang tokwa.
+        en: >-
+          Heat the oil in a large pan. Sauté the onion and garlic until light brown. Add the tofu.
+      - tl: >-
+          Isama ang karne, lagyan ng kaunting tubig at pakuluin hanggang sa maluto ang baboy.
+        en: Add the pork and a little water and simmer until the pork is cooked.
+      - tl: Ihalo ang binalatang hipon.
+        en: Add the peeled shrimp.
+      - tl: >-
+          Ilagay ang katas ng hipon at katas ng atsuete. Haluin at hayaang kumulo.
+        en: Add the shrimp juice and annatto water. Stir and let it boil.
+      - tl: Timplahan ng asin at paminta ayon sa panlasa.
+        en: Season with salt and pepper to taste.
+      - tl: Sa isang bowl, tunawin ang harina at ilagay sa nilulutong sangkap.
+        en: Dissolve the flour in a bowl and stir it into the pan.
+      - tl: Ilagay na rin ang ginayat na parsley. Haluing mabuti hanggang sa lumapot ang sabaw.
+        en: Add the chopped parsley. Stir well until the sauce thickens.
+      - tl: Hinaan ang apoy.
+        en: Lower the heat.
+      - tl: >-
+          Ihalo ang noodles. Haluing mabuti upang kumapit sa noodles ang mga sangkap. Lutuin nang 10
+          minuto.
+        en: Add the noodles and toss well so the sauce coats them. Cook for 10 minutes.
+      - tl: Ibudbod ang dinurog na tinapa at haluin.
+        en: Sprinkle in the flaked smoked fish and toss.
+      - tl: Hanguin at ilagay na sa lalagyan.
+        en: Transfer to a serving dish.
+      - tl: Budburan sa ibabaw ng dinurog na chicharon, hipon, celery at itlog.
+        en: Top with the crushed chicharon, shrimp, celery and egg.
+      - tl: Ihain nang mainit kasama ang kalamansi.
+        en: Serve hot with calamansi.
+
+notes:
+  - tl: >-
+      Sa niluto ko po ay may halong pusit (pinirito nang bahagya sa mantika) at pinapulang bawang sa
+      ibabaw.
+    en: >-
+      In my version I add squid (lightly fried in oil) and top it with toasted garlic.
