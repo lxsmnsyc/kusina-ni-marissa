@@ -1,0 +1,51 @@
+title: Baked Brownies
+summary:
+  en: Easy one-bowl chocolate brownies topped with peanuts.
+  tl: Madaling chocolate brownies na may mani sa ibabaw.
+category: panghimagas
+image: photos/baked-brownies.png
+tags: [chocolate, baked, peanut]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 2
+        unit: { en: cup, tl: tasa }
+        item: { en: white sugar, tl: puting asukal }
+      - amount: 1
+        unit: { en: cup, tl: tasa }
+        item: { en: butter, tl: butter }
+        note: { en: "or margarine, melted", tl: "o margarine, tinunaw" }
+      - amount: 1/2
+        unit: { en: cup, tl: tasa }
+        item: cocoa powder
+      - amount: 1
+        unit: tsp
+        item: vanilla extract
+      - amount: 4
+        item: { en: eggs, tl: itlog }
+      - amount: 1 1/2
+        unit: { en: cup, tl: tasa }
+        item: all-purpose flour
+      - amount: 1/2
+        unit: tsp
+        item: baking powder
+      - amount: 1/2
+        unit: tsp
+        item: { en: salt, tl: asin }
+      - amount: 1/2
+        unit: { en: cup, tl: tasa }
+        item: { en: peanuts, tl: mani }
+
+review:
+  - The wording matches a widely shared online brownie recipe almost word for word, with peanuts added. The photo looks like Marissa's own. Check the text before publishing publicly.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: Melt the butter or margarine and mix all the ingredients in the order given.
+        tl: Tunawin ang butter o margarine at paghaluin ang lahat ng sangkap ayon sa pagkakasunod-sunod.
+      - en: Pour into a greased 9 × 13 inch pan. Bake at 350°F for 20 to 30 minutes.
+        tl: >-
+          Ibuhos sa pinahiran ng mantikilyang 9 × 13 pulgadang pan. I-bake sa 350°F nang 20
+          hanggang 30 minuto.
