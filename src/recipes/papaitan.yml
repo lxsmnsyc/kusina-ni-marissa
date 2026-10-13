@@ -1,0 +1,81 @@
+title: Papaitan
+summary:
+  en: A bitter and sour soup of beef and innards with ginger, chili and lemon.
+  tl: Mapait at maasim na sabaw ng baka at lamang-loob na may luya, sili at lemon.
+category: sabaw
+image: photos/papaitan.png
+tags: [beef, innards, soup]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 2
+        unit: lb
+        item: { en: beef chuck or stew meat, tl: beef chuck o pang-nilagang baka }
+        note:
+          en: cubed and boiled with 1 onion
+          tl: hiniwa nang pakuwadrado at pinakuluan kasama ng 1 sibuyas
+      - amount: 2
+        unit: lb
+        item: { en: assorted beef innards, tl: sari-saring lamang-loob ng baka }
+        note:
+          en: your choice, boiled with 1 onion and cut into bite-size pieces
+          tl: kahit anong gusto, pinakuluan kasama ng 1 sibuyas at hiniwa nang maliliit
+      - amount: 1
+        unit: { en: head, tl: ulo }
+        item: { en: garlic, tl: bawang }
+        note: { en: minced, tl: tinadtad }
+      - amount: 1
+        item: { en: large onion, tl: malaking sibuyas }
+        note: { en: chopped, tl: tinadtad }
+      - amount: 2
+        item: { en: ginger, tl: luya }
+        note: { en: "thumb-size pieces, minced", tl: "kasinlaki ng hinlalaki, tinadtad" }
+      - amount: 1-2
+        item: { en: long chili peppers, tl: siling haba }
+      - amount: 1
+        unit: tsp
+        item: { en: ground pepper, tl: pamintang durog }
+      - amount: 1
+        item: Knorr cube
+      - amount: 6-8
+        unit: { en: cup, tl: tasa }
+        item: { en: beef broth, tl: sabaw ng baka }
+        note: { en: from boiling the beef, tl: mula sa pinagpakuluan ng baka }
+      - amount: 8
+        item: { en: whole lemons, tl: buong lemon }
+      - amount: 1-2
+        unit: tbsp
+        item: { en: fish sauce, tl: patis }
+
+review:
+  - No oil is listed for sautéing in step 3.
+  - The recipe uses a Knorr cube and may come from a brand or website recipe, not Marissa's own wording. Check before publishing publicly.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: >-
+          Prepare the lemons: peel 4 of the 8, then grind or finely chop the peel and pith. Juice
+          all 8 lemons and set the juice aside.
+        tl: >-
+          Ihanda ang lemon: balatan ang 4 sa 8 lemon, saka gilingin o tadtarin nang pino ang balat
+          at ang puting bahagi nito. Pigain ang lahat ng 8 lemon at itabi ang katas.
+      - en: Boil the peel in 2 to 3 cups of the beef broth, then strain and set aside.
+        tl: Pakuluan ang balat sa 2 hanggang 3 tasa ng sabaw ng baka, saka salain at itabi.
+      - en: >-
+          Sauté the garlic, onion, ginger and chili pepper, then add the beef and innards and sauté
+          for about 3 minutes.
+        tl: >-
+          Igisa ang bawang, sibuyas, luya at siling haba, saka idagdag ang baka at lamang-loob at
+          igisa nang mga 3 minuto.
+      - en: >-
+          Add the bitter beef broth and the rest of the ingredients except the lemon juice, and
+          bring to a boil.
+        tl: >-
+          Idagdag ang mapait na sabaw at ang iba pang sangkap maliban sa katas ng lemon, at
+          pakuluan.
+      - en: Simmer for 10 to 15 minutes, then add the lemon juice.
+        tl: Hayaang kumulo nang 10 hanggang 15 minuto, saka idagdag ang katas ng lemon.
+      - en: Serve hot.
+        tl: Ihain nang mainit.

@@ -1,0 +1,53 @@
+title: Beef Broccoli
+summary:
+  tl: Malambot na baka, broccoli at mushroom sa sarsang oyster sauce.
+  en: Tender beef, broccoli and mushrooms in oyster sauce.
+category: ulam
+image: photos/beef-broccoli.png
+tags: [beef, broccoli, mushroom, oyster sauce, ginisa]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { tl: karne ng baka, en: beef }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+      - amount: 5
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+      - amount: 1
+        unit: small can
+        item: { tl: whole mushroom, en: whole mushrooms }
+      - amount: 1
+        unit: cup
+        item: broccoli
+      - amount: 2
+        unit: tbsp
+        item: oyster sauce
+      - amount: 2
+        unit: tbsp
+        item: cornstarch
+      - item: { tl: paminta, en: black pepper }
+        note: { tl: konti, en: a little }
+
+review:
+  - Paminta was not in the original ingredient list. It was added because step 5 uses it.
+  - The summary and the English translation were written during conversion, not by Marissa.
+  - No servings, prep time or cook time in the original.
+
+steps:
+  - steps:
+      - tl: Palambutin ang baka.
+        en: Simmer the beef until tender.
+      - tl: Kapag malambot na, alisin ang baka at itabi ang pinagkuluan.
+        en: Once tender, take out the beef and set the broth aside.
+      - tl: Igisa ang bawang, sibuyas, baka at mushroom. Ilagay ang sabaw, pakuluin at takpan.
+        en: Sauté the garlic, onion, beef and mushrooms. Add the broth, bring to a boil and cover.
+      - tl: Isunod ang broccoli.
+        en: Add the broccoli.
+      - tl: Ilagay ang oyster sauce at cornstarch. Lagyan ng konting paminta.
+        en: Add the oyster sauce and cornstarch. Season with a little pepper.
+      - tl: Timplahan pa kung nais, ayon sa inyong panlasa, at pakuluin.
+        en: Adjust the seasoning to taste and bring to a boil.

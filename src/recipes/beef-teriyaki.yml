@@ -1,0 +1,73 @@
+title: Beef Teriyaki
+summary:
+  en: Marinated beef strips, stir-fried and served with sautéed vegetables and sesame seeds.
+  tl: Hiniwang baka na ibinabad sa marinade at iginisa, kasama ng ginisang gulay at linga.
+category: ulam
+tags: [beef, stir-fry, vegetables]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { en: kg, tl: kilo }
+        item: { en: beef sirloin, tl: sirloin ng baka }
+        note:
+          en: thinly sliced and cut into strips
+          tl: hiniwa nang manipis at pahaba
+      - amount: 1
+        unit: tbsp
+        item: { en: ginger, tl: luya }
+        note: { en: cut into strips, tl: hiniwa nang pahaba }
+      - amount: 100
+        unit: g
+        item: carrots
+        note: { en: thinly sliced, tl: hiniwa nang manipis }
+      - amount: 100
+        unit: g
+        item: { en: sayote (chayote), tl: sayote }
+        note: { en: sliced, tl: hiniwa }
+      - amount: 100
+        unit: g
+        item: { en: bean sprouts (togue), tl: togue }
+      - amount: 1
+        item: { en: small red bell pepper, tl: maliit na red bell pepper }
+        note: { en: cut into strips, tl: hiniwa nang pahaba }
+      - amount: 100
+        unit: g
+        item: { en: cabbage, tl: repolyo }
+        note: { en: shredded, tl: ginayat }
+      - amount: 1
+        unit: tbsp
+        item: { en: sesame seeds, tl: linga }
+        note: { en: toasted, tl: tinusta }
+      - amount: 1
+        unit: { en: pack, tl: pakete }
+        item: Del Monte Quick 'n Easy BBQ Marinade
+        note: 200 ml
+
+review:
+  - No photo. The one supplied looked like a stock or recipe-site photo and showed a different dish. Add Marissa's own photo.
+  - This is a Del Monte package recipe, not Marissa's own wording. Check before publishing publicly.
+  - The ginger is listed but no step uses it.
+  - Step 2 seasons with toyo and pepper, but neither is in the ingredient list.
+  - No oil is listed for stir-frying.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: >-
+          Marinate the beef in the Del Monte Quick 'n Easy BBQ Marinade for 30 minutes. Stir-fry
+          in batches until just cooked. Set aside.
+        tl: >-
+          Ibabad ang baka sa Del Monte Quick 'n Easy BBQ Marinade nang 30 minuto. Igisa nang
+          paunti-unti hanggang maluto lang. Itabi.
+      - en: >-
+          In the same pan, sauté the carrots and sayote for 3 minutes. Add the bean sprouts, bell
+          pepper and cabbage. Season with soy sauce and pepper to taste, and any remaining
+          marinade. Sauté for a few minutes.
+        tl: >-
+          Sa parehong kawali, igisa ang carrots at sayote nang 3 minuto. Idagdag ang togue, bell
+          pepper at repolyo. Timplahan ng toyo at paminta ayon sa panlasa, at ng natirang marinade
+          kung mayroon. Igisa nang ilang minuto.
+      - en: Serve with the beef. Sprinkle with sesame seeds.
+        tl: Ihain kasama ng baka. Budburan ng linga.

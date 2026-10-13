@@ -1,0 +1,106 @@
+title:
+  tl: Morkon
+  en: Morcon
+subtitle: Murkon
+summary:
+  tl: >-
+    Binilot na karne ng baka na may palamang giniling na baboy, hamon, itlog at chorizo, na niluto
+    sa tomato sauce.
+  en: Rolled beef stuffed with ground pork, ham, egg and chorizo, braised in tomato sauce.
+category: ulam
+image: photos/morkon.png
+tags: [beef, chorizo, holiday]
+addedOn: "2026-10-13"
+
+ingredients:
+  - title: { tl: Para sa morkon, en: For the morcon }
+    items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: { tl: karne ng baka, en: beef }
+      - amount: 1/4
+        unit: { tl: kilo, en: kg }
+        item: { tl: giniling na baboy, en: ground pork }
+      - amount: 1
+        unit: { tl: puswelo, en: cup }
+        item: { tl: giniling na hamon, en: ground ham }
+      - amount: 1/2
+        unit: { tl: puswelo, en: cup }
+        item: sweet pickles
+        note: { tl: hiwa-hiwaing maliliit, en: finely chopped }
+      - amount: 2
+        item: { tl: nilagang itlog ng manok, en: hard-boiled eggs }
+      - amount: 1
+        item: { tl: itlog ng manok, en: egg }
+        note: { tl: hilaw, en: raw }
+      - amount: 1
+        item: chorizo de bilbao
+      - amount: 1/4
+        unit: { tl: puswelo, en: cup }
+        item: { tl: keso de bola, en: Edam cheese (keso de bola) }
+        note: { tl: ginadgad, en: grated }
+      - amount: 1
+        unit: { tl: maliit na kahon, en: small box }
+        item: { tl: pasas, en: raisins }
+      - amount: 1/4
+        unit: { tl: puswelo, en: cup }
+        item: olives
+      - item: { tl: toyo, en: soy sauce }
+      - item: { tl: kalamansi, en: calamansi }
+      - item: { tl: asin, en: salt }
+      - item: { tl: paminta, en: pepper }
+  - title: { tl: Para sa sabaw, en: For the braising liquid }
+    items:
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+        note: { tl: hiniwang pino, en: finely chopped }
+      - amount: 1
+        unit: { tl: maliit na lata, en: small can }
+        item: tomato sauce
+      - amount: 3
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+        note: { tl: dinikdik nang pino, en: finely crushed }
+      - amount: 1
+        item: { tl: maliit na dahong laurel, en: small bay leaf }
+      - item: { tl: suka, en: vinegar }
+      - item: { tl: toyo, en: soy sauce }
+      - item: { tl: pamintang durog, en: ground pepper }
+
+review:
+  - The braising liquid ingredients were only in step 5 of the original. They were also added as their own ingredient group.
+  - Step 2 says to mix "lahat ng sangkap" except the chorizo, eggs and olives. It is unclear whether this includes the beef and the marinade. It probably means the ground pork, ham, pickles, raw egg, cheese and raisins.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          Hiwain nang manipis ang karne (¼ pulgada ang kapal) at ibabad sa kaunting toyong may
+          kalamansi, asin at paminta.
+        en: >-
+          Slice the beef thinly (¼ inch thick) and marinate in a little soy sauce with calamansi,
+          salt and pepper.
+      - tl: Paghaluin ang lahat ng sangkap, maliban sa chorizo, nilagang itlog at olives.
+        en: Mix all the other ingredients except the chorizo, hard-boiled eggs and olives.
+      - tl: >-
+          Ilatag ang pinaghalong sangkap sa karne at iayos sa ibabaw nito ang itlog na nilaga
+          (pinag-apat na hiwa), chorizo na pinag-apat din ang hiwa, at olives na pinagdalawa ang
+          hiwa.
+        en: >-
+          Spread the mixture over the beef. Arrange the hard-boiled eggs (quartered), the chorizo
+          (also quartered) and the olives (halved) on top.
+      - tl: >-
+          Bilutin pagkatapos ang karneng may sangkap at talian ng makapal na sinulid upang hindi
+          humulagpos.
+        en: Roll up the beef with the filling and tie it with thick string so it does not come apart.
+      - tl: >-
+          Ilaga pagkatapos sa sabaw na ganito ang timpla: 1 sibuyas na hiniwang pino, 1 maliit na
+          lata ng tomato sauce, 3 butil na bawang (dinikdik nang pino), 1 maliit na dahong laurel,
+          suka, toyo at pamintang durog. Pakuluan hanggang sa lumambot ang karne.
+        en: >-
+          Simmer it in a broth of 1 finely chopped onion, 1 small can of tomato sauce, 3 cloves of
+          finely crushed garlic, 1 small bay leaf, vinegar, soy sauce and ground pepper. Cook until
+          the beef is tender.
+      - tl: >-
+          Sa paghahain, hiwa-hiwain ang morkon at buhusan sa ibabaw ng salsang pinaglagaan dito.
+        en: To serve, slice the morcon and pour the braising sauce over it.

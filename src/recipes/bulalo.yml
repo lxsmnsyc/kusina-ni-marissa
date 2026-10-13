@@ -1,0 +1,72 @@
+title: Bulalo
+summary:
+  en: Beef shank and bone marrow soup with corn, Chinese cabbage and pechay.
+  tl: Sabaw ng beef shank at utak ng buto na may mais, pechay Baguio at pechay.
+category: sabaw
+tags: [beef, soup, bone marrow, corn]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { en: kg, tl: kilo }
+        item: beef shank
+        note:
+          en: with bone and marrow, or oxtail; cut into chunks
+          tl: may buto at utak, o buntot ng baka; hiniwa nang malalaki
+      - amount: 1
+        unit: { en: small head, tl: maliit na ulo }
+        item: { en: Chinese cabbage, tl: pechay Baguio }
+        note: { en: quartered, tl: hiniwa sa apat }
+      - amount: 1
+        item: { en: small pechay (bok choy), tl: maliit na pechay }
+      - amount: 1
+        item: { en: large onion, tl: malaking sibuyas }
+        note: { en: quartered, tl: hiniwa sa apat }
+      - amount: 3
+        unit: { en: clove, tl: butil }
+        item: { en: garlic, tl: bawang }
+        note: { en: crushed, tl: pinitpit }
+      - amount: 2
+        item: { en: large ears of corn, tl: malalaking mais }
+        note: { en: each cut into 3 pieces, tl: tig-3 piraso ang hiwa }
+      - amount: 1
+        unit: tbsp
+        item: { en: peppercorns, tl: buong paminta }
+      - item: { en: salt, tl: asin }
+        note: { en: to taste, tl: ayon sa panlasa }
+      - item: { en: fish sauce, tl: patis }
+  - title: { en: For serving, tl: Para sa paghahain }
+    items:
+      - item: { en: green onions (onion leeks), tl: dahon ng sibuyas }
+      - item: { en: soy sauce, tl: toyo }
+        note: { en: or fish sauce, tl: o patis }
+      - item: { en: calamansi juice, tl: katas ng kalamansi }
+      - item: { en: chili, tl: sili }
+
+review:
+  - The photo was removed because it had a "PanlasangPinoy.com" watermark. Add Marissa's own photo.
+  - The garnish and dipping sauce were only in the serving notes of the original. They were added as their own ingredient group.
+  - Water is used in step 1 but not listed in the ingredients.
+  - Step 2 says to "let stand for 5 minutes" after adding the corn. It probably means to keep simmering for 5 minutes.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: >-
+          In a stock pot, simmer the beef shank with salt, onion and garlic for at least 2½ hours.
+          Skim off the scum that rises to the top. Add more hot water if needed.
+        tl: >-
+          Sa isang malaking kaldero, pakuluan nang marahan ang beef shank kasama ang asin, sibuyas
+          at bawang nang hindi bababa sa 2½ oras. Alisin ang bulang lumulutang sa ibabaw. Dagdagan
+          ng mainit na tubig kung kailangan.
+      - en: When the beef is fork-tender, add the corn and peppercorns. Let stand for 5 minutes.
+        tl: Kapag malambot na ang baka, idagdag ang mais at buong paminta. Hayaan nang 5 minuto.
+      - en: Add the cabbage and pechay. Season with fish sauce to taste.
+        tl: Idagdag ang pechay Baguio at pechay. Timplahan ng patis ayon sa panlasa.
+      - en: >-
+          Garnish with green onions (onion leeks). Serve hot with a dipping sauce of soy sauce,
+          calamansi juice and chili, or fish sauce with calamansi.
+        tl: >-
+          Palamutian ng dahon ng sibuyas. Ihain nang mainit kasama ng sawsawang toyo, katas ng
+          kalamansi at sili, o patis na may kalamansi.

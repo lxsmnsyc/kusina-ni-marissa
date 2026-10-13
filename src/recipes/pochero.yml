@@ -1,0 +1,94 @@
+title: Pochero
+summary:
+  tl: Nilagang baka na may chorizo, gulay at garbanzos sa sabaw na may tomato sauce.
+  en: Beef stew with chorizo, vegetables and chickpeas in a tomato broth.
+category: sabaw
+image: photos/pochero.png
+tags: [beef, chorizo, stew, vegetables]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: { tl: baka, en: beef }
+        note: { tl: "hiniwa nang tig-2 pulgada, pakuwadrado", en: cut into 2-inch cubes }
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: chorizo de bilbao
+        note: { tl: prinito at hiniwa nang manipis, en: fried and thinly sliced }
+      - amount: 4
+        unit: { tl: tangkay, en: stalk }
+        item: { tl: dahon ng sibuyas, en: green onion }
+        note: { tl: "hiniwa nang tig-4 pulgada, pahaba", en: cut into 4-inch lengths }
+      - amount: 1
+        unit: { tl: tangkay, en: stalk }
+        item: celery
+        note: { tl: "hiniwa nang tig-4 pulgada, pahaba", en: cut into 4-inch lengths }
+      - amount: 2
+        unit: { tl: kutsarita, en: tsp }
+        item: { tl: asin, en: salt }
+      - amount: 1
+        item: { tl: maliit na repolyo, en: small cabbage }
+        note: { tl: hiniwa sa 8 piraso, en: cut into 8 wedges }
+      - amount: 2
+        item: { tl: katamtamang laking patatas, en: medium potatoes }
+        note: { tl: binalatan at hiniwa nang pakuwadrado, en: peeled and cubed }
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: { tl: baguio beans, en: green beans }
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: { tl: garbanzos, en: chickpeas }
+      - amount: 2
+        unit: { tl: ulo, en: head }
+        item: { tl: bawang, en: garlic }
+        note: { tl: pinitpit, en: crushed }
+      - amount: 1
+        item: { tl: katamtamang laking sibuyas, en: medium onion }
+        note: { tl: tinadtad, en: chopped }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: tomato sauce
+      - amount: 2
+        unit: { tl: kutsarita, en: tsp }
+        item: { tl: mantika, en: cooking oil }
+
+review:
+  - The original step 1 says "hanggang ito'y lumapot" (until it thickens). Changed to "lumambot" (until tender).
+  - The celery and dahon ng sibuyas are listed but no step uses them.
+  - The 2 kutsaritang asin is never added in the steps.
+  - The 2 kutsaritang mantika is not mentioned. It is probably for sautéing in step 4.
+  - The title says "Pochero" but the note says "puchero".
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          Pakuluan ang baka sa isang kaserola na may sapat na dami ng tubig sa loob ng 2 oras, o
+          hanggang ito'y lumambot. Hanguin ang karne.
+        en: Boil the beef in a pot with enough water for 2 hours, or until tender. Remove the meat.
+      - tl: >-
+          Ipagpatuloy ang pagpapakulo ng sabaw ng baka. Ilagay dito ang patatas. Pakuluan muli
+          nang 2 hanggang 3 minuto.
+        en: Keep the beef broth boiling. Add the potatoes and boil for another 2 to 3 minutes.
+      - tl: Idagdag ang baguio beans at repolyo. Maghintay ng 5 minuto.
+        en: Add the green beans and cabbage. Wait 5 minutes.
+      - tl: >-
+          Sa isang maliit na kaserola, igisa ang bawang at sibuyas. Ihalo ang baka at tomato
+          sauce. Pakuluan muli nang 5 minuto.
+        en: >-
+          In a small pot, sauté the garlic and onion. Stir in the beef and tomato sauce. Simmer for
+          another 5 minutes.
+      - tl: Ibuhos ang sabaw. Idagdag ang garbanzos. Pakuluan muli nang 5 minuto.
+        en: Pour in the broth. Add the chickpeas. Boil for another 5 minutes.
+      - tl: >-
+          Hanguin ang baka at ilagay sa isang malaking mangkok. Iayos ang gulay sa mangkok.
+          Palamutian ng chorizo sa ibabaw. Ibuhos ang nilutong sabaw. Ihain habang mainit.
+        en: >-
+          Transfer the beef to a large bowl. Arrange the vegetables in the bowl. Top with the
+          chorizo. Pour the broth over. Serve hot.
+
+notes:
+  - tl: Mas masarap ang puchero kapag may kasamang ensaladang talong sa tabi nito.
+    en: Pochero is best served with eggplant salad (ensaladang talong) on the side.

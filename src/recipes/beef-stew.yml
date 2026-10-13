@@ -1,0 +1,90 @@
+title: Beef Stew
+summary:
+  tl: Pinalambot na baka sa tomato paste na may bacon, patatas, carrots at gisantes.
+  en: Beef braised in tomato sauce with bacon, potatoes, carrots and peas.
+category: ulam
+tags: [beef, stew, bacon]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: { tl: baka, en: beef }
+        note: { tl: hiniwa nang tig-1½ pulgada, en: cut into 1½-inch pieces }
+      - amount: 4
+        unit: { tl: piraso, en: slice }
+        item: bacon
+      - amount: 4
+        unit: { tl: ulo, en: head }
+        item: { tl: bawang, en: garlic }
+        note: { tl: pinitpit, en: crushed }
+      - amount: 1
+        item: { tl: katamtamang laking sibuyas, en: medium onion }
+        note: { tl: tinadtad, en: chopped }
+      - amount: 3
+        item: { tl: siling pula at berde, en: red and green bell peppers }
+        note: { tl: hiniwang pahaba, en: cut into strips }
+      - amount: 4-5
+        item: { tl: patatas, en: potatoes }
+        note:
+          tl: hiniwa sa apat na bahagi at bahagyang prinito
+          en: quartered and lightly fried
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: { tl: gisantes, en: green peas }
+      - amount: 1
+        unit: { tl: maliit na lata, en: small can }
+        item: tomato paste
+        note: { tl: o 2 lata ng tomato sauce, en: or 2 cans of tomato sauce }
+      - amount: 2
+        unit: { tl: kutsara, en: tbsp }
+        item: { tl: asin, en: salt }
+      - amount: 2
+        unit: { tl: kutsara, en: tbsp }
+        item: bread crumbs
+        note: biskotso
+      - amount: 1
+        unit: { tl: kutsarita, en: tsp }
+        item: { tl: betsin, en: MSG }
+      - amount: 2
+        item: carrots
+        note: { tl: hiniwa nang pakuwadrado, en: cubed }
+      - amount: 1
+        item: { tl: dahon ng laurel, en: bay leaf }
+      - amount: 1 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: tubig, en: water }
+
+review:
+  - The photo was removed because it looked like a TV or website screenshot (possibly Food Network). Add Marissa's own photo.
+  - 4 ulo ng bawang (4 heads of garlic) is a lot for 1 kilo of beef. It may mean 4 butil (cloves).
+  - 2 kutsarang asin (2 tablespoons of salt) is a lot for 1 kilo of beef. Check the amount.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          Prituhin ang bacon sa isang kawali sa mahinang apoy hanggang lumabas ang mantika nito at
+          maging malutong. Ilagay sa isang tabi.
+        en: Fry the bacon in a pan over low heat until the fat renders and it turns crisp. Set aside.
+      - tl: Sa parehong kawali, ilagay ang bawang at karne. Prituhin ang karne hanggang mamula.
+        en: In the same pan, add the garlic and beef. Fry the beef until browned.
+      - tl: Idagdag ang sibuyas at tomato paste. Haluin at pakuluin nang 5 minuto.
+        en: Add the onion and tomato paste. Stir and simmer for 5 minutes.
+      - tl: >-
+          Idagdag ang tubig at laurel, at timplahan ng asin at betsin. Pakuluan hanggang lumambot
+          ang karne. Dagdagan ng kaunting tubig kapag medyo natutuyuan.
+        en: >-
+          Add the water and bay leaf, and season with salt and MSG. Simmer until the beef is
+          tender. Add a little water if it starts to dry out.
+      - tl: >-
+          Kapag malapit nang maluto, ilagay ang gisantes, siling pula at siling berde, carrots at
+          piniritong patatas. Lutuin nang 10 minuto.
+        en: >-
+          When almost done, add the peas, red and green peppers, carrots and fried potatoes. Cook
+          for 10 minutes.
+      - tl: >-
+          Para lumapot ang sabaw, lagyan ng biskotso. Palamutian ng bacon sa ibabaw kapag ihahain
+          na.
+        en: To thicken the sauce, add the bread crumbs. Top with the bacon when serving.

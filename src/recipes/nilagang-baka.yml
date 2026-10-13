@@ -1,0 +1,73 @@
+title: Nilagang Baka
+summary:
+  tl: Sabaw ng pinalambot na baka na may patatas, repolyo at celery.
+  en: Tender beef simmered in a clear broth with potatoes, cabbage and celery.
+category: sabaw
+image: photos/nilagang-baka.png
+tags: [beef, soup, vegetables, nilaga]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: { tl: karne ng baka, en: beef }
+        note: { tl: kudra-kudraduhin, en: cubed }
+      - amount: 6
+        unit: { tl: tasa, en: cup }
+        item: { tl: tubig, en: water }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+        note: { tl: tadtarin, en: chopped }
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: { tl: repolyo, en: cabbage }
+        note: { tl: gayatin, en: sliced }
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: { tl: patatas, en: potatoes }
+        note: { tl: hiniwang apatan, en: quartered }
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: celery
+        note: { tl: hiwain, en: chopped }
+      - amount: 3
+        unit: { tl: tangkay, en: stalk }
+        item: { tl: kintsay, en: Chinese celery }
+        note: { tl: hiwain nang pino, en: finely chopped }
+      - amount: 1/2
+        unit: { tl: kutsarita, en: tsp }
+        item: { tl: asin, en: salt }
+      - amount: 1
+        item: { tl: dahong laurel, en: bay leaf }
+        note: { tl: durugin, en: crushed }
+      - item: { tl: pamintang buo, en: whole peppercorns }
+        note: { tl: ilang butil, en: a few }
+      - amount: 1 1/2
+        unit: { tl: kutsarita, en: tsp }
+        item: { tl: paminta, en: ground pepper }
+        note: { tl: pulbos, en: powdered }
+      - amount: 2
+        unit: { tl: kutsara, en: tbsp }
+        item: { tl: mantika, en: cooking oil }
+
+review:
+  - The original step says "Isalin ang butig sa baka". Changed "butig" to "tubig" (water).
+  - The sibuyas is listed but no step uses it.
+  - Both celery and kintsay are listed. Kintsay is Chinese celery, so these may be the same ingredient twice.
+  - '"Huwag lalabugin" is unclear. It may mean "huwag lalamugin" (do not overcook). Translated as "do not overcook".'
+  - The beef is measured as 1 tasa (cup), which is unusual for meat.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Papulahin ang kudra-kudradong baka sa pinainit na langis.
+        en: Brown the cubed beef in hot oil.
+      - tl: Isalin ang tubig sa baka. Ipagpatuloy ang pagluluto sa katamtamang init.
+        en: Pour the water over the beef. Continue cooking over medium heat.
+      - tl: Kung malambot na ang baka, ihalo ang patatas, celery, repolyo at kintsay.
+        en: Once the beef is tender, add the potatoes, celery, cabbage and Chinese celery.
+      - tl: Timplahan ng asin, dahong laurel, pamintang buo at pulbos na paminta.
+        en: Season with salt, bay leaf, whole peppercorns and ground pepper.
+      - tl: Hanguin kung luto na (huwag lalabugin) ang mga gulay.
+        en: Remove from the heat once the vegetables are cooked (do not overcook).

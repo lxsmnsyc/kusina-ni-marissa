@@ -1,0 +1,53 @@
+title:
+  tl: Pikadilyo
+  en: Picadillo
+summary:
+  tl: Giniling na baka at patatas na niluto sa sabaw na may kamatis.
+  en: Ground beef and potatoes simmered in a tomato broth.
+category: sabaw
+tags: [beef, ground beef, potato]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { tl: baka, en: beef }
+        note: { tl: giniling, en: ground }
+      - amount: 1/3
+        unit: { tl: kilo, en: kg }
+        item: { tl: patatas, en: potatoes }
+        note: { tl: hiwain, en: cut }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+      - amount: 2
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+      - amount: 3
+        item: { tl: kamatis, en: tomatoes }
+      - amount: 6
+        unit: { tl: tasa, en: cup }
+        item: { tl: tubig, en: water }
+      - item: { tl: patis, en: fish sauce }
+      - item: { tl: paminta, en: pepper }
+      - item: { tl: mantika, en: cooking oil }
+
+review:
+  - The photo was removed because it had a "www.laylita.com" watermark. Add Marissa's own photo.
+  - The paminta is listed but no step uses it.
+  - The mantika is not mentioned. It is probably for sautéing in step 1.
+  - The sibuyas, bawang and kamatis have no preparation (chopped or sliced).
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Igisa ang bawang, sibuyas at kamatis.
+        en: Sauté the garlic, onion and tomatoes.
+      - tl: Ihalo ang giniling na baka at takpan. Lutuin sa tamang init.
+        en: Add the ground beef and cover. Cook over moderate heat.
+      - tl: Kapag maluluto na, isalin sa kaldero, timplahan ng patis at lagyan ng tubig.
+        en: When almost cooked, transfer to a pot, season with fish sauce and add the water.
+      - tl: Pagkulo, ihalo ang patatas at ituloy ang pagpapalambot.
+        en: Once boiling, add the potatoes and keep simmering until tender.
+      - tl: Ihain nang mainit.
+        en: Serve hot.

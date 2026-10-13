@@ -1,0 +1,50 @@
+title: Beef Tapa
+summary:
+  tl: Hiniwang baka na tinimplahan ng asin, bawang, paminta at asukal, saka pinatuyo.
+  en: Sliced beef cured with salt, garlic, pepper and sugar, then dried.
+category: almusal
+image: photos/beef-tapa.png
+tags: [beef, tapa, cured]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: { tl: baka, en: beef }
+      - amount: 2
+        unit: tbsp
+        item: { tl: asin, en: salt }
+      - amount: 1
+        unit: { tl: ulo, en: head }
+        item: { tl: bawang, en: garlic }
+      - amount: 1/2
+        unit: tbsp
+        item: { tl: paminta, en: pepper }
+      - amount: 2
+        unit: tbsp
+        item: { tl: asukal, en: sugar }
+
+review:
+  - '"2 tbsp asukal" was written between the steps in the original. Moved to the ingredients. It is unclear when the sugar is added.'
+  - The garlic has no preparation (crushed or minced).
+  - The recipe ends when the tapa is dry. It does not say how to cook it.
+  - "Food safety: drying raw beef in the sun or leaving it unrefrigerated for days can let bacteria grow. Consider adding a note to keep it refrigerated."
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          Hiwain ang karneng baka na may ¼ pulgada ang kapal, 4 na pulgada ang lapad at 6 na
+          pulgada ang haba.
+        en: Slice the beef ¼ inch thick, 4 inches wide and 6 inches long.
+      - tl: Ilagay ang mga sangkap.
+        en: Add the other ingredients.
+      - tl: >-
+          Ilagay sa ref sa loob ng 2 hanggang 3 araw at ibilad sa araw. Maaari ring hindi ilagay sa
+          ref; sa halip, ipuwesto lamang sa tuyo at nahahanginang lugar.
+        en: >-
+          Refrigerate for 2 to 3 days, then dry in the sun. You can also skip the refrigerator and
+          simply place it in a dry, airy spot instead.
+      - tl: Patuyuin ang tapa nang ilang araw pa, at puwede na itong lutuin.
+        en: Dry the tapa for a few more days, and it is ready to cook.

@@ -1,0 +1,69 @@
+title: Beef Caldereta
+summary:
+  en: Beef brisket braised with liver spread and caldereta sauce, with potatoes, bell pepper and peas.
+  tl: Brisket ng baka na niluto sa liver spread at caldereta sauce, may patatas, bell pepper at green peas.
+category: ulam
+image: photos/beef-caldereta.png
+tags: [beef, caldereta, stew]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 3
+        unit: tbsp
+        item: { en: cooking oil, tl: mantika }
+      - amount: 1
+        item: { en: potato, tl: patatas }
+        note: { en: "120 g, cut into chunks", tl: "120 g, hiniwa nang malalaki" }
+      - amount: 4
+        unit: tsp
+        item: liver spread
+      - amount: 2
+        unit: { en: cup, tl: tasa }
+        item: { en: water, tl: tubig }
+      - amount: 1/2
+        unit: { en: kg, tl: kilo }
+        item: { en: beef brisket, tl: brisket ng baka }
+        note: { en: cut into chunks, tl: hiniwa nang malalaki }
+      - amount: 1
+        item: siling labuyo
+        note: { en: sliced, tl: hiniwa }
+      - amount: 1
+        unit: tbsp
+        item: { en: cheese, tl: keso }
+        note: { en: grated, tl: kinayod }
+      - amount: 1
+        item: { en: medium red bell pepper, tl: katamtamang laking red bell pepper }
+        note: { en: cut into strips, tl: hiniwa nang pahaba }
+      - amount: 1/2
+        unit: { en: cup, tl: tasa }
+        item: green peas
+        note: { en: frozen or cooked, tl: frozen o luto }
+      - amount: 1
+        unit: pouch
+        item: caldereta sauce
+        note: 80 g
+
+review:
+  - The recipe uses an 80 g caldereta sauce pouch and reads like a product package recipe, not Marissa's own wording. Check before publishing publicly.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: Fry the potatoes in 2 tablespoons of oil. Set aside.
+        tl: Iprito ang patatas sa 2 kutsarang mantika. Itabi.
+      - en: >-
+          In the same pan, add 1 tablespoon of oil, then stir-fry the liver spread and beef until
+          both sides of the meat are brown. Add 2 cups of water. Cover and simmer for 45 minutes,
+          or until tender. Keep only 1 cup of broth (or add water to make 1 cup).
+        tl: >-
+          Sa parehong kawali, maglagay ng 1 kutsarang mantika, saka igisa ang liver spread at baka
+          hanggang pumula ang magkabilang gilid ng karne. Ilagay ang 2 tasang tubig. Takpan at
+          hayaang kumulo nang 45 minuto, o hanggang lumambot. Magtira lamang ng 1 tasang sabaw (o
+          dagdagan ng tubig para maging 1 tasa).
+      - en: >-
+          Add the caldereta sauce, siling labuyo and cheese. Simmer for 5 minutes, then add the bell
+          pepper and green peas. Simmer for another 3 minutes. Stir in the fried potatoes.
+        tl: >-
+          Ilagay ang caldereta sauce, siling labuyo at keso. Pakuluan nang 5 minuto, saka idagdag
+          ang bell pepper at green peas. Pakuluan pa nang 3 minuto. Ihalo ang piniritong patatas.
