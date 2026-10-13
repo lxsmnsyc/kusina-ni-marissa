@@ -1,0 +1,78 @@
+title: Bopis
+summary:
+  tl: Tinadtad na puso, baga at atay ng baboy na iginisa sa suka, atsuete at gulay.
+  en: Finely chopped pork heart, lungs and liver sautéed with vinegar, annatto and vegetables.
+category: ulam
+image: photos/bopis.png
+tags: [pork, offal, vinegar]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { tl: puso at baga ng baboy, en: pork heart and lungs }
+      - amount: 1/4
+        item: { tl: atay ng baboy, en: pork liver }
+      - amount: 5
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+        note: { tl: dinikdik, en: crushed }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+        note: { tl: ginayat, en: sliced }
+      - amount: 2
+        item: { tl: kamatis, en: tomatoes }
+        note: { tl: ginayat, en: sliced }
+      - amount: 1
+        unit: cup
+        item: { tl: tubig, en: water }
+      - amount: 1
+        unit: tbsp
+        item: { tl: atsuete seeds, en: annatto seeds }
+        note: { tl: binabad sa ¼ cup na mainit na tubig, en: soaked in ¼ cup hot water }
+      - amount: 3
+        item: { tl: dahon ng laurel, en: bay leaves }
+      - amount: 1
+        item: medium red bell pepper
+        note: { tl: hiniwang pa-cubes, en: cubed }
+      - amount: 1
+        item: { tl: medium carrot, en: medium carrot }
+        note: { tl: hiniwang maliliit na pa-cubes, en: cut into small cubes }
+      - amount: 4
+        unit: { tl: kutsara, en: tbsp }
+        item: { tl: suka, en: vinegar }
+      - amount: 3
+        item: siling labuyo
+        note: optional
+      - item: { tl: asin, en: salt }
+      - item: { tl: paminta, en: pepper }
+
+review:
+  - '"1/4 atay ng baboy" has no unit. It probably means ¼ kilo.'
+  - The dahon ng laurel is listed but no step uses it.
+  - It is unclear where the 1 cup of water goes. It may be for boiling the offal in Part 1.
+  - No oil is listed for sautéing in Part 2.
+  - The English translation was written during conversion.
+
+steps:
+  - title: Part 1
+    steps:
+      - tl: Pakuluan ang baga, puso at atay.
+        en: Boil the lungs, heart and liver.
+      - tl: Patuluin, palamigin at hiwain nang maliliit.
+        en: Drain, let cool and chop into small pieces.
+  - title: Part 2
+    steps:
+      - tl: Igisa ang bawang, sibuyas at kamatis.
+        en: Sauté the garlic, onion and tomatoes.
+      - tl: Ilagay ang puso, baga at atay.
+        en: Add the heart, lungs and liver.
+      - tl: Ilagay ang tubig na pinagbabaran ng atsuete at pakuluin nang 5 minuto.
+        en: Add the annatto soaking water and simmer for 5 minutes.
+      - tl: Ilagay ang suka at pakuluin.
+        en: Add the vinegar and bring to a boil.
+      - tl: Ilagay ang mga gulay, asin at paminta.
+        en: Add the vegetables, salt and pepper.
+      - tl: Pag kumulo na at luto na ang gulay, patayin na ang apoy.
+        en: Once it boils and the vegetables are cooked, turn off the heat.
