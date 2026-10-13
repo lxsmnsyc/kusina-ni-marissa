@@ -1,0 +1,78 @@
+title: Chocolate Truffles
+summary:
+  en: Rich chocolate cream truffles coated in white or dark chocolate.
+  tl: Malinamnam na chocolate truffles na binalot sa puti o maitim na tsokolate.
+category: panghimagas
+image: photos/chocolate-truffles.png
+tags: [chocolate, truffles, no-bake]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 25
+        unit: g
+        item: unsalted butter
+        note: 1 oz
+      - amount: 75
+        unit: ml
+        item: { en: double cream, tl: double cream (heavy cream) }
+        note: 2½ oz
+      - amount: 225
+        unit: g
+        item: { en: good-quality Swiss chocolate, tl: magandang klase ng Swiss chocolate }
+        note: 8 oz
+      - amount: 1
+        unit: tbsp
+        item: orange-flavored liqueur
+        note: optional
+  - title: { en: To finish, tl: Pambalot }
+    items:
+      - amount: 100
+        unit: g
+        item: { en: white or plain chocolate, tl: puti o plain na tsokolate }
+        note: 3½ oz
+
+review:
+  - The wording (Swiss roll tin, double cream, grams with ounces) matches a printed British cookbook, so the text is probably copied. The photo looks like Marissa's own. Check before publishing publicly.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: Line a Swiss roll tin with baking parchment.
+        tl: Lagyan ng baking parchment ang isang Swiss roll tin.
+      - en: >-
+          Put the butter and cream in a small saucepan and bring slowly to a boil, stirring
+          constantly. Boil for 1 minute, then remove from the heat.
+        tl: >-
+          Ilagay ang butter at cream sa isang maliit na kaserola at dahan-dahang pakuluan habang
+          patuloy na hinahalo. Pakuluan nang 1 minuto, saka alisin sa apoy.
+      - en: >-
+          Break the chocolate into pieces and add it to the cream. Stir until melted, then beat in
+          the liqueur, if using.
+        tl: >-
+          Hatiin ang tsokolate at ilagay sa cream. Haluin hanggang matunaw, saka ihalo ang liqueur
+          kung gagamit.
+      - en: Pour into the prepared tin and chill for about 2 hours, or until firm.
+        tl: Ibuhos sa inihandang tin at palamigin nang mga 2 oras, o hanggang tumigas.
+      - en: >-
+          Break off pieces of the mixture and roll them into balls. Chill for another 30 minutes.
+        tl: >-
+          Kumuha ng kapiraso at bilugin. Palamigin pa nang 30 minuto.
+      - en: >-
+          To finish, melt the chocolate in a bowl set over a pan of gently simmering water. Dip the
+          balls in the chocolate, letting the excess drip back into the bowl.
+        tl: >-
+          Tunawin ang tsokolate sa isang mangkok na nakapatong sa kaserolang may kumukulong tubig.
+          Isawsaw ang mga bola sa tsokolate at hayaang tumulo ang sobra.
+      - en: >-
+          Place on the lined tin, swirl the chocolate with the tines of a fork and leave to harden.
+        tl: >-
+          Ilagay sa tin, gumuhit ng paikot sa tsokolate gamit ang tinidor, at hayaang tumigas.
+
+notes:
+  - en: >-
+      Use 100 g (3½ oz) plain or milk chocolate instead of white chocolate. You can also break the
+      chocolate into pieces and roll the truffles in them.
+    tl: >-
+      Puwedeng gumamit ng 100 g na plain o milk chocolate sa halip na white chocolate. Puwede ring
+      hatiin ang tsokolate at i-roll dito ang truffles.
