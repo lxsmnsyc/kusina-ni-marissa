@@ -1,0 +1,51 @@
+title: Atsara Espesyal
+summary:
+  tl: Pipino, carrots, bell pepper, sibuyas at bawang na ibinuro sa matamis na suka.
+  en: Cucumber, carrots, bell peppers, onion and garlic pickled in sweet vinegar.
+category: sawsawan
+tags: [pickles, atsara, vegetables, vinegar]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 3
+        item: { tl: pipino, en: cucumbers }
+        note: { tl: hiniwa, en: sliced }
+      - amount: 2
+        item: { tl: katamtamang laking carrots, en: medium carrots }
+        note: { tl: hiniwang pahaba, en: cut into strips }
+      - item: { tl: pula at berdeng bell pepper, en: red and green bell peppers }
+        note: { tl: hiniwang pahaba, en: cut into strips }
+      - amount: 2
+        item: { tl: sibuyas, en: onions }
+        note: { tl: hiniwang pabilog, en: sliced into rings }
+      - item: { tl: bawang, en: garlic }
+        note: { tl: hiniwang pabilog, en: sliced }
+  - title: { tl: Pambabad, en: Pickling liquid }
+    items:
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: { tl: suka, en: vinegar }
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: { tl: asukal, en: sugar }
+      - amount: 1
+        unit: tsp
+        item: { tl: asin, en: salt }
+
+review:
+  - No photo was sent with this recipe.
+  - The bell peppers and garlic have no amounts.
+  - '"Isara at pakuluan ng 30 minuto" probably means boiling the closed jar in water for 30 minutes. Check this.'
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Ilagay ang mga hiniwang gulay sa isang garapon.
+        en: Put the sliced vegetables in a jar.
+      - tl: Pakuluan ang suka, asin at asukal, at ibuhos sa gulay.
+        en: Boil the vinegar, salt and sugar, and pour it over the vegetables.
+      - tl: Isara ang garapon at pakuluan nang 30 minuto.
+        en: Close the jar and boil it for 30 minutes.
+      - tl: Pag luto na, takpan nang mahigpit at palamigin.
+        en: When done, seal tightly and let cool.
