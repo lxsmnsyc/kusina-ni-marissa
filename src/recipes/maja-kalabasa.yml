@@ -1,0 +1,71 @@
+title: Maja Kalabasa
+summary:
+  tl: Maja na gawa sa kalabasa, gata at cornstarch, may latik sa ibabaw.
+  en: Squash and coconut milk pudding thickened with cornstarch, topped with latik.
+category: panghimagas
+image: photos/maja-kalabasa.png
+tags: [kalabasa, squash, coconut milk, kakanin]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 2
+        unit: cup
+        item: kalabasa
+        note: { tl: dinurog, en: mashed }
+      - amount: 1 1/2
+        unit: cup
+        item: cornstarch
+      - amount: 1
+        unit: cup
+        item: { tl: gata, en: coconut milk }
+      - amount: 1/2
+        item: condensed milk
+        note: { tl: o dagdagan ng asukal, en: or add more sugar }
+      - amount: 2
+        unit: cup
+        item: { tl: gata o kakang gata, en: coconut milk or coconut cream }
+  - title: { tl: Para sa latik, en: For the latik }
+    items:
+      - amount: 1/2
+        unit: cup
+        item: { tl: gata, en: coconut milk }
+
+review:
+  - '"1/2 condensed milk" has no unit. It may mean ½ can or ½ cup.'
+  - 'The ½ cup coconut milk is "para sa roasted grated coconut or latik". It is unclear whether grated coconut is also toasted for the topping.'
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Hiwain ang kalabasa at pakuluan.
+        en: Cut the squash and boil it.
+      - tl: >-
+          Kapag malambot na po, i-blender. Kung walang blender, i-mash po nang mabuti.
+        en: When tender, blend it. If you have no blender, mash it well.
+      - tl: Pagsamahin po ang 1 cup na gata at ang ½ condensed milk. Itabi.
+        en: Combine 1 cup of the coconut milk with the condensed milk. Set aside.
+      - tl: >-
+          Pagsamahin naman ang 1½ cup na cornstarch at 2 cups na gata o kakang gata, hanggang sa
+          matunaw lahat ang cornstarch.
+        en: >-
+          Mix the 1½ cups of cornstarch with the 2 cups of coconut milk or coconut cream until the
+          cornstarch is fully dissolved.
+      - tl: Idagdag sa cornstarch ang mashed na kalabasa at haluing mabuti.
+        en: Add the mashed squash to the cornstarch mixture and mix well.
+      - tl: Ihalo na ang pinagsamang gata at condensed milk sa kalabasa mixture.
+        en: Stir the coconut milk and condensed milk mixture into the squash mixture.
+      - tl: Iluto sa isang pan ang ½ cup na gata para sa latik.
+        en: In a pan, cook the ½ cup of coconut milk to make latik.
+      - tl: >-
+          Sa pinaglutuan po ng latik, doon po natin iluto ang mixture o batter. Haluin po nang haluin
+          hanggang sa maluto.
+        en: >-
+          Cook the batter in the same pan used for the latik. Keep stirring until it is cooked and
+          thick.
+      - tl: Kapag luto na, ilagay na po sa isang lalagyan at ilagay ang latik para sa toppings.
+        en: When cooked, transfer it to a dish and top with the latik.
+
+notes:
+  - tl: Gumamit po tayo ng 3½ cups na gata para sa recipe na ito.
+    en: This recipe uses 3½ cups of coconut milk in total.
