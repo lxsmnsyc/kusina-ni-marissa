@@ -4,6 +4,7 @@ summary:
   tl: Malasabaw na miki na may atay at balunbalunan, tokwa, patola at gulay.
   en: Soupy egg noodles with chicken liver and gizzards, tofu, patola and vegetables.
 category: kanin-at-pansit
+image: photos/miki-with-patola.png
 tags: [noodles, miki, patola, chicken]
 addedOn: "2026-10-13"
 
@@ -46,7 +47,6 @@ ingredients:
       - item: { tl: kalamansi, en: calamansi }
 
 review:
-  - No photo yet. The one sent in chat did not come through as a file.
   - '"1/4 atay at balunbalunan" has no unit. Recorded as ¼ kilo, which is a guess.'
   - '"1 guht n bitsuelas" is unclear. Recorded as "1 guhit". It may mean a bundle (tali) or a handful.'
   - Step 2 fries the tofu and sets it aside, but no step adds it back. No oil is listed for frying either.
