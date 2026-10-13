@@ -1,0 +1,54 @@
+title: Steamed Sweet Bread with Strawberry Jam
+subtitle: { tl: Gawa sa pancake mix, en: Made with pancake mix }
+summary:
+  tl: Malambot na steamed bread na gawa sa pancake mix, may strawberry jam sa loob at ibabaw.
+  en: Soft steamed bread made with pancake mix, with strawberry jam swirled in and on top.
+category: merienda
+tags: [steamed, bread, strawberry, pancake mix]
+servings: 8
+addedOn: "2026-10-13"
+
+ingredients:
+  - title: { tl: Mga sangkap na may ☆, en: ☆ ingredients }
+    items:
+      - amount: 150
+        unit: g
+        item: pancake mix
+      - amount: 10
+        unit: g
+        item: sugar
+      - amount: 1
+        item: egg
+      - amount: 100
+        unit: ml
+        item: milk
+      - amount: 1
+        unit: tbsp
+        item: vegetable oil
+  - items:
+      - amount: 1
+        unit: cup
+        item: strawberry jam
+
+review:
+  - No photo yet. The one sent in chat did not come through as a file.
+  - The ☆ markings and layout look like a translated Cookpad recipe. Check the source before publishing publicly.
+  - The original ingredient list is in English, so it is shown the same in both languages.
+  - The English translation of the steps was written during conversion.
+
+steps:
+  - steps:
+      - tl: Pagsama-samahin ang may ☆ markang ingredients sa 1 bowl.
+        en: Combine the ☆ ingredients in a bowl.
+      - tl: Ilagay ang mixture sa mga silicone cups, 60% puno.
+        en: Fill silicone cups 60% full with the mixture.
+      - tl: Maglagay ng 1 tsp ng strawberry jam sa bawat cup and stir 2 to 3 times.
+        en: Put 1 tsp of strawberry jam in each cup and stir 2 to 3 times.
+      - tl: Maglagay ng tubig sa steamer. Pakuluin at ilagay na ang mga mixture na nasa mga cups.
+        en: Put water in the steamer. Bring it to a boil, then put in the filled cups.
+      - tl: Lutuin nang 12 minuto sa mahinang apoy.
+        en: Cook for 12 minutes over low heat.
+      - tl: Pagkatapos ng 12 minuto, mag-toothpick test kung ito'y luto na.
+        en: After 12 minutes, test with a toothpick to see if they are done.
+      - tl: Kapag ihahain, lagyan ng strawberry jam sa ibabaw.
+        en: When serving, top with strawberry jam.
