@@ -3,6 +3,7 @@ summary:
   tl: Isdang biya na niluto sa suka, luya at gata ng niyog.
   en: Goby fish simmered in vinegar, ginger and coconut milk.
 category: ulam
+image: photos/ginataang-biya.png
 tags: [fish, biya, coconut milk]
 addedOn: "2026-10-13"
 
@@ -26,7 +27,6 @@ ingredients:
       - item: { tl: sili, en: chili }
 
 review:
-  - No photo yet. The one sent in chat did not come through as a file.
   - The sili is listed but no step uses it.
   - '"Initin nang atay-atay" is unclear. It may mean "hinay-hinay" (gently). Translated as "heat gently".'
   - The English translation was written during conversion.
