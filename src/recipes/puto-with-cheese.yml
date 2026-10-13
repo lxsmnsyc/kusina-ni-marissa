@@ -1,0 +1,48 @@
+title: Puto with Cheese
+summary:
+  tl: Malambot na steamed puto na may keso sa ibabaw.
+  en: Soft steamed rice cakes topped with cheese.
+category: merienda
+image: photos/puto-with-cheese.png
+tags: [puto, kakanin, steamed, cheese]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 4
+        unit: cup
+        item: all-purpose flour
+      - amount: 2 1/2
+        unit: cup
+        item: { tl: asukal, en: sugar }
+      - amount: 2
+        unit: tbsp
+        item: baking powder
+      - amount: 4
+        item: { tl: itlog, en: eggs }
+        note: { tl: binati, en: beaten }
+      - amount: 3
+        unit: cup
+        item: { tl: tubig, en: water }
+      - amount: 1/2
+        item: butter
+      - amount: 1
+        unit: big can
+        item: evaporated milk
+      - item: { tl: keso, en: cheese }
+        note: { tl: pang-toppings, en: for topping }
+
+review:
+  - '"1/2 ng butter" has no unit. It may mean ½ cup or ½ bar.'
+  - The butter is not described as melted, though it probably should be.
+  - The recipe does not say what molds to use or how many puto it makes.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Mix lahat ng sangkap.
+        en: Mix all the ingredients.
+      - tl: Sa huli, ilagay sa ibabaw ang keso.
+        en: Top with cheese.
+      - tl: Steam for 15 minutes.
+        en: Steam for 15 minutes.
