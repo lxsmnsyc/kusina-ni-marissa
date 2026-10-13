@@ -1,0 +1,55 @@
+title: Paksiw na Lechon
+summary:
+  tl: Natirang lechon na niluto sa suka, liver spread at asukal hanggang lumapot ang sarsa.
+  en: Leftover roast pork simmered in vinegar, liver spread and brown sugar until the sauce thickens.
+category: ulam
+tags: [pork, lechon, vinegar]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: { tl: lechon na baboy, en: roast pork (lechon) }
+        note: { tl: hiniwa, en: sliced }
+      - amount: 1
+        unit: { tl: lata, en: can }
+        item: liver spread
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: { tl: suka, en: vinegar }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: asukal na pula, en: brown sugar }
+      - amount: 1
+        unit: { tl: kutsara, en: tbsp }
+        item: { tl: asin, en: salt }
+      - amount: 1
+        unit: { tl: kutsara, en: tbsp }
+        item: { tl: pamintang buo, en: whole peppercorns }
+      - amount: 4
+        unit: { tl: ulo, en: head }
+        item: { tl: bawang, en: garlic }
+        note: { tl: pinitpit, en: crushed }
+      - amount: 1
+        unit: { tl: kutsarita, en: tsp }
+        item: { tl: betsin, en: MSG }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: tuyong oregano, en: dried oregano }
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: { tl: tubig, en: water }
+
+review:
+  - No photo was sent with this recipe.
+  - 4 ulo ng bawang (4 heads of garlic) is a lot. It may mean 4 butil (cloves).
+  - ½ tasa (½ cup) of dried oregano is a lot. It may mean ½ kutsara (tablespoon).
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Ilagay sa kawali ang hiniwang lechon kasama ang lahat ng sangkap. Pakuluan.
+        en: Put the sliced lechon and all the other ingredients in a pan. Bring to a boil.
+      - tl: Hinaan ang apoy hanggang lumambot ang lechon at lumapot ang sarsa.
+        en: Lower the heat and simmer until the pork is tender and the sauce has thickened.
