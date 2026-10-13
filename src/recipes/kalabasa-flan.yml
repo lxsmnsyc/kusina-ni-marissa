@@ -1,0 +1,82 @@
+title: Kalabasa Flan
+summary:
+  tl: Steamed leche flan na may dinurog na kalabasa at caramel syrup.
+  en: Steamed custard flan made with mashed squash and caramel syrup.
+category: panghimagas
+tags: [kalabasa, squash, leche flan, steamed]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 5
+        item: { tl: itlog, en: eggs }
+      - amount: 1
+        unit: cup
+        item: condensed milk
+      - amount: 1/2
+        unit: cup
+        item: evaporated milk
+      - amount: 1/2
+        unit: cup
+        item: kalabasa
+        note: { tl: dinurog, en: mashed }
+      - item: vanilla essence
+        note: optional
+      - item: lemon zest
+      - item: { tl: asin, en: salt }
+        note: optional
+      - item: { tl: mantika, en: cooking oil }
+        note: { tl: pampahid sa tray, en: for greasing the tray }
+  - title: { tl: Para sa caramel syrup, en: For the caramel syrup }
+    items:
+      - amount: 3-4
+        unit: tbsp
+        item: { tl: asukal, en: sugar }
+      - amount: 1
+        unit: tbsp
+        item: { tl: tubig, en: water }
+
+review:
+  - No photo was sent with this recipe.
+  - The lemon zest is listed but no step uses it.
+  - 'Step 3 says "evap na gatas (kondensada)". It probably means both the evaporated and condensed milk.'
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Magpainit ng steamer na may kalahating dami ng tubig ang kaserola.
+        en: Heat a steamer with the pot half full of water.
+      - tl: Ilaga ang kalabasa at durugin. Kumuha ng sapat na dami na ihahalo sa flan.
+        en: Boil the squash and mash it. Measure out enough to mix into the flan.
+      - tl: >-
+          Sa isang bowl, basagin ang 5 itlog at batihin. Maaaring lagyan ng vanilla at asin
+          (optional).
+        en: In a bowl, crack the 5 eggs and beat them. Add vanilla and salt if you like.
+      - tl: >-
+          Ihalo ang evap na gatas (kondensada) at kalabasa. Haluin ito, at gumamit ng electric mixer
+          o blender kung mayroon.
+        en: >-
+          Add the milk and the squash. Mix well, using an electric mixer or blender if you have one.
+      - tl: Pahiran ng mantika ang tray.
+        en: Grease the tray with oil.
+      - tl: >-
+          Gumawa ng syrup. Sa mainit na kawali, ilagay ang 3 hanggang 4 tbsp na asukal at kaunting
+          tubig. Lutuin ito hanggang maging caramel syrup.
+        en: >-
+          Make the syrup. In a hot pan, add the 3 to 4 tbsp of sugar and a little water. Cook until
+          it turns into caramel syrup.
+      - tl: Ibuhos sa tray o llanera ang syrup.
+        en: Pour the syrup into the tray or llanera.
+      - tl: >-
+          Ang egg mixture ay maaaring salain upang mabawasan ang bula at ang buo-buong sangkap na
+          hindi nadurog.
+        en: Strain the egg mixture to remove foam and any lumps.
+      - tl: >-
+          Maaari na itong ibuhos sa tray at i-steam nang mga 25 minuto, depende sa inyong tray at
+          dami ng lulutuin. Obserbahan para malaman kung naluluto na ang kalabasa flan. Tusukin ng
+          matulis na stick para malaman kung luto na.
+        en: >-
+          Pour it into the tray and steam for about 25 minutes, depending on your tray and how much
+          you are making. Check on it, and test with a skewer to see if it is done.
+      - tl: Then palamigin ito, at ready nang ihain.
+        en: Then let it cool, and it is ready to serve.
