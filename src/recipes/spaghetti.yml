@@ -4,6 +4,7 @@ summary:
   tl: Matamis na Pinoy spaghetti na may giniling, hotdog, ham, mushroom at keso.
   en: Sweet Filipino-style spaghetti with ground meat, hotdog, ham, mushrooms and cheese.
 category: kanin-at-pansit
+image: photos/spaghetti.png
 tags: [pasta, spaghetti, ground meat, hotdog]
 addedOn: "2026-10-13"
 
@@ -45,7 +46,6 @@ ingredients:
       - item: { tl: asukal, en: sugar }
 
 review:
-  - No photo yet. The one sent in chat did not come through as a file.
   - The ham and hotdog ("1/4") have no unit. They probably mean ¼ kilo.
   - The sibuyas, bawang, pickles and keso are used in the steps but not listed.
   - The paminta is listed but no step uses it.
