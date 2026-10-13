@@ -1,0 +1,70 @@
+title: Porkchop in a Special Sauce
+summary:
+  tl: Porkchop na pinalambot sa white wine at mushroom, binuhusan ng sarsang may pula ng itlog at kalamansi.
+  en: Pork chops braised with white wine and mushrooms, finished with an egg yolk and calamansi sauce.
+category: ulam
+tags: [pork, porkchop, mushroom, bacon]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 6
+        unit: { tl: piraso, en: slice }
+        item: bacon
+        note: { tl: hiniwa, en: cut up }
+      - amount: 6
+        item: { tl: porkchop, en: pork chops }
+      - amount: 2/3
+        unit: { tl: tasa, en: cup }
+        item: { tl: tubig, en: water }
+      - amount: 1/3
+        unit: { tl: tasa, en: cup }
+        item: white wine
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: button mushrooms
+      - amount: 5
+        item: { tl: maliit na sibuyas, en: small onions }
+        note: { tl: inapat, en: quartered }
+      - amount: 1
+        item: chicken bouillon cube
+      - amount: 1/4
+        unit: { tl: kutsarita, en: tsp }
+        item: nutmeg
+        note: optional
+      - amount: 2
+        item: { tl: pula ng itlog, en: egg yolks }
+        note: { tl: binati, en: beaten }
+      - amount: 2
+        unit: { tl: kutsara, en: tbsp }
+        item: { tl: katas ng kalamansi, en: calamansi juice }
+      - amount: 1
+        unit: { tl: kutsara, en: tbsp }
+        item: { tl: mantikilya, en: butter }
+      - item: { tl: asin, en: salt }
+      - item: { tl: paminta, en: pepper }
+
+review:
+  - No photo was sent with this recipe.
+  - The bacon is fried, chopped and set aside, but no step adds it back.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Prituhin ang bacon, tadtarin at itabi.
+        en: Fry the bacon, chop it and set aside.
+      - tl: Sa parehong mantika, prituhin ang porkchop hanggang mamula.
+        en: In the same fat, fry the pork chops until browned.
+      - tl: Ibuhos ang tubig, white wine, mushroom, sibuyas, chicken bouillon at nutmeg.
+        en: Add the water, white wine, mushrooms, onions, bouillon cube and nutmeg.
+      - tl: Hayaang lumambot ang karne.
+        en: Simmer until the meat is tender.
+      - tl: Hanguin ang porkchop at ilagay sa isang bandehado.
+        en: Remove the pork chops and place them on a platter.
+      - tl: >-
+          Sa pinaglutuang sabaw, idagdag ang pula ng itlog, katas ng kalamansi at mantikilya.
+          Timplahan ayon sa panlasa.
+        en: >-
+          Add the egg yolks, calamansi juice and butter to the cooking liquid. Season to taste.
+      - tl: Palaputin ang sabaw at ibuhos sa ibabaw ng porkchop.
+        en: Let the sauce thicken and pour it over the pork chops.
