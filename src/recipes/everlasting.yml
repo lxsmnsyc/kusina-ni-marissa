@@ -1,0 +1,68 @@
+title: Everlasting
+summary:
+  tl: Steamed meatloaf na giniling na baboy, may chorizo de bilbao, hotdog, carrots, bell pepper at pasas.
+  en: A steamed pork meatloaf with chorizo de bilbao, hotdogs, carrots, bell pepper and raisins.
+category: ulam
+image: photos/everlasting.png
+tags: [pork, ground meat, steamed, holiday]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: { tl: giniling na baboy, en: ground pork }
+      - amount: 1
+        item: { tl: katamtamang laki ng carrot, en: medium carrot }
+      - amount: 1
+        item: red bell pepper
+      - amount: 2
+        item: chorizo de bilbao
+      - amount: 5
+        item: hotdog
+      - item: { tl: pasas, en: raisins }
+      - amount: 1
+        unit: { tl: pakete, en: pack }
+        item: tomato sauce
+      - amount: 3
+        item: { tl: itlog, en: eggs }
+        note: { tl: binati, en: beaten }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: all-purpose flour
+      - item: { tl: sibuyas, en: onion }
+      - item: { tl: bawang, en: garlic }
+      - item: { tl: asin at paminta, en: salt and pepper }
+        note: { tl: ayon sa panlasa, en: to taste }
+      - item: margarine
+        note: { tl: pamahid sa molder, en: for greasing the mold }
+      - item: kintsay
+        note: { tl: opsyonal, en: "Chinese celery, optional" }
+
+review:
+  - The raisins have no amount, and no step says when to add them.
+  - The recipe does not say how to cut the carrot, bell pepper, chorizo and hotdogs (the photo shows them finely diced).
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Pahiran ng margarine ang molder.
+        en: Grease the mold with margarine.
+      - tl: Igisa ang sibuyas, bawang at giniling na baboy. Isunod ang carrots at bell pepper.
+        en: Sauté the onion, garlic and ground pork. Add the carrot and bell pepper.
+      - tl: Ilagay ang tomato sauce, at timplahan ng asin at paminta.
+        en: Add the tomato sauce and season with salt and pepper.
+      - tl: Ilagay ang chorizo at hotdog. Patayin ang apoy at palamigin.
+        en: Add the chorizo and hotdogs. Turn off the heat and let cool.
+      - tl: Ihalo ang binating itlog at harina, at ilagay sa molder.
+        en: Mix in the beaten eggs and flour, then pack into the mold.
+      - tl: >-
+          Takpan ng aluminum foil at i-steam nang 1½ hanggang 2 oras, depende sa sukat at kapal ng
+          lulutuin.
+        en: >-
+          Cover with aluminum foil and steam for 1½ to 2 hours, depending on the size and thickness
+          of the mold.
+
+notes:
+  - tl: Nagdagdag po ako ng kintsay.
+    en: Marissa also adds kintsay (Chinese celery).
