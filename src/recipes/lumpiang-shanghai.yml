@@ -1,0 +1,68 @@
+title: Lumpiang Shanghai
+subtitle: { tl: Sariling bersyon, en: Own version }
+summary:
+  tl: Maliliit na lumpia na may palamang giniling na baboy at gulay, prinito hanggang lumutong.
+  en: Crispy fried spring rolls filled with ground pork and vegetables.
+category: merienda
+image: photos/lumpiang-shanghai.png
+tags: [pork, ground pork, lumpia, fried]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { tl: giniling na baboy, en: ground pork }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: sibuyas, en: onion }
+        note: { tl: tinadtad, en: chopped }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: singkamas, en: jicama (singkamas) }
+        note: { tl: tinadtad, en: chopped }
+      - amount: 1/4
+        unit: { tl: tasa, en: cup }
+        item: { tl: murang sibuyas o kintsay, en: green onions or Chinese celery }
+        note: { tl: hiniwang pino, en: finely chopped }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: patatas, en: potato }
+        note: { tl: tinadtad, en: chopped }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: carrots
+        note: { tl: tinadtad, en: chopped }
+      - amount: 3
+        item: { tl: itlog, en: eggs }
+      - item: { tl: paminta, en: pepper }
+      - item: { tl: asin, en: salt }
+      - item: { tl: betsin, en: MSG }
+      - item: { tl: pambalot ng lumpia, en: spring roll wrappers }
+      - item: { tl: mantika, en: cooking oil }
+        note: { tl: pamprito, en: for frying }
+  - title: { tl: Para sa paghahain, en: For serving }
+    items:
+      - item: { tl: matamis-maasim na sarsa, en: sweet and sour sauce }
+
+review:
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Pagsama-samahin sa isang bowl ang lahat ng sangkap.
+        en: Mix all the filling ingredients in a bowl.
+      - tl: Tikman ayon sa panlasa.
+        en: Taste and adjust the seasoning.
+      - tl: Maglagay sa bawat pambalot ng lumpia at balutin.
+        en: Spoon some filling onto each wrapper and roll up.
+      - tl: Iluto sa mainit na mantika.
+        en: Fry in hot oil.
+      - tl: Ihain na may kasamang matamis-maasim na sarsa.
+        en: Serve with sweet and sour sauce.
+
+notes:
+  - tl: >-
+      Kung ibig po, maaaring igisa muna ang mga sangkap maliban sa itlog, at saka palamigin bago
+      ibalot.
+    en: If you like, sauté the filling ingredients (except the eggs) first, then let cool before wrapping.
