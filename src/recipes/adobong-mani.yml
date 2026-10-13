@@ -1,0 +1,48 @@
+title:
+  tl: Adobong Mani
+  en: Fried Garlic Peanuts
+subtitle: { tl: Piniritong mani, en: Adobong mani }
+summary:
+  tl: Piniritong mani na may bawang at asin.
+  en: Peanuts fried with garlic and seasoned with salt.
+category: merienda
+image: photos/adobong-mani.png
+tags: [peanut, fried, snack]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: { tl: hilaw na mani, en: raw peanuts }
+      - amount: 1
+        unit: { tl: ulo, en: head }
+        item: { tl: bawang, en: garlic }
+        note: { tl: ginayat, en: sliced }
+      - amount: 1/2
+        unit: tbsp
+        item: { tl: asin, en: salt }
+      - amount: 1
+        unit: tsp
+        item: MSG
+      - amount: 5
+        unit: cup
+        item: { tl: mantika, en: cooking oil }
+
+review:
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Magpainit ng mantika at iprito ang bawang. Pag kulay brown na, hanguin at itabi.
+        en: Heat the oil and fry the garlic. When golden brown, remove and set aside.
+      - tl: >-
+          Ilagay ang mani sa mantika at prituhin ito nang 10 hanggang 15 minuto, habang
+          hinahalo-halo.
+        en: Add the peanuts to the oil and fry for 10 to 15 minutes, stirring now and then.
+      - tl: Kapag luto na, patuluin hanggang sa maalis ang mantika.
+        en: When cooked, drain until the oil is gone.
+      - tl: Wisikan ng asin at MSG.
+        en: Sprinkle with salt and MSG.
+      - tl: Ilagay ang bawang.
+        en: Toss in the fried garlic.
