@@ -1,0 +1,58 @@
+title:
+  en: Crispy Ulo ng Baboy
+  tl: Crispy Ulo ng Baboy
+subtitle: { en: Crispy pig's head, tl: Malutong na ulo ng baboy }
+summary:
+  en: A whole pig's head boiled with salt and peppercorns, then roasted in a turbo broiler until crisp.
+  tl: Buong ulo ng baboy na pinakuluan sa asin at paminta, saka niluto sa turbo broiler hanggang lumutong.
+category: ulam
+image: photos/crispy-ulo-ng-baboy.png
+tags: [pork, crispy, turbo broiler]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        item: { en: whole pig's head, tl: buong ulo ng baboy }
+        note: { en: cleaned thoroughly, tl: nilinis nang mabuti }
+      - amount: 1-2
+        unit: tbsp
+        item: { en: rock salt, tl: magaspang na asin }
+      - amount: 1
+        unit: tbsp
+        item: { en: peppercorns, tl: buong paminta }
+      - amount: 1
+        unit: tbsp
+        item: { en: MSG, tl: betsin }
+      - item: { en: water, tl: tubig }
+  - title: { en: Dipping sauce, tl: Sawsawan }
+    items:
+      - item: Mang Tomas lechon sauce
+        note:
+          en: or a mix of vinegar, soy sauce, garlic, chili and sugar to taste
+          tl: o pinaghalong suka, toyo, bawang, sili at asukal ayon sa panlasa
+
+review:
+  - The original describes the dish as "fat free", which it is not. That claim was left out.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: >-
+          Put the pig's head in a large pot with enough water to cover it. Add the salt, peppercorns
+          and MSG, and boil for 30 to 40 minutes.
+        tl: >-
+          Ilagay ang ulo ng baboy sa malaking kaserola na may sapat na tubig para lumubog ito.
+          Idagdag ang asin, paminta at betsin, at pakuluan nang 30 hanggang 40 minuto.
+      - en: Drain and let it stand until the meat is completely cool.
+        tl: Patuluin at hayaang lumamig nang tuluyan ang karne.
+      - en: >-
+          Roast in a large turbo broiler on high for 1 hour, letting the fat drip off.
+        tl: >-
+          Lutuin sa malaking turbo broiler sa mataas na init nang 1 oras, at hayaang tumulo ang
+          taba.
+      - en: >-
+          Serve with Mang Tomas lechon sauce, or a dip of vinegar, soy sauce, garlic, chili and
+          sugar.
+        tl: >-
+          Ihain kasama ng Mang Tomas lechon sauce, o sawsawang suka, toyo, bawang, sili at asukal.
