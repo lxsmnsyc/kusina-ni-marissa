@@ -1,0 +1,50 @@
+title: Pizza Pandesal
+summary:
+  en: Halved pandesal topped with pizza sauce, ham, pineapple and cheese, toasted until the cheese melts.
+  tl: Hinating pandesal na nilagyan ng pizza sauce, ham, pinya at keso, at tinoast hanggang matunaw ang keso.
+category: merienda
+image: photos/pizza-pandesal.png
+tags: [pandesal, pizza, ham, cheese, oven toaster]
+servings: 1
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        item: pandesal
+        note: { en: sliced in half, tl: hinati sa gitna }
+      - amount: 2
+        unit: tbsp
+        item: { en: pizza sauce or tomato sauce, tl: pizza sauce o tomato sauce }
+      - amount: 1
+        unit: { tl: hiwa, en: slice }
+        item: ham
+        note: { en: cut into pieces, tl: hiniwa nang maliliit }
+      - amount: 1
+        unit: tbsp
+        item: pineapple tidbits
+      - amount: 1/2
+        unit: cup
+        item: { en: grated cheese, tl: ginadgad na keso }
+        note: { en: about, tl: humigit-kumulang }
+
+review:
+  - Half a cup of cheese for one pandesal seems like a lot. Check whether that is right.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: Arrange the 2 pandesal halves on a small tray or plate.
+        tl: Ihanay ang 2 hati ng pandesal sa isang maliit na tray o plato.
+      - en: Spread 1 tbsp of pizza sauce or tomato sauce on each half.
+        tl: Pahiran ng 1 kutsarang pizza sauce o tomato sauce ang bawat hati.
+      - en: >-
+          Sprinkle with the ham and pineapple, and top with the cheese, or use your choice of
+          toppings. Marissa likes pepperoni.
+        tl: >-
+          Budburan ng ham at pinya, at lagyan ng keso sa ibabaw, o ng anumang toppings na gusto
+          ninyo. Pepperoni ang gusto ni Marissa.
+      - en: Transfer to the aluminum tray of an oven toaster.
+        tl: Ilipat sa aluminum tray ng oven toaster.
+      - en: Toast for 2 minutes, or until the cheese has melted. Enjoy!
+        tl: I-toast nang 2 minuto, o hanggang matunaw ang keso. Enjoy!
