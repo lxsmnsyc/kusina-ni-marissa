@@ -1,0 +1,84 @@
+title: Kare-Kare
+summary:
+  tl: >-
+    Buntot ng baka at gulay sa malapot na sarsang mani at dinikdik na bigas, inihahain kasama ng
+    bagoong alamang.
+  en: Oxtail and vegetables in a thick peanut and toasted rice sauce, served with shrimp paste.
+category: ulam
+image: photos/kare-kare.png
+tags: [beef, oxtail, peanut, vegetables]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        item: { tl: buntot ng baka, en: oxtail }
+        note:
+          tl: mga 1 o ½ kilo, hiniwa nang tig-3 pulgada
+          en: about 1 or ½ kg, cut into 3-inch pieces
+      - amount: 5
+        unit: { tl: kutsarita, en: tsp }
+        item: { tl: mantika, en: cooking oil }
+      - amount: 5
+        unit: { tl: ulo, en: head }
+        item: { tl: bawang, en: garlic }
+        note: { tl: pinitpit, en: crushed }
+      - amount: 1
+        item: { tl: katamtamang laking sibuyas, en: medium onion }
+        note: { tl: hiniwa-hiwa, en: sliced }
+      - amount: 1/4
+        unit: { tl: tasa, en: cup }
+        item: { tl: katas ng achuete, en: annatto water }
+      - amount: 1
+        item: { tl: puso ng saging na saba, en: banana heart (saba) }
+        note: { tl: hiniwa nang pahaba, en: cut lengthwise }
+      - amount: 2
+        unit: { tl: tali, en: bunch }
+        item: { tl: sitaw, en: string beans }
+        note: { tl: hiniwa nang tig-2 pulgada, en: cut into 2-inch lengths }
+      - amount: 4
+        item: { tl: katamtamang laking talong, en: medium eggplants }
+        note: { tl: hiniwa nang tig-½ pulgada, en: cut into ½-inch slices }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: bigas, en: uncooked rice }
+        note: { tl: tinusta at dinikdik nang pino, en: toasted and finely ground }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: peanut butter
+      - item: { tl: asin, en: salt }
+      - item: { tl: paminta, en: pepper }
+      - item: { tl: betsin, en: MSG }
+  - title: { tl: Para sa paghahain, en: For serving }
+    items:
+      - item: { tl: bagoong alamang, en: shrimp paste (bagoong alamang) }
+
+review:
+  - '"Mga 1 o ½ kilo" for the oxtail is unclear. It may mean 1 to 1½ kilo.'
+  - 5 ulo ng bawang (5 heads of garlic) is a lot. It may mean 5 butil (cloves).
+  - Water is used to boil the oxtail and in steps 3 and 4 (¾ tasa), but it is not in the ingredient list.
+  - The bagoong alamang was only in the last step of the original. It was added as its own ingredient group.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          Palambutin ang buntot ng baka. Hanguin mula sa tubig at prituhin nang bahagya sa
+          mantika.
+        en: Simmer the oxtail until tender. Remove from the water and lightly fry in oil.
+      - tl: >-
+          Igisa ang bawang at sibuyas sa mantika. Idagdag ang katas ng achuete. Igisa hanggang
+          lumabas ang mantika ng buntot ng baka.
+        en: >-
+          Sauté the garlic and onion in the oil. Add the annatto water. Sauté until the fat from the
+          oxtail renders.
+      - tl: Idagdag ang gulay at kaunting tubig upang magkasarsa.
+        en: Add the vegetables and a little water to make a sauce.
+      - tl: >-
+          Idagdag ang pinulbos na bigas at peanut butter na tinunaw sa ¾ tasang tubig. Timplahan ng
+          asin, paminta at betsin.
+        en: >-
+          Add the ground toasted rice and the peanut butter dissolved in ¾ cup of water. Season with
+          salt, pepper and MSG.
+      - tl: Ihain nang may kasamang bagoong alamang.
+        en: Serve with shrimp paste (bagoong alamang).

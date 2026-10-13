@@ -1,0 +1,71 @@
+title:
+  tl: Estopadong Dila ng Baka
+  en: Beef Tongue Estofado
+summary:
+  tl: >-
+    Dila ng baka na pinalambot sa sarsang kamatis, toyo at laurel, inihahain kasama ng piniritong
+    patatas.
+  en: Beef tongue braised in tomato, soy sauce and bay leaf, served with fried potatoes.
+category: ulam
+image: photos/estopadong-dila-ng-baka.png
+tags: [beef, lengua, tomato]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        item: { tl: dila ng baka, en: beef tongue }
+      - amount: 3
+        item: { tl: sibuyas, en: onions }
+        note: { tl: hiniwa nang pino, en: finely chopped }
+      - amount: 5
+        item: { tl: kamatis, en: tomatoes }
+        note: { tl: hiniwa nang pino, en: finely chopped }
+      - amount: 1
+        unit: { tl: maliit na lata, en: small can }
+        item: tomato sauce
+      - amount: 2
+        unit: { tl: kutsara, en: tbsp }
+        item: { tl: pamintang buo, en: whole peppercorns }
+      - amount: 1
+        item: { tl: dahon ng laurel, en: bay leaf }
+      - item: { tl: toyo, en: soy sauce }
+      - item: { tl: asin, en: salt }
+      - item: { tl: asukal, en: sugar }
+  - title: { tl: Para sa paghahain, en: For serving }
+    items:
+      - item: { tl: patatas, en: potatoes }
+        note: { tl: hiniwang pabilog at prinito, en: sliced into rounds and fried }
+
+review:
+  - The asin and asukal are listed but no step uses them.
+  - Water is used in steps 2 to 4 (½ puswelo, then 1 puswelo, then more as needed), but it is not in the ingredient list.
+  - The fried potatoes were only in the last step of the original. They were added as their own ingredient group.
+  - The photo shows olives and mushrooms, which are not in this recipe. It may be from another cook's version.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Banlian ang dila ng baka at kayurin ang maputing balat.
+        en: Blanch the beef tongue in boiling water and scrape off the white skin.
+      - tl: >-
+          Ilagay sa kaldero ang kamatis at sibuyas (hiwang pino), pamintang buo, toyo, dahon ng
+          laurel, tomato sauce at ½ puswelong tubig. Isama rito ang dila ng baka at pakuluan.
+        en: >-
+          Put the tomatoes and onions (finely chopped), peppercorns, soy sauce, bay leaf, tomato
+          sauce and ½ cup of water in a pot. Add the tongue and bring to a boil.
+      - tl: Makaraan ang ilang sandali'y dagdagan ang sabaw ng 1 puswelong tubig. Takpan.
+        en: After a while, add 1 cup of water to the broth. Cover.
+      - tl: >-
+          Bibiling-bilingan ang dila upang lumambot ang magkabilang panig nito, at hahaluin ang
+          salsa upang huwag manikit. Kapag natuyo ang sabaw nang di pa malambot ang dila, dagdagan
+          ang tubig.
+        en: >-
+          Turn the tongue now and then so both sides become tender, and stir the sauce so it does
+          not stick. If the sauce dries up before the tongue is tender, add more water.
+      - tl: >-
+          Hiwa-hiwain ang dila kapag luto na at iayos sa bandeha nang may piniritong patatas
+          (pabilog ang hiwa) sa ibabaw.
+        en: >-
+          When cooked, slice the tongue and arrange it on a platter, topped with fried potatoes
+          sliced into rounds.

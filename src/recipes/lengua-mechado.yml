@@ -1,0 +1,66 @@
+title: Lengua Mechado
+summary:
+  tl: Buong dila ng baka na pinalambot sa sarsang kamatis na may hamon at alak.
+  en: Whole beef tongue braised in a tomato sauce with ham and wine.
+category: ulam
+tags: [beef, lengua, tomato]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        item: { tl: dila ng baka, en: beef tongue }
+      - amount: 1
+        unit: { tl: lata, en: can }
+        item: tomato sauce
+      - amount: 3
+        item: { tl: kamatis na sariwa, en: fresh tomatoes }
+      - amount: 2
+        item: { tl: sibuyas, en: onions }
+        note: { tl: hiniwang maliliit, en: finely chopped }
+      - amount: 5
+        unit: { tl: hiwa, en: slice }
+        item: { tl: hamon o bacon, en: ham or bacon }
+        note: { tl: manipis, en: thin }
+      - amount: 4
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+        note: { tl: pinitpit, en: crushed }
+      - amount: 1/2
+        unit: { tl: puswelo, en: cup }
+        item: { tl: alak, en: wine }
+      - item: { tl: toyo, en: soy sauce }
+      - item: { tl: paminta, en: pepper }
+      - item: { tl: asin, en: salt }
+
+review:
+  - No photo yet. The one sent in chat did not come through as a file.
+  - The tomato sauce is listed but no step uses it.
+  - The asin is listed but no step uses it.
+  - Step 2 browns the garlic in mantika, but it is not in the ingredient list.
+  - Water is added in step 3 but not listed in the ingredients.
+  - The type of alak (wine) is not given.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Banlian ang dila at kayurin ang maputing balat.
+        en: Blanch the tongue in boiling water and scrape off the white skin.
+      - tl: >-
+          Papulahin sa mantika ang pinitpit na bawang, isunod ang sibuyas at kamatis. Timplahan ng
+          toyo't paminta bago ihalo ang hamon o bacon na hiniwang pahaba.
+        en: >-
+          Brown the crushed garlic in oil, then add the onions and tomatoes. Season with soy sauce
+          and pepper before adding the ham or bacon, cut into strips.
+      - tl: >-
+          Makaraan ang ilang sandaling pagkulo'y ihulog ang dila (buo) at dagdagan ng kaunting
+          tubig upang makuluang mabuti ang dila.
+        en: >-
+          After it has simmered for a while, add the whole tongue and a little water so the tongue
+          cooks through.
+      - tl: Kapag kumukulo na'y ibuhos ang alak at takpan. Gatungan hanggang sa lumambot ang dila.
+        en: Once boiling, pour in the wine and cover. Keep cooking until the tongue is tender.
+      - tl: >-
+          Paghiwa-hiwain ang dila kapag ihahain na at buhusan sa ibabaw ng salsang pinagpakuluan
+          dito.
+        en: To serve, slice the tongue and pour the cooking sauce over it.

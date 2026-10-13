@@ -1,0 +1,62 @@
+title: Beef Patty
+summary:
+  tl: Patties ng giniling na baka at hamon na inihurno sa cream of mushroom sauce.
+  en: Ground beef and ham patties baked in a cream of mushroom sauce.
+category: ulam
+tags: [beef, ground beef, baked]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 3/4
+        unit: { tl: kilo, en: kg }
+        item: { tl: giniling na baka, en: ground beef }
+      - amount: 1
+        item: { tl: itlog, en: egg }
+        note: { tl: binati, en: beaten }
+      - amount: 2
+        unit: { tl: hiwa, en: slice }
+        item: { tl: hamon, en: ham }
+        note: { tl: tinadtad, en: chopped }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: breadcrumbs
+      - amount: 1/4
+        unit: { tl: tasa, en: cup }
+        item: { tl: sibuyas na mura, en: green onions }
+        note: { tl: tinadtad, en: chopped }
+      - amount: 1/4
+        unit: { tl: tasa, en: cup }
+        item: parsley
+        note: { tl: tinadtad, en: chopped }
+      - amount: 1/4
+        unit: { tl: tasa, en: cup }
+        item: { tl: keso, en: cheese }
+        note: { tl: ginadgad, en: grated }
+      - item: { tl: asin, en: salt }
+      - item: { tl: paminta, en: pepper }
+      - amount: 1
+        unit: { tl: lata, en: can }
+        item: condensed cream of mushroom soup
+      - amount: 1/3
+        unit: { tl: tasa, en: cup }
+        item: { tl: tubig, en: water }
+
+review:
+  - No photo. The one supplied looked like a stock photo of raw patties, not the finished dish. Add Marissa's own photo.
+  - The recipe ends before baking. It does not say how long to bake the patties.
+  - Step 1 greases the pan with mantika, but it is not in the ingredient list.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Painitin ang oven sa 350°F at pahiran ng mantika ang baking pan.
+        en: Preheat the oven to 350°F and grease a baking pan with oil.
+      - tl: Paghaluin ang unang 7 sangkap. Timplahan ng asin at paminta.
+        en: Mix the first 7 ingredients. Season with salt and pepper.
+      - tl: Idagdag ang ¼ tasa ng mushroom soup. Haluing mabuti.
+        en: Add ¼ cup of the mushroom soup. Mix well.
+      - tl: Ikorte ang patties at ilagay sa baking pan.
+        en: Shape into patties and place in the baking pan.
+      - tl: Idagdag ang tubig sa natirang soup at ibuhos sa ibabaw ng patties.
+        en: Add the water to the remaining soup and pour it over the patties.
