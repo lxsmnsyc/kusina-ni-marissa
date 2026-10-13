@@ -1,0 +1,72 @@
+title: Carbonara
+summary:
+  tl: Pasta sa creamy na sarsang may bacon, ham, mushroom at keso.
+  en: Pasta in a creamy sauce with bacon, ham, mushrooms and cheese.
+category: kanin-at-pansit
+tags: [pasta, bacon, ham, creamy]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: { tl: fettuccine o spaghetti, en: fettuccine or spaghetti }
+      - amount: 1/4
+        unit: { tl: kilo, en: kg }
+        item: bacon
+      - amount: 1/4
+        unit: { tl: kilo, en: kg }
+        item: ham
+      - amount: 1
+        unit: { tl: pakete, en: pack }
+        item: all-purpose cream
+      - amount: 1
+        unit: can
+        item: evaporated milk
+      - amount: 1/4
+        unit: { tl: kilo, en: kg }
+        item: { tl: giniling, en: ground meat }
+        note: optional
+      - amount: 1/4
+        unit: { tl: kilo, en: kg }
+        item: cheesedog
+        note: optional
+      - amount: 1
+        unit: can
+        item: mushrooms
+      - amount: 5
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+      - amount: 2
+        item: { tl: sibuyas, en: onions }
+      - item: { tl: paminta, en: pepper }
+      - item: { tl: betsin, en: MSG }
+      - item: { tl: asin, en: salt }
+      - item: { tl: keso, en: cheese }
+        note: { tl: ginadgad, en: grated }
+
+review:
+  - No photo was sent with this recipe.
+  - 'The ingredient list says "1/4 kilo cheese (optional)" but the steps add "cheesedog". Recorded as cheesedog. It may be a typo for cheese.'
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Pakuluan ang pasta ayon sa instructions. Itabi.
+        en: Cook the pasta according to the package instructions. Set aside.
+      - tl: Iprito ang bacon at ham. Itabi.
+        en: Fry the bacon and ham. Set aside.
+      - tl: Igisa ang sibuyas, bawang at giniling.
+        en: Sauté the onions, garlic and ground meat.
+      - tl: Ilagay ang Nestlé cream at gatas.
+        en: Add the cream and milk.
+      - tl: Pag kumulo, ilagay na ang cheesedog at mushroom.
+        en: When it boils, add the cheesedog and mushrooms.
+      - tl: >-
+          Pag kumulo, lagyan ng asin, paminta at betsin. Timplahan ayon sa panlasa.
+        en: When it boils again, add salt, pepper and MSG. Season to taste.
+      - tl: Ilagay ang bacon at ham. Takpan at pakuluin.
+        en: Add the bacon and ham. Cover and simmer.
+      - tl: >-
+          Iyan na ang sauce mo para ihalo sa pasta. Lagyan ng ginadgad na keso.
+        en: That is your sauce. Toss it with the pasta and top with grated cheese.
