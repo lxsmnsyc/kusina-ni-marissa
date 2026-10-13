@@ -1,0 +1,57 @@
+title: Coffee Jelly
+summary:
+  tl: Cubes ng coffee gulaman sa malamig na cream at condensed milk.
+  en: Cubes of coffee gelatin in chilled sweetened cream.
+category: panghimagas
+tags: [coffee, gulaman, gelatin, no-bake]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: pakete, en: pack }
+        item: { tl: puting Mr. Gulaman, en: unflavored white gelatin (Mr. Gulaman) }
+      - amount: 2
+        unit: { tl: kutsara, en: tbsp }
+        item: instant coffee
+      - amount: 3/4
+        unit: { tl: tasa, en: cup }
+        item: { tl: asukal, en: sugar }
+      - amount: 1
+        unit: { tl: pakete, en: pack }
+        item: condensed milk
+        note: 250 ml
+      - amount: 1
+        unit: { tl: pakete, en: pack }
+        item: all-purpose cream
+        note: { tl: "250 ml, o heavy cream", en: "250 ml, or heavy cream" }
+      - amount: 1 1/2
+        unit: { tl: litro, en: L }
+        item: { tl: tubig, en: water }
+
+review:
+  - No photo. The one supplied looked like a web thumbnail. Add Marissa's own photo.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          Tunawin ang gulaman sa 1½ litro ng tubig, o sundin ang nakalagay na instructions sa
+          pakete.
+        en: >-
+          Dissolve the gelatin in 1½ liters of water, or follow the instructions on the package.
+      - tl: Pakuluin at ilagay ang asukal. Kapag tunaw na ang asukal, patayin na ang apoy.
+        en: Bring to a boil and add the sugar. Once the sugar dissolves, turn off the heat.
+      - tl: Ihalo ang kape at haluing mabuti hanggang matunaw.
+        en: Stir in the coffee until fully dissolved.
+      - tl: Isalin sa mga lalagyan at palamigin.
+        en: Pour into containers and let it set.
+      - tl: >-
+          Kapag okay na ang gulaman at matigas na, maaari na po nating hiwain sa hugis at laki na
+          gusto ninyo.
+        en: Once firm, cut the gelatin into any shape and size you like.
+      - tl: >-
+          Sa isang lalagyan, paghaluin ang gatas at cream, at ilagay na rin ang gulaman.
+        en: In a bowl, mix the condensed milk and cream, then add the gelatin.
+      - tl: Ilagay na po natin sa refrigerator at palamigin.
+        en: Chill in the refrigerator.
