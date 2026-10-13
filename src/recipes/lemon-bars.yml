@@ -1,0 +1,70 @@
+title: Lemon Bars
+summary:
+  en: A buttery shortbread crust baked with a lemon-zest custard and dusted with powdered sugar.
+  tl: Malutong na crust na may lemon filling sa ibabaw, binudburan ng powdered sugar.
+category: panghimagas
+image: photos/lemon-bars.png
+tags: [lemon, bars, baked]
+addedOn: "2026-10-13"
+
+ingredients:
+  - title: { en: Crust, tl: Crust }
+    items:
+      - amount: 1/2
+        unit: cup
+        item: margarine
+      - amount: 1/4
+        unit: cup
+        item: powdered sugar
+      - amount: 1
+        unit: cup
+        item: all-purpose flour
+        note: { en: sifted, tl: sinala }
+      - amount: 1/8
+        unit: tsp
+        item: { en: salt, tl: asin }
+  - title: { en: Filling, tl: Palaman }
+    items:
+      - amount: 1
+        unit: cup
+        item: { en: sugar, tl: asukal }
+      - amount: 2
+        item: { en: eggs, tl: itlog }
+      - amount: 1
+        unit: tbsp
+        item: { en: grated lemon zest, tl: ginadgad na balat ng lemon }
+      - amount: 2
+        unit: tbsp
+        item: all-purpose flour
+        note: { en: sifted, tl: sinala }
+  - title: { en: Topping, tl: Pang-ibabaw }
+    items:
+      - item: { en: powdered (confectioners') sugar, tl: powdered sugar }
+
+review:
+  - The filling has no lemon juice, which lemon bars usually include. Check whether it was left out.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - title: { en: Crust, tl: Crust }
+    steps:
+      - en: Preheat the oven to 350 °F (175 °C) and grease an 8 × 8 inch pan.
+        tl: Painitin ang oven sa 350 °F (175 °C) at pahiran ng mantika ang 8 × 8 pulgadang pan.
+      - en: Cream the margarine and powdered sugar until smooth.
+        tl: I-cream ang margarine at powdered sugar hanggang maging smooth.
+      - en: Add the flour and salt and mix until combined.
+        tl: Ilagay ang harina at asin, at haluin hanggang maghalo.
+      - en: Press the mixture firmly into the pan.
+        tl: Ilagay ang mixture sa pan at idiin.
+      - en: Bake for 20 minutes. Let cool and set aside.
+        tl: I-bake nang 20 minuto. Palamigin at itabi.
+  - title: { en: Filling, tl: Palaman }
+    steps:
+      - en: In a mixing bowl, whisk the eggs and sugar until smooth.
+        tl: Sa isang mixing bowl, batihin ang itlog at asukal hanggang maging smooth.
+      - en: Add the lemon zest, then fold in the flour.
+        tl: Ilagay ang lemon zest, saka itupi ang harina.
+      - en: Pour the filling over the crust and bake for 20 minutes. Let cool.
+        tl: Ibuhos ang palaman sa ibabaw ng crust at i-bake nang 20 minuto. Palamigin.
+      - en: Dust the top with powdered sugar.
+        tl: Budburan ng powdered sugar ang ibabaw.
