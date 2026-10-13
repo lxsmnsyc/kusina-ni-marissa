@@ -1,0 +1,58 @@
+title:
+  en: Pork Adobo
+  tl: Adobong Baboy
+summary:
+  en: Pork belly marinated in soy sauce and garlic, then braised with vinegar, bay leaves and peppercorns.
+  tl: Liempo na ibinabad sa toyo at bawang, saka niluto sa suka, laurel at buong paminta.
+category: ulam
+image: photos/pork-adobo.png
+tags: [pork, adobo, vinegar, soy sauce]
+servings: 4
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 2
+        unit: lb
+        item: { en: pork belly, tl: liempo }
+      - amount: 2
+        unit: tbsp
+        item: { en: garlic, tl: bawang }
+        note: { en: minced or crushed, tl: tinadtad o dinikdik }
+      - amount: 5
+        item: { en: dried bay leaves, tl: tuyong dahon ng laurel }
+      - amount: 4
+        unit: tbsp
+        item: { en: vinegar, tl: suka }
+      - amount: 1/2
+        unit: { en: cup, tl: tasa }
+        item: { en: soy sauce, tl: toyo }
+      - amount: 1
+        unit: tbsp
+        item: { en: whole peppercorns, tl: buong paminta }
+      - amount: 1
+        unit: { en: cup, tl: tasa }
+        item: { en: water, tl: tubig }
+      - item: { en: salt, tl: asin }
+        note: { en: to taste, tl: ayon sa panlasa }
+
+review:
+  - 'The first step matches a PBS pork adobo recipe word for word (https://dipsy.pbs.org/food/recipes/pork-adobo), and the "put-in" wording is Panlasang Pinoy''s style. The photo looks like Marissa''s own. Check before publishing publicly.'
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: Combine the pork belly, soy sauce and garlic, and marinate for at least 1 hour.
+        tl: Pagsamahin ang liempo, toyo at bawang, at ibabad nang hindi bababa sa 1 oras.
+      - en: Heat a pot, add the marinated pork and cook for a few minutes.
+        tl: Painitin ang kaldero, ilagay ang ibinabad na liempo at lutuin nang ilang minuto.
+      - en: >-
+          Add the water, peppercorns and bay leaves and bring to a boil. Simmer for 40 minutes to 1
+          hour.
+        tl: >-
+          Idagdag ang tubig, buong paminta at laurel, at pakuluan. Hinaan ang apoy at lutuin nang 40
+          minuto hanggang 1 oras.
+      - en: Add the vinegar and simmer for 12 to 15 minutes.
+        tl: Ilagay ang suka at lutuin pa nang 12 hanggang 15 minuto.
+      - en: Season with salt to taste.
+        tl: Timplahan ng asin ayon sa panlasa.
