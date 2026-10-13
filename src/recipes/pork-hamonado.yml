@@ -1,0 +1,84 @@
+title: Pork Hamonado
+summary:
+  tl: Binilot na kasim ng baboy na may palamang hotdog, keso, carrots, pickles at itlog, niluto sa matamis na pineapple juice.
+  en: Rolled pork shoulder stuffed with hotdog, cheese, carrots, pickles and egg, braised in sweet pineapple juice.
+category: ulam
+image: photos/pork-hamonado.png
+tags: [pork, pineapple, rolled, pang-handaan]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: { tl: kasim ng baboy, en: pork shoulder (kasim) }
+        note: { tl: hiniwa nang manipis, en: thinly sliced }
+      - amount: 2
+        unit: { tl: lata, en: can }
+        item: pineapple juice
+        note: { tl: "240 ml bawat isa, sweetened", en: "240 ml each, sweetened" }
+      - amount: 1
+        item: { tl: malaking sibuyas, en: large onion }
+        note: { tl: tinadtad, en: chopped }
+      - amount: 1
+        unit: { tl: ulo, en: head }
+        item: { tl: bawang, en: garlic }
+        note: { tl: tinadtad, en: minced }
+      - amount: 2
+        unit: { tl: tasa, en: cup }
+        item: brown sugar
+      - amount: 1
+        unit: { tl: kutsara, en: tbsp }
+        item: cornstarch
+      - item: { tl: asin at paminta, en: salt and pepper }
+        note: { tl: ayon sa panlasa, en: to taste }
+      - item: { tl: mantika, en: cooking oil }
+  - title: { tl: Palaman, en: Filling }
+    items:
+      - item: hotdog
+      - item: { tl: keso, en: cheese }
+      - item: carrots
+      - item: pickles
+      - item: { tl: nilagang itlog, en: hard-boiled eggs }
+
+review:
+  - The original numbering skips step 4.
+  - The filling has no amounts, and no step says how to cut it (the photo shows strips).
+  - The cornstarch is "tinunaw" but no water is listed for dissolving it.
+  - 2 cups of brown sugar is a lot for 1 kilo of pork. Check whether that is right.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          Timplahan ng asin at paminta ang baboy, at i-marinate sa 1 lata ng pineapple juice. Mas
+          mainam kung overnight.
+        en: >-
+          Season the pork with salt and pepper and marinate it in 1 can of pineapple juice,
+          preferably overnight.
+      - tl: Ilagay ang mga sangkap ng palaman sa minarinate na baboy.
+        en: Lay the filling ingredients on the marinated pork.
+      - tl: >-
+          Bilutin hanggang mabalot ang palaman. Itali ng pisi at ilagay muna sa isang lalagyan.
+          Gawin ito sa lahat ng karne at palaman.
+        en: >-
+          Roll the pork up around the filling and tie with kitchen string. Set aside, and repeat
+          with the rest of the pork and filling.
+      - tl: Iprito ang mga rolyo hanggang pumula.
+        en: Fry the rolls until browned.
+      - tl: >-
+          Sa isang kaserola, ilagay ang bawang, sibuyas at ang mga rolyo. Ibuhos ang natitirang
+          lata ng pineapple juice, at timplahan ng asin, paminta at brown sugar.
+        en: >-
+          In a pot, put the garlic, onion and the rolls. Pour in the remaining can of pineapple
+          juice and season with salt, pepper and brown sugar.
+      - tl: Isalang sa kalan at hayaang kumulo hanggang lumambot at maluto ang karne.
+        en: Bring to a boil and simmer until the meat is tender and cooked through.
+      - tl: Kapag malambot na ang karne, ilagay ang tinunaw na cornstarch para lumapot ang sauce.
+        en: When the meat is tender, stir in the dissolved cornstarch to thicken the sauce.
+      - tl: >-
+          Tikman ang sauce at i-adjust ang lasa. Ang tamang lasa nito ay nag-aagaw ang alat at
+          tamis.
+        en: Taste and adjust the sauce. It should be balanced between salty and sweet.
+      - tl: Palamigin sandali, saka hiwain ang karne. Ibuhos ang sauce sa ibabaw.
+        en: Let it cool slightly, then slice the meat. Pour the sauce over the top.
