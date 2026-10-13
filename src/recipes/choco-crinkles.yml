@@ -1,0 +1,58 @@
+title: Choco Crinkles
+summary:
+  en: Soft chocolate cookies rolled in powdered sugar, which cracks into a crinkled top as they bake.
+  tl: Malambot na chocolate cookies na ini-roll sa powdered sugar, na bumibitak habang niluluto.
+category: panghimagas
+image: photos/choco-crinkles.png
+tags: [chocolate, cookies, baked]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 3
+        unit: cup
+        item: all-purpose flour
+      - amount: 1 1/4
+        unit: cup
+        item: cocoa powder
+      - amount: 1 1/4
+        unit: tsp
+        item: baking soda
+      - amount: 1
+        unit: tsp
+        item: baking powder
+      - amount: 1
+        unit: tsp
+        item: { en: salt, tl: asin }
+      - amount: 2
+        unit: cup
+        item: { en: sugar, tl: asukal }
+      - amount: 1
+        unit: cup
+        item: { en: cooking oil, tl: mantika }
+      - amount: 4
+        item: { en: eggs, tl: itlog }
+      - item: powdered sugar
+        note: { en: for rolling, tl: pang-roll }
+
+review:
+  - The oven temperature is not given.
+  - The size of the balls is not given.
+  - The English translation of the Tagalog parts was written during conversion.
+
+steps:
+  - steps:
+      - en: >-
+          Mix the flour, sugar, salt, cocoa powder, baking soda and baking powder until the mixture
+          turns light brown.
+        tl: >-
+          Paghaluin ang all-purpose flour, asukal, asin, cocoa powder, baking soda at baking powder
+          hanggang maging light brown.
+      - en: Add the oil and eggs and mix again until dark brown.
+        tl: Ilagay ang mantika at itlog, at haluin ulit hanggang maging dark brown.
+      - en: Knead lightly until the dough can be rolled into balls.
+        tl: Masahin nang kaunti hanggang puwede nang i-roll.
+      - en: Roll the balls in powdered sugar.
+        tl: I-roll sa powdered sugar.
+      - en: Bake for 10 minutes.
+        tl: I-bake nang 10 minuto.
