@@ -5,6 +5,7 @@ summary:
   tl: Sabaw ng manok na may luya, sayote o papaya at dahon ng sili.
   en: Chicken soup with ginger, chayote or green papaya and chili leaves.
 category: sabaw
+image: photos/tinolang-manok.png
 tags: [chicken, tinola, ginger, soup]
 addedOn: "2026-10-13"
 
@@ -42,7 +43,6 @@ ingredients:
       - item: { tl: bigas na may halong dugo ng manok, en: rice mixed with chicken blood }
 
 review:
-  - No photo yet. The one sent in chat did not come through as a file.
   - '"Manok/atay at balunbalunan" is unclear, as in Chicken Pastel. Recorded as chicken, or liver and gizzards.'
   - The optional rice with chicken blood is listed, but no step says when to add it.
   - The English translation was written during conversion.
