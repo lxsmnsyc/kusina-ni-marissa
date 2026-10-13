@@ -1,0 +1,81 @@
+title: Maja Ube
+summary:
+  tl: Maja na may ube at gata, may latik at budbod na niyog sa ibabaw.
+  en: Purple yam and coconut milk pudding topped with latik and toasted sweetened coconut.
+category: panghimagas
+tags: [ube, coconut milk, kakanin]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 2
+        unit: cup
+        item: { tl: gata (unang piga), en: thick coconut milk (first press) }
+      - amount: 2
+        unit: cup
+        item: cornstarch
+      - amount: 1
+        unit: cup
+        item: ube
+        note: { tl: niluto at ginadgad, en: cooked and grated }
+      - amount: 4
+        unit: cup
+        item: { tl: malabnaw na gata, en: thin coconut milk }
+      - amount: 2
+        unit: cup
+        item: { tl: asukal, en: sugar }
+      - amount: 1/2
+        unit: cup
+        item: evaporated milk
+      - item: { tl: dahon ng saging, en: banana leaves }
+        note: { tl: pang-linya sa hulmahan, en: for lining the mold }
+  - title: { tl: Pang-ibabaw (latik at budbod), en: Topping (latik and budbod) }
+    items:
+      - item: { tl: malapot na gata, en: thick coconut milk }
+        note: { tl: para sa latik, en: for the latik }
+      - item: { tl: sapal ng niyog, en: grated coconut pulp (sapal) }
+        note: { tl: para sa budbod, en: for the budbod }
+      - amount: 1/2
+        unit: cup
+        item: { tl: asukal, en: sugar }
+        note: { tl: bawat tasa ng sapal, en: per cup of coconut pulp }
+
+review:
+  - No photo was sent with this recipe.
+  - The evaporated milk is listed ("1/2 cup gatas evap big") but no step adds it.
+  - Step 3 dissolves the cornstarch in the thick gata, but no step says to do that first.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Tunawin ang asukal sa malabnaw na gata at idagdag ang niluto at ginadgad na ube.
+        en: Dissolve the sugar in the thin coconut milk and add the cooked, grated ube.
+      - tl: Lutuin sa katamtamang apoy habang patuloy ang paghalo.
+        en: Cook over medium heat, stirring constantly.
+      - tl: >-
+          Hinaan ang apoy pagkalipas ng 10 hanggang 15 minuto at ihalo ang malapot na gata kung saan
+          tinunaw ang cornstarch.
+        en: >-
+          After 10 to 15 minutes, lower the heat and stir in the thick coconut milk with the
+          cornstarch dissolved in it.
+      - tl: Haluin at lakasan muli ang apoy hanggang sa lumapot.
+        en: Stir and raise the heat again until thick.
+      - tl: Ilagay sa hulmahan na may dahon ng saging.
+        en: Pour into a mold lined with banana leaves.
+  - title: { tl: Pang-ibabaw, en: Topping }
+    steps:
+      - tl: >-
+          Pakuluan ang gata sa mahinang apoy at hayaang mamuo ang gata at lumabas ang langis.
+          Dalawang beses lamang haluin.
+        en: >-
+          Simmer the thick coconut milk over low heat until it curdles and releases its oil. Stir
+          only twice.
+      - tl: Lutuin ang latik hanggang magkulay brown.
+        en: Cook the latik until it turns brown.
+      - tl: >-
+          Sa paggawa ng budbod, maglagay ng ½ cup na asukal sa bawat tasa ng sapal ng niyog at
+          tustahin ito.
+        en: >-
+          For the budbod, add ½ cup of sugar to each cup of coconut pulp and toast it.
+      - tl: Ilagay ang latik at budbod sa ibabaw.
+        en: Top the maja with the latik and budbod.
