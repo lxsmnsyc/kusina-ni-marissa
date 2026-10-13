@@ -1,0 +1,66 @@
+title: Sweet and Sour Dory Fish
+subtitle: { tl: Sariling bersyon, en: Own version }
+summary:
+  tl: Piniritong dory na may sarsang sweet chili, kasama ng sibuyas, carrots at red bell pepper.
+  en: Fried dory in a sweet chili sauce with onion, carrot and red bell pepper.
+category: ulam
+tags: [fish, dory, sweet and sour]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        item: { tl: dory, en: dory fillet }
+      - amount: 2
+        item: { tl: sibuyas, en: onions }
+        note: { tl: hiniwang pabilog, en: sliced into rings }
+      - item: { tl: luya, en: ginger }
+        note: { tl: "kapiraso, hiniwang pa-strip", en: "a small piece, cut into strips" }
+      - amount: 5
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+        note: { tl: hiniwang pabilog, en: sliced }
+      - amount: 1
+        item: { tl: katamtamang laking carrot, en: medium carrot }
+        note: { tl: hiniwa nang pa-strip, en: cut into strips }
+      - amount: 1
+        item: red bell pepper
+        note: { tl: hiniwa ring pa-strip, en: cut into strips }
+      - amount: 1
+        unit: { tl: bote, en: bottle }
+        item: UFC Sweet Chili Sauce
+
+review:
+  - No photo yet. The one sent in chat did not come through as a file.
+  - Oil for frying, water (about half a bottle), betsin and asin are used in the steps but not listed.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Iprito ang isda (huwag tustahin). Itabi.
+        en: Fry the fish without letting it get crisp. Set aside.
+      - tl: Igisa ang luya, bawang, sibuyas, carrots at sili.
+        en: Sauté the ginger, garlic, onion, carrot and bell pepper.
+      - tl: >-
+          Ilagay ang sweet chili sauce. Lagyan ng tubig ang bote ng naubos na chili sauce, mga
+          kalahating bote, at isama sa niluluto. Pakuluin.
+        en: >-
+          Add the sweet chili sauce. Fill the empty bottle about halfway with water, swirl it, and
+          add it to the pan. Bring to a boil.
+      - tl: >-
+          Ilagay ang piniritong isda kung gustong kumapit yung sauce, at pakuluin. (O puwede ring
+          hindi na, at pagkaluto ay ilagay na lamang sa piniritong isda.)
+        en: >-
+          If you want the sauce to cling, add the fried fish and simmer. (Or skip this and pour the
+          cooked sauce over the fried fish.)
+      - tl: >-
+          Timplahan ng betsin, at kung hindi pa tama sa panlasa ay dagdagan ng asin.
+        en: Season with MSG, and add salt if it still needs it.
+
+notes:
+  - tl: >-
+      Hindi na po need lagyan ng toyo, suka, paminta at asukal dahil timplado na po ang sweet chili
+      sauce.
+    en: >-
+      No need to add soy sauce, vinegar, pepper or sugar, since the sweet chili sauce is already
+      seasoned.
