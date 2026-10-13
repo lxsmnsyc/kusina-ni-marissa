@@ -1,0 +1,55 @@
+title:
+  tl: Pesang Manok
+  en: Chicken Pesa
+summary:
+  tl: Inahing manok na nilaga sa sabaw na may luya, upo, papaya at petsay.
+  en: Chicken simmered in a ginger broth with bottle gourd, green papaya and pechay.
+category: sabaw
+tags: [chicken, ginger, soup]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        item: { tl: inahing manok, en: stewing hen }
+        note: { tl: hinati, en: cut into pieces }
+      - amount: 2
+        unit: { tl: daliri, en: finger-length piece }
+        item: { tl: luya, en: ginger }
+      - amount: 1
+        unit: { tl: dapal, en: slab }
+        item: { tl: upo, en: bottle gourd (upo) }
+      - amount: 1/2
+        item: { tl: papaya, en: green papaya }
+      - amount: 3
+        unit: { tl: puno, en: head }
+        item: { tl: petsay, en: pechay (bok choy) }
+      - amount: 4
+        unit: { tl: baso, en: glass }
+        item: { tl: tubig, en: water }
+      - item: { tl: asin, en: salt }
+        note: { tl: kaunti, en: a little }
+  - title: { tl: Sawsawan, en: Dipping sauce }
+    items:
+      - item: { tl: patis, en: fish sauce }
+        note: { tl: o pinigang kalamansi, en: or calamansi juice }
+      - item: { tl: sarsa ng atay ng manok, en: chicken liver sauce }
+        note: optional
+
+review:
+  - No photo. The one supplied looked like a styled web thumbnail. Add Marissa's own photo.
+  - The wording ("daling luya", "dapal na upo", "kalahok") reads like an old printed cookbook, not Marissa's usual style. Check before publishing publicly.
+  - The original does not say how to make the chicken liver sauce.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Ilaga ang manok sa apat na basong tubig hanggang sa lumambot.
+        en: Simmer the chicken in 4 glasses of water until tender.
+      - tl: Timplahan ng kaunting asin.
+        en: Season with a little salt.
+      - tl: Isunod na isama ang lahat ng sangkap.
+        en: Add all the remaining ingredients.
+      - tl: >-
+          Ihain kasama ng sawsawang patis o pinigang kalamansi, o di kaya'y sarsa ng atay ng manok.
+        en: Serve with a dip of fish sauce or calamansi juice, or a sauce made from the chicken liver.
