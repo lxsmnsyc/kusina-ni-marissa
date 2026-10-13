@@ -1,0 +1,42 @@
+title: Ginataang Biya
+summary:
+  tl: Isdang biya na niluto sa suka, luya at gata ng niyog.
+  en: Goby fish simmered in vinegar, ginger and coconut milk.
+category: ulam
+tags: [fish, biya, coconut milk]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 3
+        item: { tl: isdang biya, en: goby fish (biya) }
+      - amount: 1
+        item: { tl: niyog, en: coconut }
+        note: { tl: piniga para sa gata, en: grated and squeezed for coconut milk }
+      - item: { tl: luya, en: ginger }
+        note: { tl: "kapiraso, pinitpit", en: "a small piece, crushed" }
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: suka, en: vinegar }
+      - amount: 2
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+      - item: { tl: asin, en: salt }
+        note: { tl: kaunti, en: a little }
+      - item: { tl: sili, en: chili }
+
+review:
+  - No photo yet. The one sent in chat did not come through as a file.
+  - The sili is listed but no step uses it.
+  - '"Initin nang atay-atay" is unclear. It may mean "hinay-hinay" (gently). Translated as "heat gently".'
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Linisin ang biya. Hiwain sa nais na laki, pahilis.
+        en: Clean the fish. Cut it diagonally into pieces of any size.
+      - tl: >-
+          Iluto sa isang lutuan na kahalo ang pinitpit na luya, bawang, suka at asin. Pakuluan.
+        en: Cook it in a pot with the crushed ginger, garlic, vinegar and salt. Bring to a boil.
+      - tl: Ibuhos ang pinigang gata ng niyog. Initin nang atay-atay sa katamtamang apoy.
+        en: Pour in the coconut milk. Heat gently over medium heat.
