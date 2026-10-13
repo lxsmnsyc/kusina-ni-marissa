@@ -1,0 +1,62 @@
+title: Turon Espesyal
+summary:
+  tl: Kakaiba at mas malinamnam na turon na may palamang fruit cocktail at langka.
+  en: A special turon filled with thickened fruit cocktail and jackfruit, wrapped and deep-fried.
+category: merienda
+image: photos/turon-espesyal.png
+tags: [turon, fruit cocktail, langka, fried]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: lata, en: can }
+        item: fruit cocktail
+        note:
+          tl: 836 g; magtabi ng 3 tbsp na syrup para sa mixture
+          en: 836 g; reserve 3 tbsp of the syrup for the mixture
+      - amount: 1
+        unit: tbsp
+        item: cornstarch
+        note: { tl: at dagdag pang pangwisik, en: plus more for dusting }
+      - amount: 150
+        unit: g
+        item: { tl: langka, en: jackfruit (langka) }
+        note: { tl: hiniwa nang pahaba, en: cut into strips }
+      - amount: 2
+        unit: tbsp
+        item: brown sugar
+      - amount: 24
+        item: lumpia wrapper
+      - item: { tl: mantika, en: cooking oil }
+        note: { tl: pamprito, en: for deep-frying }
+  - title: { tl: Opsyonal, en: Optional }
+    items:
+      - item: { tl: saging na saba, en: saba bananas }
+
+review:
+  - The fruit cocktail is probably drained, keeping only the 3 tbsp of syrup, but the recipe does not say so.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Pagsama-samahin ang lahat ng sangkap maliban sa wrapper.
+        en: Combine all the ingredients except the wrappers.
+      - tl: Lutuin hanggang lumapot. Palamigin.
+        en: Cook until thickened, then let cool.
+      - tl: Balutin sa lumpia wrapper, at i-seal ang magkabilang dulo.
+        en: Wrap the filling in the lumpia wrappers and seal both ends.
+      - tl: Wisikan ng cornstarch ang mga nakabalot na turon.
+        en: Dust the wrapped turon with cornstarch.
+      - tl: I-deep fry hanggang maluto.
+        en: Deep-fry until golden and crisp.
+
+notes:
+  - tl: >-
+      Para hindi lumambot o kumuluntoy ang wrapper, wisikan lamang ng cornstarch ang nakabalot na
+      mixture bago i-deep fry.
+    en: >-
+      Dusting the wrapped turon with cornstarch before frying keeps the wrapper from going soft or
+      wrinkly.
+  - tl: Puwede po itong samahan ng saging na saba kung nais.
+    en: You can add saba bananas if you like.
