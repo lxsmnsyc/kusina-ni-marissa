@@ -1,0 +1,44 @@
+title: Bread Roll
+summary:
+  en: Flattened sliced bread rolled around hotdog, ham and cheese, breaded and deep-fried.
+  tl: Pinatag na tinapay na binilot na may hotdog, ham at keso, binalot sa breadcrumbs at prinito.
+category: merienda
+image: photos/bread-roll.png
+tags: [bread, hotdog, ham, cheese, fried]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - item: { en: sliced bread, tl: tinapay (sliced bread) }
+      - item: hotdog
+        note: { en: fried, tl: prinito }
+      - item: ham
+      - item: { en: cheese, tl: keso }
+      - item: butter
+      - item: breadcrumbs
+      - item: { en: cooking oil, tl: mantika }
+
+review:
+  - The original title says "READ ROLL". Changed to "Bread Roll".
+  - The recipe gives no amounts.
+  - Nothing helps the breadcrumbs stick to the rolls (such as beaten egg). Check whether Marissa dips them in egg first.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: Flatten the bread with a rolling pin. Set aside.
+        tl: Patagin ang tinapay gamit ang rolling pin. Itabi.
+      - en: For the filling, slice the cheese, ham and hotdog into thin strips.
+        tl: Para sa palaman, hiwain nang manipis at pahaba ang keso, ham at hotdog.
+      - en: >-
+          Spread butter on the bread, line up the ham, hotdog and cheese in three rows, then roll
+          up.
+        tl: >-
+          Pahiran ng butter ang tinapay, ihanay ang ham, hotdog at keso nang tatlong hilera, saka
+          bilutin.
+      - en: Refrigerate for 5 minutes.
+        tl: Ilagay sa ref nang 5 minuto.
+      - en: Roll in breadcrumbs, then deep-fry until golden brown.
+        tl: I-roll sa breadcrumbs, saka iprito sa maraming mantika hanggang pumula.
+      - en: Serve hot, while still crunchy.
+        tl: Ihain nang mainit habang malutong pa.
