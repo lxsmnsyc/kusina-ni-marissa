@@ -1,0 +1,41 @@
+title:
+  tl: Kamatis na Kendi
+  en: Tomato Candy
+summary:
+  tl: Kamatis na binabad sa asukal, pinakuluan, pinatuyo at ini-roll sa asukal hanggang lumutong.
+  en: Tomatoes soaked in sugar, simmered, dried and rolled in sugar until crisp.
+category: panghimagas
+tags: [tomato, candy, minatamis]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - item: { tl: hinog na kamatis, en: ripe tomatoes }
+      - item: { tl: puting asukal, en: white sugar }
+        note:
+          tl: kasingdami ng kamatis, at dagdag para sa pag-roll
+          en: same amount as the tomatoes, plus more for rolling
+
+review:
+  - No photo. The one supplied looked like a web thumbnail and showed sun-dried tomatoes in oil, not tomato candy. Add Marissa's own photo.
+  - The recipe gives no amounts, and no drying times for sun or oven drying.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Hugasan, banlian at alisan ng balat ang mga kamatis.
+        en: Wash the tomatoes, blanch them in boiling water and peel them.
+      - tl: Hiwain nang pahalang sa gitna at alisan ng buto.
+        en: Cut them in half crosswise and remove the seeds.
+      - tl: Lagyan ng asukal na kasingdami ng kamatis at iwan nang magdamag.
+        en: Add sugar equal to the amount of tomatoes and leave overnight.
+      - tl: Kinabukasan, pakuluan sa mahinang apoy hanggang maging malinaw.
+        en: The next day, simmer over low heat until the tomatoes turn translucent.
+      - tl: Patuluin ang syrup.
+        en: Drain off the syrup.
+      - tl: >-
+          Ilagay ang mga kendi sa tray at paarawan upang matuyo, o initin sa oven hanggang sa
+          matuyo.
+        en: Spread the candies on a tray and dry them in the sun, or in the oven until dry.
+      - tl: Ipagulong sa asukal at patuyuin muli hanggang sa maging malutong.
+        en: Roll them in sugar and dry again until crisp.
