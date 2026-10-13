@@ -1,0 +1,100 @@
+title: Hongkong Chicken
+summary:
+  tl: >-
+    Buong manok na pinakuluan sa toyo at star anise, pinirito, at hinainan ng sarsang oyster sauce
+    na may gulay at tengang daga.
+  en: >-
+    Whole chicken simmered in soy sauce and star anise, fried, and served with an oyster sauce
+    gravy with vegetables and wood ear mushrooms.
+category: ulam
+image: photos/hongkong-chicken.png
+tags: [chicken, star anise, oyster sauce]
+addedOn: "2026-10-13"
+
+ingredients:
+  - title: { tl: Para sa manok, en: For the chicken }
+    items:
+      - amount: 1
+        item: { tl: buong manok, en: whole chicken }
+      - amount: 3
+        unit: tbsp
+        item: { tl: toyo, en: soy sauce }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+      - amount: 5
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+      - amount: 2
+        item: { tl: luya, en: ginger }
+      - amount: 3
+        item: star anise
+      - item: { tl: tubig, en: water }
+  - title: { tl: Para sa sauce, en: For the sauce }
+    items:
+      - amount: 3
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+      - amount: 1
+        item: { tl: luya, en: ginger }
+        note: { tl: kasinlaki ng hinlalaki, en: thumb-size piece }
+      - amount: 3
+        item: star anise
+      - amount: 2
+        unit: tbsp
+        item: oyster sauce
+      - amount: 3
+        unit: cup
+        item: { tl: sabaw na pinagpakuluan ng manok, en: chicken cooking liquid }
+      - amount: 100
+        unit: g
+        item: { tl: sitsaro, en: snow peas }
+      - amount: 2
+        item: carrots
+        note: { tl: hiniwa, en: sliced }
+      - amount: 1/2
+        item: { tl: pechay Baguio, en: Napa cabbage }
+      - amount: 3
+        unit: tbsp
+        item: brown sugar
+      - item: { tl: mantika, en: cooking oil }
+        note: { tl: pamprito, en: for frying }
+      - amount: 1
+        unit: tbsp
+        item: cornstarch
+        note: { tl: tinunaw sa 1 tbsp na tubig, en: dissolved in 1 tbsp water }
+      - amount: 1
+        unit: { tl: pakete, en: pack }
+        item: { tl: tengang daga, en: wood ear mushrooms (tengang daga) }
+
+review:
+  - '"5 bawang" and "3 Bawang" have no unit. Recorded as cloves (butil).'
+  - '"2 luya" has no unit. It probably means 2 thumb-size pieces.'
+  - '"Tinunaw sa tbsp na tubig" has no number. Recorded as 1 tbsp.'
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          Pakuluan ang manok sa toyo, sibuyas, bawang, luya, star anise at tamang dami ng tubig
+          para sa manok.
+        en: >-
+          Simmer the chicken with the soy sauce, onion, garlic, ginger, star anise and enough water
+          to cook it.
+      - tl: Prituhin ang manok at itabi.
+        en: Fry the chicken and set aside.
+      - tl: Igisa ang sibuyas, bawang, luya at star anise sa mantika.
+        en: Sauté the onion, garlic, ginger and star anise in oil.
+      - tl: Ilagay ang oyster sauce, carrots at ang tengang daga.
+        en: Add the oyster sauce, carrots and wood ear mushrooms.
+      - tl: Ilagay ang pinagpakuluan ng manok at pakuluin.
+        en: Add the chicken cooking liquid and bring to a boil.
+      - tl: Lagyan ng asukal at ang sitsaro.
+        en: Add the sugar and snow peas.
+      - tl: Ilagay ang pechay Baguio.
+        en: Add the Napa cabbage.
+      - tl: Palaputin sa pamamagitan ng paglagay ng cornstarch na tinunaw sa tubig.
+        en: Thicken with the dissolved cornstarch.
+      - tl: I-chop ang manok at ilagay ang sauce.
+        en: Chop the chicken and pour the sauce over it.
