@@ -1,0 +1,72 @@
+title: Bulalo
+subtitle: { tl: Sariling bersyon, en: Own version }
+summary:
+  tl: Sabaw ng baka na may buto at utak, mais, patatas, pechay Baguio at repolyo.
+  en: Beef shank and bone marrow soup with corn, potatoes, Napa cabbage and cabbage.
+category: sabaw
+image: photos/bulalo.png
+tags: [beef, soup, bone marrow, corn]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: { tl: karne o paa ng baka, en: beef shank }
+        note: { tl: may buto at bone marrow, en: with bone and marrow }
+      - amount: 1
+        item: { tl: buong pechay Baguio, en: whole Napa cabbage }
+        note: { tl: pinag-apat, en: quartered }
+      - amount: 1
+        item: { tl: repolyo, en: cabbage }
+        note: { tl: pinag-apat, en: quartered }
+      - amount: 2
+        item: { tl: patatas, en: potatoes }
+        note: { tl: hinati, en: halved }
+      - amount: 2
+        item: { tl: mais, en: corn on the cob }
+        note: { tl: hinati sa 4, en: each cut into 4 }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+        note: { tl: ginayat, en: sliced }
+      - amount: 3
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+        note: { tl: dinikdik, en: crushed }
+      - amount: 1
+        unit: tbsp
+        item: { tl: paminta, en: peppercorns }
+      - item: { tl: asin, en: salt }
+      - item: { tl: patis, en: fish sauce }
+      - item: { tl: tubig, en: water }
+  - title: Optional
+    items:
+      - item: sibot
+      - item: { tl: sibuyas na mura, en: green onions }
+  - title: { tl: Sawsawan, en: Dipping sauce }
+    items:
+      - item: { tl: patis, en: fish sauce }
+      - item: { tl: kalamansi, en: calamansi }
+
+review:
+  - The optional sibot and sibuyas na mura are listed, but no step says when to add them.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Palambutin ang baka kasama ang asin, sibuyas at bawang.
+        en: Simmer the beef with salt, onion and garlic until tender.
+      - tl: >-
+          Kapag kumukulo na, alisin ang scum sa ibabaw, o yung kulay itim sa ibabaw.
+        en: When it boils, skim off the scum (the dark foam) on top.
+      - tl: >-
+          Kapag malambot na ang baka, ilagay ang mais at paminta. Pakuluan nang 5 minuto.
+        en: When the beef is tender, add the corn and peppercorns. Boil for 5 minutes.
+      - tl: Ilagay ang patatas. Pakuluin muli.
+        en: Add the potatoes. Bring to a boil again.
+      - tl: Idagdag ang pechay Baguio at repolyo.
+        en: Add the Napa cabbage and cabbage.
+      - tl: Timplahan ng patis.
+        en: Season with fish sauce.
+      - tl: Ihain nang may sawsawang patis at kalamansi.
+        en: Serve with a dipping sauce of fish sauce and calamansi.
