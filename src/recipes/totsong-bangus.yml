@@ -1,0 +1,68 @@
+title:
+  tl: Totsong Bangus
+  en: Milkfish with Fermented Tofu
+summary:
+  tl: Bangus na niluto sa tahure, luya at kamatis, may talong at ampalaya.
+  en: Milkfish simmered with fermented tofu, ginger and tomato, with eggplant and bitter gourd.
+category: ulam
+image: photos/totsong-bangus.png
+tags: [fish, bangus, tahure]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        item: { tl: bangus, en: milkfish (bangus) }
+      - amount: 2
+        item: { tl: tahure, en: fermented tofu (tahure) }
+        note: { tl: dinurog sa 1 tasang tubig, en: mashed in 1 cup water }
+      - item: { tl: luya, en: ginger }
+        note: { tl: "kapiraso, hiniwa", en: "a small piece, sliced" }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+        note: { tl: hiniwang pino, en: finely chopped }
+      - amount: 4
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+        note: { tl: pino, en: minced }
+      - amount: 1
+        item: { tl: kamatis, en: tomato }
+        note: { tl: pino, en: finely chopped }
+      - amount: 1
+        unit: tsp
+        item: { tl: suka, en: vinegar }
+      - amount: 1
+        item: { tl: katamtamang laking talong, en: medium eggplant }
+        note: { tl: hiniwa, en: sliced }
+      - amount: 1
+        item: { tl: katamtamang laking ampalaya, en: medium bitter gourd (ampalaya) }
+        note:
+          tl: hiniwa, nilamas sa asin at hinugasan
+          en: sliced, rubbed with salt and rinsed
+      - item: { tl: mantika, en: cooking oil }
+      - item: { tl: asin, en: salt }
+      - item: MSG
+
+review:
+  - The bangus has no preparation (cleaned and sliced into pieces).
+  - The MSG is listed but no step uses it.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          Igisa ang luya, bawang, sibuyas at kamatis. Ilagay ang tahure, dagdagan ng kaunting tubig
+          at pakuluin.
+        en: >-
+          Sauté the ginger, garlic, onion and tomato. Add the tahure and a little more water and
+          bring to a boil.
+      - tl: Ilagay ang ampalaya.
+        en: Add the bitter gourd.
+      - tl: Makalipas ang ilang sandali, ilagay ang talong at bangus.
+        en: After a little while, add the eggplant and milkfish.
+      - tl: Isunod ang asin at medyo haluin.
+        en: Add salt and stir gently.
+      - tl: Ilagay ang suka at takpan.
+        en: Add the vinegar and cover.
+      - tl: Pagkulo, ihain na po.
+        en: Once it boils, serve.
