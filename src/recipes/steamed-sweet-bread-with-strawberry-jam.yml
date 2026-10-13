@@ -4,6 +4,7 @@ summary:
   tl: Malambot na steamed bread na gawa sa pancake mix, may strawberry jam sa loob at ibabaw.
   en: Soft steamed bread made with pancake mix, with strawberry jam swirled in and on top.
 category: merienda
+image: photos/steamed-sweet-bread-with-strawberry-jam.png
 tags: [steamed, bread, strawberry, pancake mix]
 servings: 8
 addedOn: "2026-10-13"
@@ -31,7 +32,6 @@ ingredients:
         item: strawberry jam
 
 review:
-  - No photo yet. The one sent in chat did not come through as a file.
   - The ☆ markings and layout look like a translated Cookpad recipe. Check the source before publishing publicly.
   - The original ingredient list is in English, so it is shown the same in both languages.
   - The English translation of the steps was written during conversion.
