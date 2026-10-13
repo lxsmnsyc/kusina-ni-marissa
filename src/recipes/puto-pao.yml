@@ -1,0 +1,136 @@
+title: Puto Pao
+summary:
+  tl: Steamed puto na may palamang adobong manok, parang siopao.
+  en: Steamed rice cakes filled with shredded chicken adobo, like a cross between puto and siopao.
+category: merienda
+image: photos/puto-pao.png
+tags: [puto, chicken, steamed, kakanin]
+addedOn: "2026-10-13"
+
+ingredients:
+  - title: { tl: Para sa palaman, en: For the filling }
+    items:
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { tl: pitso ng manok, en: chicken breast }
+      - item: { tl: sibuyas, en: onion }
+      - item: { tl: bawang, en: garlic }
+      - amount: 1
+        unit: tsp
+        item: { tl: asin, en: salt }
+      - amount: 1
+        unit: tbsp
+        item: { tl: asukal, en: sugar }
+      - amount: 3
+        unit: tbsp
+        item: { tl: toyo, en: soy sauce }
+      - amount: 2
+        unit: tbsp
+        item: { tl: suka, en: vinegar }
+      - amount: 3
+        unit: tbsp
+        item: { tl: tubig, en: water }
+      - item: { tl: paminta, en: pepper }
+
+  - title: { tl: Para sa puto, en: For the puto batter }
+    items:
+      - amount: 2
+        unit: cup
+        item: all-purpose flour
+      - amount: 1 1/2
+        unit: cup
+        item: { tl: asukal, en: sugar }
+        note: { tl: ½ tasa nito para sa egg whites, en: ½ cup of it for the egg whites }
+      - amount: 6
+        item: egg whites
+      - amount: 2
+        unit: tbsp
+        item: baking powder
+      - amount: 1
+        unit: tsp
+        item: baking soda
+      - amount: 2 1/2
+        unit: cup
+        item: { tl: tubig, en: water }
+      - amount: 1/2
+        unit: cup
+        item: cornflour
+      - item: cupcake liners
+  - title: { tl: Pang-ibabaw, en: Topping }
+    items:
+      - item: { tl: keso o itlog na maalat, en: cheese or salted egg }
+
+review:
+  - Step 1 sifts "lahat ng dry ingredients". Since ½ cup of the sugar goes into the egg whites in step 3, the other 1 cup is probably sifted with the flour.
+  - The salt is listed but no step uses it.
+  - The English translation was written during conversion.
+
+steps:
+  - title: { tl: Para sa palaman, en: For the filling }
+    steps:
+      - tl: Igisa ang bawang at sibuyas nang mga 2 minuto.
+        en: Sauté the garlic and onion for about 2 minutes.
+      - tl: >-
+          Then po ilagay na ang manok at haluin. Pagkatapos, ilagay ang toyo, tubig at paminta, at
+          hayaang kumulo.
+        en: >-
+          Add the chicken and stir. Then add the soy sauce, water and pepper and bring to a boil.
+      - tl: >-
+          Pagkulo, ilagay ang suka at asukal. Then simmer lang po nang 10 minuto, at tikman ayon sa
+          inyong panlasa.
+        en: >-
+          When it boils, add the vinegar and sugar. Simmer for 10 minutes, then taste and adjust.
+      - tl: >-
+          Kung tama na ang timpla, palamigin. Kapag malamig na, himayin ang manok. Then po i-set
+          aside natin.
+        en: When the seasoning is right, let it cool. Shred the chicken and set aside.
+
+  - title: { tl: Para sa puto, en: For the puto }
+    steps:
+      - tl: >-
+          Bago gawin ang batter, isalang na ang steamer na may tubig. Kailangang mainit o kumukulo
+          na ang tubig bago ilagay ang lulutuin.
+        en: >-
+          Before making the batter, set the steamer over the heat. The water must be hot or boiling
+          before anything goes in.
+      - tl: Sa isang bowl, i-sift ang lahat ng dry ingredients.
+        en: Sift all the dry ingredients into a bowl.
+      - tl: Pagkatapos, ilagay ang tubig at haluin hanggang maging smooth ang batter. I-set aside.
+        en: Add the water and mix until the batter is smooth. Set aside.
+      - tl: >-
+          I-beat po natin ang egg whites gamit ang electric mixer. Kapag po nakita nating nagfo-form
+          na ng bubbles, saka po natin unti-unting ilagay ang ½ cup na asukal hanggang umabot sa
+          soft peak. Kung walang mixer, puwede pong mano-manong gawin. Matagal nga lang po, pero
+          kailangang sa isang direksyon lang para hindi masira ang form ng egg whites.
+        en: >-
+          Beat the egg whites with an electric mixer. When bubbles form, gradually add the ½ cup
+          sugar and beat to soft peaks. Without a mixer you can whisk by hand; it takes longer, and
+          you must whisk in one direction only so the whites hold their shape.
+      - tl: >-
+          Then po saka natin ihalo ang egg whites sa ating batter. Dahan-dahan po ang paghalo at
+          sa isang direksyon lamang para hindi bumagsak ang batter.
+        en: >-
+          Gently fold the egg whites into the batter, stirring in one direction only so it does not
+          deflate.
+      - tl: >-
+          Sa cupcake liner, maglagay ng isang kutsara ng mixture, then po ang filling, then
+          maglagay ulit ng mixture, mga 1½ tbsp. Huwag masyadong punuin ang molder dahil aalsa pa
+          po iyan pag ini-steam.
+        en: >-
+          In each cupcake liner, put 1 tbsp of batter, then some filling, then about 1½ tbsp more
+          batter. Do not overfill, since they rise when steamed.
+      - tl: >-
+          I-steam po natin muna nang 15 minuto. Pagkatapos ng 15 minuto, saka ilagay ang topping na
+          keso o itlog na maalat, then i-steam ulit nang 10 minuto.
+        en: >-
+          Steam for 15 minutes. Then add the cheese or salted egg topping and steam for another 10
+          minutes.
+      - tl: Then let it cool po, at ready to serve.
+        en: Let cool, then serve.
+
+notes:
+  - tl: >-
+      Kailangan ding lagyan ng katsa o malinis na tela ang inyong takip para hindi matuluan ng tubig
+      ang batter ninyo.
+    en: >-
+      Wrap the steamer lid in a cheesecloth or clean towel so water does not drip onto the batter.
