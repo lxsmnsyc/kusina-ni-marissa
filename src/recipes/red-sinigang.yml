@@ -1,0 +1,75 @@
+title: Red Sinigang
+summary:
+  tl: Sinigang na baboy na may tomato sauce, kaya mapula ang sabaw, may labanos, sitaw, gabi at kangkong.
+  en: Pork sinigang made red with tomato sauce, with radish, string beans, taro and water spinach.
+category: sabaw
+image: photos/red-sinigang.png
+tags: [pork, sinigang, tomato, soup]
+servings: 5
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 2 1/4
+        unit: { tl: tasa, en: cup }
+        item: { tl: tubig, en: water }
+      - amount: 2
+        unit: tbsp
+        item: { tl: sibuyas, en: onion }
+        note: { tl: hiniwa, en: sliced }
+      - amount: 500
+        unit: g
+        item: { tl: liempo ng baboy, en: pork belly (liempo) }
+        note: { tl: hiniwa, en: cut into chunks }
+      - amount: 1/2
+        unit: tbsp
+        item: { tl: patis, en: fish sauce }
+      - amount: 1/2
+        unit: { tl: tali, en: bunch }
+        item: { tl: sitaw, en: string beans }
+      - amount: 2/3
+        unit: { tl: tasa, en: cup }
+        item: { tl: labanos, en: radish }
+        note: { tl: hiniwa, en: sliced }
+      - amount: 1-2
+        item: { tl: siling haba (pang-sigang), en: long green chilies }
+      - amount: 3
+        item: okra
+        note: { tl: hinati sa gitna, en: halved }
+      - amount: 1
+        unit: { tl: tali, en: bunch }
+        item: { tl: kangkong, en: water spinach (kangkong) }
+        note: { tl: dahon at malambot na tangkay lang, en: leaves and tender stalks only }
+      - amount: 1
+        item: { tl: gabi, en: taro }
+      - amount: 1
+        unit: tbsp
+        item: { tl: sinigang mix powder, en: tamarind soup mix }
+      - amount: 1
+        unit: pouch
+        item: Del Monte Original Style Tomato Sauce
+        note: { tl: 200 g; kalahati lang ang ginamit ko, en: 200 g; Marissa used only half }
+      - item: { tl: asin, en: salt }
+
+review:
+  - The original paste had two versions. The English one is a Del Monte package recipe. Marissa's Tagalog version adds sitaw, gabi and salt and uses half the tomato sauce. Her version was used for both languages.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          Pagsamahin sa tubig ang sibuyas, patis, tomato sauce at baboy. Pakuluan hanggang sa
+          lumambot ang baboy.
+        en: >-
+          Combine the water, onion, fish sauce, tomato sauce and pork. Simmer until the pork is
+          tender.
+      - tl: Ilagay ang labanos, sitaw, sili at gabi.
+        en: Add the radish, string beans, chilies and taro.
+      - tl: Ilagay ang okra at pakuluin hanggang sa maluto ang gulay.
+        en: Add the okra and simmer until the vegetables are cooked.
+      - tl: Ilagay ang sinigang mix at kangkong, at timplahan ng asin ayon sa panlasa.
+        en: Add the tamarind soup mix and kangkong, and season with salt to taste.
+
+notes:
+  - tl: Kalahating pakete lamang po ng tomato sauce ang ginamit ko dito.
+    en: I used only half a pouch of tomato sauce here.
