@@ -1,0 +1,55 @@
+title:
+  tl: Sinampalukang Manok
+  en: Chicken in Tamarind Leaf Soup
+summary:
+  tl: Manok sa maasim na sabaw na may usbong ng sampalok, kangkong at luya.
+  en: Chicken in a sour broth with young tamarind leaves, water spinach and ginger.
+category: sabaw
+image: photos/sinampalukang-manok.png
+tags: [chicken, sour, tamarind, soup]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { tl: manok, en: chicken }
+      - amount: 1
+        unit: guhit
+        item: { tl: usbong ng sampalok, en: young tamarind leaves }
+      - amount: 1
+        unit: { tl: tali, en: bunch }
+        item: { tl: kangkong, en: water spinach (kangkong) }
+      - amount: 2
+        item: { tl: siling pang-sigang, en: long green chilies }
+      - item: { tl: bawang, en: garlic }
+      - item: { tl: sibuyas, en: onion }
+      - item: { tl: kamatis, en: tomatoes }
+      - item: { tl: luya, en: ginger }
+      - item: { tl: mantika, en: cooking oil }
+      - item: { tl: asin, en: salt }
+      - item: { tl: patis, en: fish sauce }
+      - item: MSG
+      - item: { tl: tubig, en: water }
+
+review:
+  - '"1 guhit" for the tamarind leaves is unclear, as in Miki with Patola. It may mean a bundle or a handful.'
+  - The bawang, sibuyas, kamatis and luya have no amounts.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Igisa ang sibuyas, luya, bawang at kamatis nang 3 minuto.
+        en: Sauté the onion, ginger, garlic and tomatoes for 3 minutes.
+      - tl: Isunod ang manok at timplahan ng patis.
+        en: Add the chicken and season with fish sauce.
+      - tl: Maglagay ng tubig at pakuluin.
+        en: Add water and bring to a boil.
+      - tl: Hugasan ang usbong at lamasin ng asin.
+        en: Wash the tamarind leaves and rub them with salt.
+      - tl: Kapag malapit nang maluto ang manok, ilagay na ang usbong, kangkong at sili.
+        en: When the chicken is almost cooked, add the tamarind leaves, kangkong and chilies.
+      - tl: Timplahan ng asin ayon sa panlasa at lagyan ng MSG.
+        en: Season with salt to taste and add MSG.
+      - tl: Pagkulo at luto na ang gulay, ihain nang mainit.
+        en: Once it boils and the vegetables are cooked, serve hot.
