@@ -1,0 +1,61 @@
+title: Gising-Gising
+summary:
+  en: Green beans and ground pork cooked in coconut milk with shrimp paste and chili.
+  tl: Baguio beans at giniling na baboy na niluto sa gata, may bagoong at sili.
+category: ulam
+image: photos/gising-gising.png
+tags: [pork, ground pork, coconut milk, vegetables]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: lb
+        item: { en: green beans (Baguio beans), tl: Baguio beans }
+        note: { en: cut into ¾-inch pieces, tl: hiniwa nang tig-¾ pulgada }
+      - amount: 1/2
+        unit: lb
+        item: { en: ground pork, tl: giniling na baboy }
+      - amount: 1 1/2
+        unit: tbsp
+        item: { en: shrimp paste, tl: bagoong alamang }
+      - amount: 2
+        unit: { en: cup, tl: tasa }
+        item: { en: coconut milk, tl: gata }
+      - amount: 3
+        unit: { en: clove, tl: butil }
+        item: { en: garlic, tl: bawang }
+        note: { en: crushed, tl: dinikdik }
+      - amount: 1
+        item: { en: medium onion, tl: katamtamang laking sibuyas }
+        note: { en: minced, tl: tinadtad }
+      - amount: 2
+        unit: tbsp
+        item: { en: cooking oil, tl: mantika }
+      - amount: 3
+        item: { en: chilies, tl: sili }
+        note: { en: "chopped, optional", tl: "tinadtad, optional" }
+      - amount: 1/2
+        unit: tsp
+        item: { en: ground black pepper, tl: pamintang durog }
+
+review:
+  - "Matches Panlasang Pinoy almost word for word: https://panlasangpinoy.com/gising-gising-recipe/. The photo looks like Marissa's own. Check before publishing publicly."
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: Heat the oil in a pan.
+        tl: Painitin ang mantika sa kawali.
+      - en: Sauté the garlic and onion.
+        tl: Igisa ang bawang at sibuyas.
+      - en: Add the pork. Cook for 3 to 5 minutes, until medium brown.
+        tl: Idagdag ang baboy. Lutuin nang 3 hanggang 5 minuto, hanggang medyo pumula.
+      - en: Add the black pepper, shrimp paste and chili. Stir.
+        tl: Ilagay ang paminta, bagoong at sili. Haluin.
+      - en: Pour in the coconut milk. Bring to a boil, then simmer for 20 minutes.
+        tl: Ibuhos ang gata. Pakuluan, saka hinaan ang apoy at lutuin nang 20 minuto.
+      - en: Add the green beans. Cook for 5 to 7 minutes, stirring now and then.
+        tl: Idagdag ang Baguio beans. Lutuin nang 5 hanggang 7 minuto habang hinahalo-halo.
+      - en: Turn off the heat. Serve with white rice.
+        tl: Patayin ang apoy. Ihain kasama ng kanin.
