@@ -32,6 +32,7 @@ const countable = new Set([
   "piece",
   "can",
   "small can",
+  "big can",
   "pack",
   "bunch",
   "stalk",

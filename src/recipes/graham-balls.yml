@@ -1,0 +1,49 @@
+title: Graham Balls with Marshmallows
+summary:
+  tl: >-
+    Bilog-bilog na graham at condensed milk na ini-roll sa Milo, sprinkles o powdered milk, may
+    marshmallow sa ibabaw.
+  en: >-
+    No-bake balls of crushed graham and condensed milk, rolled in Milo, sprinkles or powdered milk
+    and topped with marshmallows.
+category: panghimagas
+image: photos/graham-balls.png
+tags: [graham, no-bake, marshmallow]
+addedOn: "2026-10-13"
+
+ingredients:
+  - title: Graham balls
+    items:
+      - amount: 3
+        item: graham crackers
+        note: { tl: dinurog, en: crushed }
+      - amount: 1 1/2
+        item: Alaska condensed milk
+  - title: Toppings
+    items:
+      - item: Milo
+      - item: powdered milk
+      - item: sprinkles
+      - item: Nips
+      - item: marshmallows
+
+review:
+  - The graham has no unit ("3 crushed graham"). It probably means 3 packs.
+  - The condensed milk has no unit ("1 1/2 alaska condensed"). It probably means 1½ cans.
+  - The recipe does not say how long to chill the balls.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Ilagay ang condensed milk sa graham at haluin hanggang sa lumapot.
+        en: Add the condensed milk to the graham and mix until thick.
+      - tl: >-
+          Then bilugin sa gusto ninyong laki at i-roll sa kung ano ang gusto ninyo: Milo, sprinkles
+          o powdered milk.
+        en: >-
+          Shape into balls of any size and roll them in whatever you like: Milo, sprinkles or
+          powdered milk.
+      - tl: Lagyan ng toppings. Bahala na po kayo sa style na ibig ninyo.
+        en: Add the toppings in any style you like.
+      - tl: Then i-chill na po.
+        en: Then chill.

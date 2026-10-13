@@ -1,0 +1,82 @@
+title: Miki with Patola
+subtitle: { tl: Sariling bersyon, en: Own version }
+summary:
+  tl: Malasabaw na miki na may atay at balunbalunan, tokwa, patola at gulay.
+  en: Soupy egg noodles with chicken liver and gizzards, tofu, patola and vegetables.
+category: kanin-at-pansit
+tags: [noodles, miki, patola, chicken]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/4
+        unit: { tl: kilo, en: kg }
+        item: { tl: atay at balunbalunan, en: chicken liver and gizzards }
+      - amount: 2
+        item: { tl: tokwa, en: firm tofu }
+        note: { tl: hiniwa nang pakuwadrado, en: cubed }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+      - amount: 3
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+      - amount: 1/4
+        item: { tl: repolyo, en: cabbage }
+      - amount: 1
+        unit: guhit
+        item: { tl: bitsuelas, en: green beans }
+      - amount: 1
+        item: { tl: maliit na carrot, en: small carrot }
+      - amount: 1
+        item: { tl: patola, en: patola (sponge gourd) }
+      - item: { tl: kintsay, en: Chinese celery }
+      - amount: 1
+        unit: { tl: pakete, en: pack }
+        item: miki
+        note: ½ kilo
+      - amount: 5
+        unit: cup
+        item: { tl: tubig, en: water }
+      - item: { tl: paminta, en: pepper }
+      - item: { tl: betsin, en: MSG }
+      - item: { tl: asin, en: salt }
+        note: optional
+  - title: { tl: Para sa paghahain, en: For serving }
+    items:
+      - item: { tl: kalamansi, en: calamansi }
+
+review:
+  - No photo yet. The one sent in chat did not come through as a file.
+  - '"1/4 atay at balunbalunan" has no unit. Recorded as ¼ kilo, which is a guess.'
+  - '"1 guht n bitsuelas" is unclear. Recorded as "1 guhit". It may mean a bundle (tali) or a handful.'
+  - Step 2 fries the tofu and sets it aside, but no step adds it back. No oil is listed for frying either.
+  - Step 3 sautés "manok", which here means the liver and gizzards.
+  - The calamansi was only in the last step of the original. It was added as its own ingredient group.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Hiwain ang mga sahog sa hiwang pampansit.
+        en: Cut the ingredients the way you would for pancit.
+      - tl: Prituhin ang tokwa na hiniwang pakuwadrado at itabi.
+        en: Fry the cubed tofu and set aside.
+      - tl: Igisa ang sibuyas, bawang at manok. Lagyan ng tubig at palambutin.
+        en: >-
+          Sauté the onion, garlic and chicken liver and gizzards. Add the water and simmer until
+          tender.
+      - tl: Pag okay na, isunod na ang carrots at bitsuelas, at isunod ang miki.
+        en: When tender, add the carrot and green beans, then the miki.
+      - tl: >-
+          Pag half-cooked na ang gulay, lagyan ng paminta at betsin. Kung matabang pa sa inyo,
+          timplahan ng asin, kasi maalat na po ang miki.
+        en: >-
+          When the vegetables are half-cooked, add pepper and MSG. Add salt only if it still tastes
+          bland, since the miki is already salty.
+      - tl: >-
+          Then isunod na ang repolyo, patola at kintsay. Pagkulo, patayin na po ang apoy. Huwag
+          i-overcook ang gulay.
+        en: >-
+          Then add the cabbage, patola and Chinese celery. Once it boils, turn off the heat. Do not
+          overcook the vegetables.
+      - tl: Ihain with kalamansi.
+        en: Serve with calamansi.

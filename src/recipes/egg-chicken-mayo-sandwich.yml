@@ -1,0 +1,38 @@
+title: Egg-Chicken-Mayo Sandwich
+summary:
+  tl: Palamang itlog, hinimay na manok at mayonnaise para sa tinapay.
+  en: A sandwich spread of egg, shredded chicken and mayonnaise.
+category: merienda
+image: photos/egg-chicken-mayo-sandwich.png
+tags: [chicken, egg, sandwich]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 4
+        item: { tl: nilagang itlog, en: hard-boiled eggs }
+        note: { tl: pino, en: finely chopped }
+      - amount: 1/2
+        item: { tl: pitso ng manok, en: chicken breast }
+        note: { tl: hinimay, en: shredded }
+      - amount: 1/4
+        unit: { tl: kilo, en: kg }
+        item: mayonnaise
+      - item: { tl: asukal, en: sugar }
+        note: { tl: ayon sa panlasa, en: to taste }
+      - item: { tl: asin, en: salt }
+        note: optional
+      - item: { tl: keso, en: cheese }
+        note: { tl: "ginadgad, optional", en: "grated, optional" }
+      - item: { tl: tinapay, en: bread }
+
+review:
+  - The chicken breast is not described as cooked. It probably means boiled, then shredded.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Pagsama-samahin lamang po ang mga sangkap at tikman ayon sa panlasa.
+        en: Simply mix all the ingredients together, then taste and adjust.
+      - tl: Ipalaman sa tinapay.
+        en: Spread on bread.

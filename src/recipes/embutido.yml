@@ -1,0 +1,85 @@
+title: Embutido
+subtitle: { tl: Sariling bersyon, en: Own version }
+summary:
+  tl: Giniling na hinaluan ng hotdog, ham, itlog at pasas, binalot at pinasingawan.
+  en: Ground meat rolls mixed with hotdog, ham, egg and raisins, wrapped and steamed.
+category: ulam
+image: photos/embutido.png
+tags: [ground meat, steamed, holiday]
+yield: { tl: 18 piraso, en: 18 rolls }
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 2
+        unit: { tl: kilo, en: kg }
+        item: { tl: giniling, en: ground meat }
+      - amount: 3
+        item: { tl: sibuyas, en: onions }
+        note: { tl: pino, en: finely chopped }
+      - amount: 2
+        item: { tl: malaking carrots, en: large carrots }
+      - amount: 2
+        item: { tl: siling pare (red bell pepper), en: red bell peppers }
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: hotdog
+      - amount: 1/4
+        unit: { tl: kilo, en: kg }
+        item: ham
+        note: { tl: o 1 lata ng Maling, en: or 1 can of Maling luncheon meat }
+      - amount: 1
+        unit: loaf
+        item: { tl: sliced bread, en: sliced bread }
+      - amount: 20
+        item: { tl: malalaking itlog, en: large eggs }
+      - amount: 1
+        unit: { tl: pakete, en: pack }
+        item: Alaska powdered milk
+      - amount: 2
+        unit: tsp
+        item: { tl: paminta, en: pepper }
+      - amount: 1
+        unit: tbsp
+        item: { tl: asin, en: salt }
+        note: { tl: depende sa gusto ninyong alat, en: adjust to taste }
+      - amount: 1
+        item: { tl: betsin, en: MSG }
+      - amount: 1
+        unit: { tl: pakete, en: pack }
+        item: { tl: Sun-Maid na pasas, en: Sun-Maid raisins }
+      - amount: 2
+        unit: tbsp
+        item: pickles
+  - title: { tl: Pambalot, en: For wrapping }
+    items:
+      - item: aluminum foil
+        note: { tl: o plastic, en: or plastic }
+      - item: margarine
+        note: { tl: pampahid, en: for greasing }
+
+review:
+  - The type of giniling (ground pork, beef or mixed) is not given.
+  - '"1 vetsin" has no unit (pack or teaspoon).'
+  - The carrots, bell peppers, hotdog and ham have no preparation. They are probably chopped.
+  - It is unclear whether the bread is crumbled or soaked before mixing.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Mix all the ingredients.
+        en: Mix all the ingredients.
+      - tl: >-
+          Aluminum foil o kung saan ninyo gustong ibalot; puwede rin ang plastic. Pahiran ng
+          margarine ang area ng paglalagyan ng babalutin.
+        en: >-
+          Use aluminum foil or any wrapper you like; plastic also works. Grease the part where the
+          mixture will go with margarine.
+      - tl: Then ibalot sa gustong laki.
+        en: Then wrap into rolls of any size.
+      - tl: Steam for 1 hour and 45 minutes.
+        en: Steam for 1 hour and 45 minutes.
+
+notes:
+  - tl: Yung nasa picture po na naluto ko, 18 pcs po ang lumabas.
+    en: The batch in the photo made 18 rolls.

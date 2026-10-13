@@ -1,0 +1,62 @@
+title: Pastillas
+summary:
+  tl: Matamis na bilog-bilog na gawa sa powdered milk at condensed milk, ini-roll sa asukal.
+  en: Sweet milk candies made from powdered milk and condensed milk, rolled in sugar.
+category: panghimagas
+image: photos/pastillas.png
+tags: [milk, no-bake, candy]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: Alaska powdered milk
+      - amount: 2
+        unit: big can
+        item: Alaska condensed milk
+      - amount: 2
+        unit: tbsp
+        item: butter
+      - item: { tl: asukal, en: sugar }
+        note: { tl: pang-coating, en: for coating }
+  - title: { tl: Filling (optional), en: Fillings (optional) }
+    items:
+      - item: { tl: keso, en: cheese }
+      - item: yema
+      - item: chocolate
+  - title:
+      tl: Shake flavor para sa flavored pastillas (optional)
+      en: Shake flavors for flavored pastillas (optional)
+    items:
+      - item: mango
+      - item: ube
+      - item: chocolate
+      - item: cookies and cream
+      - item: Oreo
+  - title: { tl: Iba pang coating (optional), en: Other coatings (optional) }
+    items:
+      - item: sprinkles
+      - item: powdered milk
+      - item: Milo
+
+review:
+  - The fillings and shake flavors are listed, but no step says how or when to add them.
+  - The recipe does not say how many pieces it makes.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Mix mo lang ang 3 main ingredients except sugar.
+        en: Mix the 3 main ingredients (everything except the sugar).
+      - tl: >-
+          Pag okay na at mix na mix na, bilugin o i-mold sa nais mong hugis at i-roll sa asukal.
+        en: >-
+          Once it is well mixed, roll into balls or mold into any shape you like, then roll in
+          sugar.
+      - tl: I-wrap na sa cellophane o ilagay na sa plastic.
+        en: Wrap in cellophane or put in plastic bags.
+
+notes:
+  - tl: Puwede pong palitan ng ibang brand na nais ninyo.
+    en: You can use any brand you like.

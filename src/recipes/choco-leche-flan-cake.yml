@@ -1,0 +1,82 @@
+title: Choco Leche Flan Cake
+summary:
+  tl: Steamed chocolate cake na may leche flan at caramel sa ibabaw.
+  en: Steamed chocolate cake topped with a layer of leche flan and caramel.
+category: panghimagas
+tags: [chocolate, leche flan, steamed, cake]
+addedOn: "2026-10-13"
+
+ingredients:
+  - title: For leche flan
+    items:
+      - amount: 4
+        item: egg yolks
+      - amount: 1/2
+        unit: cup
+        item: evaporated milk
+      - amount: 1/2
+        unit: cup
+        item: condensed milk
+      - amount: 1/2
+        unit: cup
+        item: sugar
+        note: for caramel
+  - title: For choco cake
+    items:
+      - amount: 1
+        unit: cup
+        item: all-purpose flour
+      - amount: 1
+        unit: cup
+        item: evaporated milk
+      - amount: 1
+        unit: cup
+        item: condensed milk
+      - amount: 1
+        unit: cup
+        item: oil
+      - amount: 1
+        unit: cup
+        item: sugar
+      - amount: 1
+        unit: cup
+        item: cocoa powder
+      - amount: 4
+        item: egg whites
+      - amount: 1
+        unit: tbsp
+        item: vanilla
+      - amount: 1
+        unit: tbsp
+        item: baking powder
+      - amount: 1
+        unit: tbsp
+        item: baking soda
+
+review:
+  - No photo yet. The one sent in chat did not come through as a file.
+  - 1 tbsp of baking soda (and 1 tbsp of baking powder) is a lot for 1 cup of flour. It may mean teaspoons. The Mini Chocolate Cake uses the same amounts.
+  - The cake step heats the "wet ingredients". It is unclear whether this includes the egg whites, which would start to cook.
+  - The recipe does not say how many llaneras to use, or to turn the cake out so the flan is on top.
+  - The original ingredient list is in English, so it is shown the same in both languages.
+  - The English translation of the steps was written during conversion.
+
+steps:
+  - title: For leche flan
+    steps:
+      - tl: Mix lang po using mixer.
+        en: Mix the egg yolks, evaporated milk and condensed milk with a mixer.
+      - tl: I-caramelize ang sugar.
+        en: Caramelize the sugar.
+      - tl: Ilagay sa llanera at isalin ang wet ingredients, and steam for 20 minutes.
+        en: Put the caramel in a llanera, pour in the egg mixture and steam for 20 minutes.
+      - tl: Pag okay na at luto na, palamigin.
+        en: When it is cooked, let it cool.
+  - title: For choco cake
+    steps:
+      - tl: Pagsamahin lahat ng wet ingredients at isalang sa mahinang apoy nang 3 minuto.
+        en: Combine all the wet ingredients and heat over low heat for 3 minutes.
+      - tl: Pag okay na, ihalo na sa dry ingredients.
+        en: Then mix them into the dry ingredients.
+      - tl: Pag na-mix na, isalin na sa leche flan at i-steam na for 40 minutes.
+        en: Once mixed, pour the batter over the leche flan and steam for 40 minutes.

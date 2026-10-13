@@ -1,0 +1,77 @@
+title: Mini Chocolate Cake
+subtitle: { tl: Sariling bersyon, en: Own version }
+summary:
+  tl: Maliliit na steamed chocolate cake na may chocolate frosting at marshmallow sa ibabaw.
+  en: Small steamed chocolate cakes with chocolate frosting and marshmallow toppings.
+category: merienda
+image: photos/mini-chocolate-cake.png
+tags: [chocolate, steamed, cake, marshmallow]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: cup
+        item: all-purpose flour
+      - amount: 1
+        unit: cup
+        item: evaporated milk
+      - amount: 1
+        unit: cup
+        item: condensed milk
+      - amount: 1
+        unit: cup
+        item: oil
+      - amount: 1
+        unit: cup
+        item: sugar
+      - amount: 1
+        unit: cup
+        item: cocoa powder
+      - amount: 4
+        item: egg whites
+      - amount: 1
+        unit: tbsp
+        item: vanilla
+      - amount: 1
+        unit: tbsp
+        item: baking powder
+      - amount: 1
+        unit: tbsp
+        item: baking soda
+  - title: Toppings
+    items:
+      - item: Nips
+      - item: marshmallows
+      - item: sprinkles
+  - title: Frosting
+    items:
+      - amount: 1
+        unit: can
+        item: condensed milk
+      - amount: 2
+        unit: tbsp
+        item: cocoa powder
+
+review:
+  - 1 tbsp of baking soda (and 1 tbsp of baking powder) is a lot for 1 cup of flour. It may mean teaspoons.
+  - Step 1 heats the "wet ingredients". It is unclear whether this includes the egg whites, which would start to cook.
+  - The recipe does not say what to steam the batter in (cups or a pan) or how many cakes it makes.
+  - The original ingredient list is in English, so it is shown the same in both languages.
+  - The English translation of the steps was written during conversion.
+
+steps:
+  - title: Frosting
+    steps:
+      - tl: I-mix sa mahinang apoy hanggang lumapot.
+        en: Mix over low heat until thick.
+  - title: { tl: Para sa choco cake, en: For the chocolate cake }
+    steps:
+      - tl: Pagsamahin lahat ng wet ingredients at isalang sa mahinang apoy nang 3 minuto.
+        en: Combine all the wet ingredients and heat over low heat for 3 minutes.
+      - tl: Pag okay na, ihalo na sa dry ingredients.
+        en: Then mix them into the dry ingredients.
+      - tl: Pag na-mix na, i-steam na for 40 minutes.
+        en: Once mixed, steam for 40 minutes.
+      - tl: Ilagay na ang frosting at lagyan ng toppings.
+        en: Spread on the frosting and add the toppings.

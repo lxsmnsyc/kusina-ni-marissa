@@ -1,0 +1,68 @@
+title: Chicken Pastel
+summary:
+  tl: Manok na niluto sa malapot na sarsang may gatas, kasama ng patatas at carrots.
+  en: Chicken stewed in a creamy milk sauce with potatoes and carrots.
+category: ulam
+image: photos/chicken-pastel.png
+tags: [chicken, stew, creamy]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item:
+          tl: manok o atay at balunbalunan
+          en: chicken, or chicken liver and gizzards
+      - amount: 1
+        unit: { tl: kutsara, en: tbsp }
+        item: { tl: mantika, en: cooking oil }
+      - amount: 5
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+        note: { tl: dikdikin, en: crushed }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+        note: { tl: pinuhin, en: finely chopped }
+      - amount: 2
+        unit: { tl: tasa, en: cup }
+        item: { tl: tubig, en: water }
+      - amount: 1
+        item: chicken cube
+      - amount: 1
+        item: { tl: patatas, en: potato }
+        note: { tl: hiwain nang pakuwadrado, en: cubed }
+      - amount: 1
+        item: carrot
+        note: { tl: hiwain nang pakuwadrado, en: cubed }
+      - amount: 1
+        item: { tl: siling pula, en: red bell pepper }
+      - amount: 2
+        unit: { tl: kutsara, en: tbsp }
+        item: cornstarch
+        note: { tl: lusawin sa 2 kutsarang tubig, en: dissolved in 2 tbsp water }
+      - amount: 1
+        unit: { tl: kutsara, en: tbsp }
+        item: margarine
+      - amount: 1/2
+        unit: { tl: tasa, en: cup }
+        item: { tl: gatas evap, en: evaporated milk }
+
+review:
+  - '"Manok/atay at balunbalunan" is unclear. Recorded as chicken, or liver and gizzards. It may mean chicken plus liver and gizzards.'
+  - The last line was cut off ("kng nai"). Read as "kung nais".
+  - The betsin in the last step is not in the ingredient list.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Igisa ang bawang, sibuyas at manok.
+        en: Sauté the garlic, onion and chicken.
+      - tl: Idagdag ang tubig at chicken cube at pakuluin.
+        en: Add the water and chicken cube and bring to a boil.
+      - tl: Idagdag ang patatas, carrots at siling pula. Lutuin hanggang maluto.
+        en: Add the potato, carrot and red pepper. Cook until done.
+      - tl: Idagdag ang lusaw na cornstarch habang hinahalo.
+        en: Stir in the dissolved cornstarch.
+      - tl: Idagdag ang margarine at gatas at haluin. Lagyan ng betsin kung nais.
+        en: Add the margarine and milk and stir. Add MSG if you like.

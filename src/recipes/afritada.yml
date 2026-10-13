@@ -1,0 +1,64 @@
+title: Afritada
+summary:
+  tl: Manok at kasim ng baboy na niluto sa kamatis, kasama ng patatas at siling pula at berde.
+  en: Chicken and pork stewed in tomatoes with potatoes and bell peppers.
+category: ulam
+image: photos/afritada.png
+tags: [chicken, pork, tomato, stew]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: { tl: manok, en: chicken }
+        note: { tl: hiniwa sa katamtamang laki, en: cut into medium pieces }
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { tl: kasim ng baboy, en: pork shoulder (kasim) }
+        note: { tl: hiniwa nang pakuwadrado, en: cubed }
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: { tl: kamatis, en: tomatoes }
+        note: { tl: hinog, en: ripe }
+      - amount: 4
+        item: { tl: patatas, en: potatoes }
+        note: { tl: hiniwa nang pakuwadrado, en: cubed }
+      - amount: 2
+        item: { tl: sibuyas, en: onions }
+      - amount: 1
+        unit: { tl: ulo, en: head }
+        item: { tl: bawang, en: garlic }
+      - amount: 2
+        item: { tl: siling pula, en: red bell peppers }
+        note: { tl: hiniwa nang pahaba, en: cut into strips }
+      - amount: 2
+        item: { tl: siling berde, en: green bell peppers }
+        note: { tl: hiniwa nang pahaba, en: cut into strips }
+      - amount: 2
+        item: { tl: dahon ng laurel, en: bay leaves }
+      - amount: 3
+        unit: { tl: kutsara, en: tbsp }
+        item: { tl: suka, en: vinegar }
+      - item: { tl: asin, en: salt }
+      - item: { tl: paminta, en: pepper }
+
+review:
+  - Step 1 fries the pork and chicken, but no oil is in the ingredient list.
+  - The sibuyas and bawang have no preparation (chopped or crushed).
+  - The photo is a wide 16:9 frame and may be a still from a video. Check where it came from before publishing publicly.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Iprito ang kasim at manok hanggang mamula nang bahagya. Ilagay sa isang tabi.
+        en: Fry the pork and chicken until lightly browned. Set aside.
+      - tl: Igisa ang bawang, sibuyas at kamatis. Durugin nang maigi ang kamatis.
+        en: Sauté the garlic, onions and tomatoes. Mash the tomatoes well.
+      - tl: Ilagay ang kasim, laurel at suka. Pakuluin hanggang lumambot ang kasim.
+        en: Add the pork, bay leaves and vinegar. Simmer until the pork is tender.
+      - tl: Idagdag ang manok at patatas.
+        en: Add the chicken and potatoes.
+      - tl: >-
+          Ihuling idagdag ang siling pula at berde. Timplahan ng asin at paminta ayon sa panlasa.
+        en: Add the red and green peppers last. Season with salt and pepper to taste.

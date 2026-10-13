@@ -1,0 +1,45 @@
+title: Pastillas Sprinkles
+summary:
+  tl: Pastillas na bilog-bilog na ini-roll sa makukulay na sprinkles at winisikan ng asukal.
+  en: Milk candy balls rolled in colorful sprinkles and dusted with sugar.
+category: panghimagas
+image: photos/pastillas-sprinkles.png
+tags: [milk, no-bake, candy, sprinkles]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item:
+          tl: Alaska powdered milk, skim milk o buttermilk
+          en: Alaska powdered milk, skim milk or buttermilk powder
+      - amount: 2
+        unit: big can
+        item: Alaska condensed milk
+      - amount: 3
+        unit: tbsp
+        item: butter
+      - item: { tl: asukal, en: sugar }
+        note: { tl: pangwisik, en: for dusting }
+      - item: sprinkles
+
+review:
+  - The recipe does not say how many pieces it makes.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Mix mo lang ang milk powder, condensed milk at butter.
+        en: Mix the milk powder, condensed milk and butter.
+      - tl: >-
+          Pag okay na at mix na mix na parang dough, kumuha ng 1 tbsp ang sukat at bilugin.
+        en: When it is well mixed and feels like dough, scoop 1 tbsp portions and roll into balls.
+      - tl: I-roll sa sprinkles at wisikan ng asukal.
+        en: Roll in sprinkles and dust with sugar.
+      - tl: Then ilagay na sa plastic.
+        en: Then pack them in plastic.
+
+notes:
+  - tl: Puwede pong palitan ng ibang brand na nais ninyo.
+    en: You can use any brand you like.
