@@ -1,0 +1,76 @@
+title: Leche Puto
+summary:
+  tl: Steamed puto na may leche flan sa ibabaw.
+  en: Steamed rice cakes topped with a layer of leche flan.
+category: merienda
+image: photos/leche-puto.png
+tags: [puto, leche flan, steamed, kakanin]
+addedOn: "2026-10-13"
+
+ingredients:
+  - title: { tl: Para sa leche, en: For the leche flan }
+    items:
+      - amount: 4
+        item: egg yolks
+        note: { tl: mula sa 4 na itlog, en: from 4 eggs }
+      - amount: 1
+        unit: cup
+        item: condensed milk
+      - amount: 2
+        unit: tsp
+        item: { tl: katas ng lemon, en: lemon juice }
+      - item: { tl: "oil, margarine o butter", en: "oil, margarine or butter" }
+        note: { tl: pampahid sa molder, en: for greasing the molds }
+  - title: { tl: Para sa puto, en: For the puto }
+    items:
+      - amount: 4
+        item: egg whites
+      - amount: 2
+        unit: cup
+        item: rice flour
+      - amount: 1 1/2
+        unit: cup
+        item: { tl: tubig, en: water }
+      - amount: 2
+        unit: tsp
+        item: baking powder
+      - amount: 1
+        unit: cup
+        item: { tl: asukal, en: sugar }
+      - item: { tl: asin, en: salt }
+        note: { tl: kaunti, en: a pinch }
+      - amount: 1/4
+        unit: cup
+        item: evaporated milk
+
+review:
+  - The photo shows some puto colored purple (ube), but no coloring or ube is in the recipe.
+  - The English translation was written during conversion.
+
+steps:
+  - title: { tl: Para sa leche, en: For the leche flan }
+    steps:
+      - tl: Pagsamahin ang egg yolks, condensed milk at katas ng lemon, at i-mix.
+        en: Mix the egg yolks, condensed milk and lemon juice.
+      - tl: Pahiran ang mga puto molder ng oil, margarine o butter.
+        en: Grease the puto molds with oil, margarine or butter.
+      - tl: Ilagay ang yolk mixture hanggang ⅓ ng puto molder.
+        en: Fill each mold ⅓ full with the yolk mixture.
+      - tl: I-steam nang 8 minuto. Kapag luto na, palamigin.
+        en: Steam for 8 minutes. When set, let cool.
+  - title: { tl: Para sa puto, en: For the puto }
+    steps:
+      - tl: I-beat ang egg whites gamit ang hand mixer.
+        en: Beat the egg whites with a hand mixer.
+      - tl: Isunod ang evap milk at sugar, at i-mix.
+        en: Add the evaporated milk and sugar and mix.
+      - tl: Pagsamahin ang rice flour, baking powder at asin, at salain.
+        en: Sift together the rice flour, baking powder and salt.
+      - tl: Isama na po sa egg white mixture at haluin pong mabuti.
+        en: Add them to the egg white mixture and mix well.
+      - tl: Pagkahalo, ilagay na po ang tubig.
+        en: Then add the water.
+      - tl: Ilagay na po natin sa pinalamig na leche.
+        en: Pour the batter over the cooled leche flan in the molds.
+      - tl: I-steam po nang 10 minuto.
+        en: Steam for 10 minutes.
