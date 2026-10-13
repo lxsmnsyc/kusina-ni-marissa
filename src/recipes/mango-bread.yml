@@ -1,0 +1,67 @@
+title: Mango Bread
+summary:
+  en: A moist cinnamon loaf studded with pieces of ripe mango.
+  tl: Malambot na tinapay na may cinnamon at hiniwang hinog na mangga.
+category: merienda
+image: photos/mango-bread.png
+tags: [mango, bread, baked, loaf]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 2
+        unit: cup
+        item: all-purpose flour
+        note: { en: sifted, tl: sinala }
+      - amount: 1
+        unit: cup
+        item: { en: white sugar, tl: puting asukal }
+      - amount: 1/4
+        unit: cup
+        item: { en: dark or light brown sugar, tl: dark o brown sugar }
+      - amount: 1
+        unit: tsp
+        item: baking soda
+      - amount: 1/2
+        unit: tsp
+        item: { en: salt, tl: asin }
+      - amount: 1/2
+        unit: tsp
+        item: { en: ground cinnamon, tl: cinnamon powder }
+      - amount: 3
+        item: { en: eggs, tl: itlog }
+      - amount: 1/2
+        unit: cup
+        item: { en: vegetable oil, tl: mantika }
+      - amount: 1
+        unit: tsp
+        item: vanilla extract
+      - amount: 2
+        unit: cup
+        item: { en: ripe mango, tl: hinog na mangga }
+        note: { en: cut into small pieces, tl: hiniwa nang maliliit }
+
+review:
+  - The original does not say which ingredients count as dry and which as wet. The sugars were read as dry, since the wet mix is only eggs, oil and vanilla.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: Preheat the oven to 350 °F (175 °C).
+        tl: Painitin ang oven sa 350 °F (175 °C).
+      - en: Combine the dry ingredients and sift.
+        tl: Paghaluin ang mga tuyong sangkap at salain.
+      - en: >-
+          Combine the wet ingredients and mix for 3 minutes. Add the dry ingredients and mix until
+          well combined.
+        tl: >-
+          Paghaluin ang mga basang sangkap nang 3 minuto. Ilagay ang mga tuyong sangkap at haluin
+          hanggang maghalo nang mabuti.
+      - en: Fold in the mango.
+        tl: Itupi ang mangga sa batter.
+      - en: Pour into an 8 × 4 inch loaf pan. Marissa uses smaller pans.
+        tl: Ibuhos sa 8 × 4 pulgadang loaf pan. Mas maliliit na pan ang gamit ni Marissa.
+      - en: Bake for 50 to 55 minutes, or until a toothpick inserted in the center comes out clean.
+        tl: >-
+          I-bake nang 50 hanggang 55 minuto, o hanggang lumabas na malinis ang toothpick na itinusok
+          sa gitna.
