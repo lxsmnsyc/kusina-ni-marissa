@@ -1,0 +1,67 @@
+title: Cheesy Chicken Balls
+summary:
+  en: Ground chicken, mashed potato and cheese shaped into balls, breaded and deep-fried.
+  tl: Giniling na manok, dinurog na patatas at keso na binilog, binalot sa breadcrumbs at prinito.
+category: merienda
+image: photos/cheesy-chicken-balls.png
+tags: [chicken, cheese, potato, fried]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 2
+        unit: cup
+        item: { en: ground chicken, tl: giniling na manok }
+        note: { en: boiled, tl: pinakuluan }
+      - amount: 2
+        item: { en: medium potatoes, tl: katamtamang laki ng patatas }
+        note: { en: boiled and mashed, tl: nilaga at dinurog }
+      - amount: 1
+        unit: { tl: kahon, en: box }
+        item: { en: cheese, tl: keso }
+        note: { en: grated, tl: ginadgad }
+      - amount: 1
+        unit: tsp
+        item: baking powder
+      - amount: 2
+        unit: tbsp
+        item: cornflour
+      - amount: 1
+        item: { en: egg, tl: itlog }
+      - item: { en: salt and pepper, tl: asin at paminta }
+        note: { en: to taste, tl: ayon sa panlasa }
+  - title: { en: For coating, tl: Pambalot }
+    items:
+      - amount: 1
+        unit: cup
+        item: { en: flour, tl: harina }
+      - amount: 1
+        item: { en: egg, tl: itlog }
+        note: { en: beaten, tl: binati }
+      - amount: 1/2
+        unit: cup
+        item: breadcrumbs
+      - item: { en: cooking oil, tl: mantika }
+        note: { en: for deep-frying, tl: pamprito }
+  - title: { en: Optional, tl: Opsyonal }
+    items:
+      - item: { en: Chinese celery (kintsay) or celery, tl: kintsay o celery }
+
+review:
+  - The size of the box of cheese is not given.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: >-
+          Combine the chicken, potatoes, cheese, baking powder, cornflour, egg, and salt and pepper.
+          Add the kintsay or celery, if using.
+        tl: >-
+          Paghaluin ang manok, patatas, keso, baking powder, cornflour, itlog, at asin at paminta.
+          Isama ang kintsay o celery kung gagamit.
+      - en: Shape into balls.
+        tl: Bilugin.
+      - en: Roll each ball in the flour, then the beaten egg, then the breadcrumbs.
+        tl: I-roll ang bawat bola sa harina, saka sa binating itlog, saka sa breadcrumbs.
+      - en: Deep-fry over medium heat until golden brown.
+        tl: I-deep fry sa katamtamang apoy hanggang pumula.
