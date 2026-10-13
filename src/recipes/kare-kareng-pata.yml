@@ -6,6 +6,7 @@ summary:
     bagoong alamang.
   en: Pork hock and vegetables in a thick peanut and toasted rice sauce, served with shrimp paste.
 category: ulam
+image: photos/kare-kareng-pata.png
 tags: [pork, pata, peanut, vegetables]
 addedOn: "2026-10-13"
 
@@ -51,7 +52,6 @@ ingredients:
       - item: { tl: bagoong alamang, en: shrimp paste (bagoong alamang) }
 
 review:
-  - No photo yet. The one sent in chat did not come through as a file.
   - 5 ulo ng bawang (5 heads of garlic) is a lot. It may mean 5 butil (cloves).
   - Water is used to boil the pata and in steps 3 and 4 (¾ tasa), but it is not in the ingredient list.
   - The bagoong alamang was only in the last step of the original. It was added as its own ingredient group.
