@@ -1,0 +1,63 @@
+title:
+  tl: Tinolang Manok
+  en: Chicken Tinola
+summary:
+  tl: Sabaw ng manok na may luya, sayote o papaya at dahon ng sili.
+  en: Chicken soup with ginger, chayote or green papaya and chili leaves.
+category: sabaw
+tags: [chicken, tinola, ginger, soup]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item:
+          tl: manok o atay at balunbalunan
+          en: chicken, or chicken liver and gizzards
+      - amount: 2
+        item: { tl: sayote o papaya, en: chayote or green papaya }
+        note: { tl: hiniwang katamtaman ang laki, en: cut into medium pieces }
+      - amount: 1
+        unit: { tl: tali, en: bunch }
+        item: { tl: dahon ng sili, en: chili leaves }
+      - amount: 2
+        item: { tl: siling berde, en: long green chilies }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+        note: { tl: ginayat, en: sliced }
+      - item: { tl: luya, en: ginger }
+        note: { tl: "kapiraso, hiniwang pahaba", en: "a small piece, cut into strips" }
+      - amount: 4
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+        note: { tl: dinikdik, en: crushed }
+      - item: { tl: mantika, en: cooking oil }
+      - item: { tl: patis, en: fish sauce }
+      - item: { tl: asin, en: salt }
+      - item: { tl: paminta, en: pepper }
+      - item: { tl: tubig, en: water }
+  - title: Optional
+    items:
+      - item: { tl: bigas na may halong dugo ng manok, en: rice mixed with chicken blood }
+
+review:
+  - No photo yet. The one sent in chat did not come through as a file.
+  - '"Manok/atay at balunbalunan" is unclear, as in Chicken Pastel. Recorded as chicken, or liver and gizzards.'
+  - The optional rice with chicken blood is listed, but no step says when to add it.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Igisa ang luya, bawang, sibuyas at ang manok. Timplahan ng patis.
+        en: Sauté the ginger, garlic, onion and chicken. Season with fish sauce.
+      - tl: Ilagay ang tubig at takpan upang pakuluin.
+        en: Add the water and cover to bring to a boil.
+      - tl: Pag kumulo, ilagay ang sayote at sili. Pakuluin muli.
+        en: When it boils, add the chayote and chilies. Bring to a boil again.
+      - tl: Ilagay ang dahon ng sili at paminta.
+        en: Add the chili leaves and pepper.
+      - tl: Timplahan ng asin kung kulang pa sa inyong panlasa, at pakuluin muli.
+        en: Add salt if it needs more, and bring to a boil again.
+      - tl: Ihain nang mainit.
+        en: Serve hot.
