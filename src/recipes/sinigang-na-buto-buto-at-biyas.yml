@@ -6,6 +6,7 @@ summary:
   tl: Buto-buto at biyas ng baboy sa maasim na sabaw ng sampalok, may gabi at gulay.
   en: Pork spare ribs and leg in a sour tamarind broth with taro and vegetables.
 category: sabaw
+image: photos/sinigang-na-buto-buto-at-biyas.png
 tags: [pork, sinigang, tamarind, soup]
 addedOn: "2026-10-13"
 
@@ -46,7 +47,6 @@ ingredients:
       - item: { tl: asin, en: salt }
 
 review:
-  - No photo yet. The one sent in chat did not come through as a file.
   - The kangkong is listed but no step adds it.
   - The pork is boiled in sabaw-sinaing (rice washing water), which is not in the ingredient list.
   - The English translation was written during conversion.
