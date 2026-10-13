@@ -1,0 +1,66 @@
+title: Ginataang Papaya
+subtitle: { en: Green papaya in coconut milk, tl: Papaya sa gata }
+summary:
+  en: Green papaya simmered in coconut milk with garlic, ginger and shrimp, finished with malunggay leaves.
+  tl: Papaya na niluto sa gata na may bawang, luya at hipon, at nilagyan ng dahon ng malunggay.
+category: ulam
+image: photos/ginataang-papaya.png
+tags: [papaya, gata, shrimp, vegetables, malunggay]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        item: { en: medium green papaya, tl: katamtamang laki ng papaya }
+        note: { en: cut into serving pieces, tl: hiniwa nang pang-serving }
+      - amount: 2
+        unit: cup
+        item: { en: coconut milk, tl: gata }
+      - amount: 3
+        unit: { tl: butil, en: clove }
+        item: { en: garlic, tl: bawang }
+        note: { en: minced, tl: tinadtad }
+      - amount: 1
+        item: { en: onion, tl: sibuyas }
+        note: { en: chopped, tl: tinadtad }
+      - amount: 1
+        unit: { tl: hinlalaki, en: thumb-sized piece }
+        item: { en: ginger, tl: luya }
+        note: { en: thinly sliced, tl: hiniwa nang manipis }
+      - item: { en: shrimp, tl: hipon }
+        note:
+          en: or 1 dried salted fish (daing or tinapa), shredded
+          tl: o 1 pirasong daing o tinapa, hinimay
+      - item: { en: "fish sauce, or salt and pepper", tl: "patis, o asin at paminta" }
+        note: { en: to taste, tl: ayon sa panlasa }
+      - item: { en: cooking oil, tl: mantika }
+  - title: { en: Optional, tl: Opsyonal }
+    items:
+      - amount: 1
+        item: { en: long green chili (siling haba), tl: siling haba }
+      - amount: 1
+        unit: { tl: tali, en: bunch }
+        item: { en: malunggay leaves, tl: dahon ng malunggay }
+
+review:
+  - >-
+    The original text matches a 2012 recipe on filipinostylerecipe.com. That site no longer serves
+    the recipe (it redirects elsewhere), so it was added with Marissa's shrimp change.
+  - The shrimp has no amount.
+  - The original says "chili finger (siling labuyo)", but chili finger is siling haba, which matches the photo.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: In a pan, heat the oil and sauté the garlic, onion and ginger.
+        tl: Sa isang kawali, magpainit ng mantika at igisa ang bawang, sibuyas at luya.
+      - en: Pour in the coconut milk and bring to a boil.
+        tl: Ibuhos ang gata at pakuluan.
+      - en: Add the papaya, fish sauce and pepper, and simmer over low heat until half-cooked.
+        tl: Ilagay ang papaya, patis at paminta, at lutuin sa mahinang apoy hanggang kalahating luto.
+      - en: Add the shrimp and chili, and simmer until the papaya is soft.
+        tl: Ilagay ang hipon at sili, at lutuin hanggang lumambot ang papaya.
+      - en: Adjust the seasoning. Add the malunggay leaves and simmer for 1 minute.
+        tl: Tikman at i-adjust ang timpla. Ilagay ang malunggay at lutuin nang 1 minuto.
+      - en: Remove from the heat and serve with steamed rice.
+        tl: Hanguin at ihain kasama ng kanin.
