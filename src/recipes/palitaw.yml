@@ -1,0 +1,47 @@
+title: Palitaw
+summary:
+  tl: Pinakuluang malagkit na dough na binudburan ng asukal at sinangag na linga.
+  en: Boiled glutinous rice cakes coated in sugar and toasted sesame seeds.
+category: merienda
+tags: [kakanin, glutinous rice, sesame]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 2
+        unit: cup
+        item: { tl: glutinous rice flour, en: glutinous rice flour }
+      - amount: 3/4
+        unit: cup
+        item: { tl: tubig, en: water }
+      - item: { tl: asukal, en: sugar }
+      - item: { tl: sesame seeds (linga), en: sesame seeds }
+
+review:
+  - No photo. The one supplied looked like a recipe-site thumbnail and showed grated coconut, which is not in this recipe. Add Marissa's own photo.
+  - The ingredient list says "glutinous rice" but the steps say "glutinous powder". Recorded as glutinous rice flour.
+  - The sugar and sesame seeds have no amounts.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: >-
+          Isangag ang sesame seeds. Pag namula na at naamoy na ang aroma, hanguin na. Palamigin,
+          saka lagyan ng asukal at haluin. Set aside muna.
+        en: >-
+          Toast the sesame seeds in a dry pan. When golden and fragrant, remove from the heat. Let
+          cool, then mix with the sugar. Set aside.
+      - tl: Magpakulo ng tubig sa kaserola.
+        en: Bring a pot of water to a boil.
+      - tl: >-
+          Sa isang bowl, ilagay ang glutinous powder at ang tubig. Haluing mabuti para makagawa ng
+          dough.
+        en: In a bowl, combine the glutinous rice flour and water. Mix well to form a dough.
+      - tl: >-
+          Kumuha ng kaunting mixture, bilugin, laparin, at saka ilagay sa kumukulong tubig. Hanguin
+          na pag lumutang.
+        en: >-
+          Take a small piece of dough, roll it into a ball, flatten it, and drop it into the boiling
+          water. Remove when it floats.
+      - tl: Palamigin nang kaunti, saka lagyan ng pinaghalong asukal at sesame seeds.
+        en: Let cool slightly, then coat with the sugar and sesame mixture.
