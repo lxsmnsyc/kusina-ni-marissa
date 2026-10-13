@@ -1,10 +1,11 @@
 title: Buchi
+subtitle: { en: Sesame balls, tl: Sesame balls para sosyal }
 summary:
-  en: Fried sesame balls made from glutinous rice flour and mashed sweet potato.
-  tl: Pritong bilog na may linga, gawa sa malagkit na harina at dinurog na kamote.
+  en: Fried sesame balls made from glutinous rice flour and mashed sweet potato, filled with ube halaya.
+  tl: Pritong bilog na may linga, gawa sa malagkit na harina at dinurog na kamote, may palamang ube halaya.
 category: merienda
 image: photos/buchi.png
-tags: [buchi, kamote, sesame, fried]
+tags: [buchi, kamote, ube, sesame, fried]
 addedOn: "2026-10-13"
 
 ingredients:
@@ -12,33 +13,58 @@ ingredients:
       - amount: 1/2
         unit: { tl: kilo, en: kg }
         item: { en: glutinous rice flour, tl: malagkit na harina }
-      - amount: 1/2
-        unit: { tl: kilo, en: kg }
-        item: { en: white sugar, tl: puting asukal }
       - amount: 1
         unit: { tl: kilo, en: kg }
         item: { en: sweet potato (kamote), tl: kamote }
-        note: { en: boiled and mashed, tl: nilaga at dinurog }
+        note: { en: boiled until soft and mashed, tl: pinalambot at dinurog }
+      - amount: 1/2
+        unit: { tl: kilo, en: kg }
+        item: { en: sugar, tl: asukal }
+      - amount: 1 1/2
+        unit: tbsp
+        item: baking powder
+        note: { en: so the balls puff up, tl: para umalsa o lumaki }
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: { en: water, tl: tubig }
+        note: { en: plus more as needed, tl: at dagdag pa kung kailangan }
+      - item: ube halaya
+        note: { en: for the filling, tl: pampalaman }
       - item: { en: sesame seeds, tl: linga }
-      - item: { en: water, tl: tubig }
-        note: { en: for dipping, tl: pang-dip }
       - item: { en: cooking oil, tl: mantika }
         note: { en: for deep-frying, tl: pamprito }
-  - title: { en: Optional filling, tl: Opsyonal na palaman }
+  - title: { en: Optional, tl: Opsyonal }
     items:
-      - item: { en: "jackfruit (langka), ube or mango", tl: "langka, ube o mangga" }
+      - amount: 1
+        unit: { tl: tasa, en: cup }
+        item: { en: rice flour, tl: galapong o rice flour }
+      - item: potato flakes
+        note: { en: instead of the kamote, tl: kapalit ng kamote }
 
 review:
-  - The recipe does not say how big to make the balls or how to add the optional filling.
-  - The Tagalog translation was written during conversion.
+  - The recipe does not give the size of the balls or the potato flake amount.
+  - This replaces an earlier, shorter version of Marissa's buchi.
+  - The English translation was written during conversion.
 
 steps:
   - steps:
-      - en: Combine the flour, sugar and mashed sweet potato.
-        tl: Paghaluin ang malagkit na harina, asukal at dinurog na kamote.
-      - en: Shape into balls. Add a filling in the center if you like.
-        tl: Bilugin. Lagyan ng palaman sa gitna kung nais.
-      - en: Dip each ball in a bowl of water, then roll it in sesame seeds.
-        tl: Isawsaw ang bawat bola sa isang mangkok ng tubig, saka i-roll sa linga.
-      - en: Deep-fry over medium heat until golden brown.
-        tl: I-deep fry sa katamtamang apoy hanggang pumula.
+      - en: Dissolve the sugar in the water.
+        tl: Tunawin ang asukal sa tubig.
+      - en: Add the mashed sweet potato.
+        tl: Ilagay ang dinurog na kamote.
+      - en: Add the flour (and rice flour, if using) and mix well.
+        tl: Ilagay ang harina (at rice flour kung gagamit) at haluing mabuti.
+      - en: Knead the dough. If it gets a little dry, add more water.
+        tl: Masahin ang dough. Kapag medyo tuyo, dagdagan ng tubig.
+      - en: Roll the dough into a log and cut it into pieces. Shape each piece into a ball.
+        tl: Gumawa ng log sa dough at hati-hatiin. Bilugin ang bawat piraso.
+      - en: Flatten each ball, put some ube halaya in the center, and roll it back into a ball.
+        tl: Patagin ang bawat bola, lagyan ng ube halaya sa gitna, at bilugin ulit.
+      - en: Dip each ball in water, roll it in sesame seeds, and deep-fry until golden.
+        tl: Ilubog sa tubig, pagulungin sa linga, at i-fry hanggang pumula.
+
+notes:
+  - en: The rice flour is optional; you can leave it out.
+    tl: Puwedeng magdagdag ng 1 tasang rice flour kung gusto, puwede ring hindi na.
+  - en: For an even fancier version, use potato flakes instead of kamote.
+    tl: O gumamit ng potato flakes para talagang sosyal.
