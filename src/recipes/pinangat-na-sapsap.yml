@@ -1,0 +1,43 @@
+title: Pinangat na Sapsap
+summary:
+  tl: Sapsap na niluto sa maasim na sabaw na may kamatis, sibuyas at siling pang-sigang.
+  en: Ponyfish simmered in a sour broth with tomatoes, onion and long green chilies.
+category: ulam
+image: photos/pinangat-na-sapsap.png
+tags: [fish, sapsap, sour]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1/4
+        unit: { tl: kilo, en: kg }
+        item: { tl: sapsap, en: ponyfish (sapsap) }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+        note: { tl: hiniwa, en: sliced }
+      - amount: 2
+        item: { tl: kamatis, en: tomatoes }
+      - amount: 1/2
+        unit: { tl: pakete, en: pack }
+        item: { tl: sinigang sa sampalok mix, en: tamarind soup mix }
+      - amount: 2
+        item: { tl: siling pang-sigang, en: long green chilies }
+      - item: { tl: asin, en: salt }
+
+review:
+  - '"1/4 na sapsap" has no unit. Recorded as ¼ kilo.'
+  - Water is not listed, though the dish has a broth.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Pagsama-samahin sa kawali ang mga sangkap at pakuluin.
+        en: Combine all the ingredients in a pan and bring to a boil.
+      - tl: Tikman, at kung kulang pa ang asin, timplahan ayon sa panlasa.
+        en: Taste, and add more salt if needed.
+      - tl: Pag luto na ang isda, puwede nang patayin ang apoy.
+        en: Once the fish is cooked, turn off the heat.
+
+notes:
+  - tl: Puwede ring ipamalit ang kamias sa sampalok.
+    en: You can use kamias instead of tamarind.
