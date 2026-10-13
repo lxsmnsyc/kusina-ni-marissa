@@ -1,0 +1,61 @@
+title: Pinaputok na Tilapia
+subtitle: { en: Stuffed grilled tilapia, tl: Tilapiang may palaman na inihaw }
+summary:
+  en: Whole tilapia stuffed with tomato, onion and soy sauce, wrapped in buttered banana leaves and grilled.
+  tl: Buong tilapia na pinalamanan ng kamatis, sibuyas at toyo, binalot sa dahon ng saging at inihaw.
+category: ulam
+image: photos/pinaputok-na-tilapia.png
+tags: [fish, tilapia, grilled, banana leaves]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        item: { en: large tilapia, tl: malaking tilapia }
+        note: { en: cleaned, tl: nilinis }
+      - amount: 2
+        unit: tsp
+        item: { en: salt, tl: asin }
+      - amount: 2
+        item: { en: medium tomatoes, tl: katamtamang laki ng kamatis }
+        note: { en: chopped, tl: tinadtad }
+      - amount: 1
+        item: { en: medium onion, tl: katamtamang laki ng sibuyas }
+        note: { en: chopped, tl: tinadtad }
+      - amount: 2
+        unit: tbsp
+        item: { en: soy sauce, tl: toyo }
+      - item: butter
+        note: { en: for greasing the leaves, tl: pamahid sa dahon }
+      - item: { en: banana leaves, tl: dahon ng saging }
+      - item: toyomansi
+        note: { en: for serving, tl: pansawsaw }
+
+review:
+  - The original numbers steps 3 three times, and repeats "Fill the mixture to tilapia belly" twice.
+  - The butter is listed but only implied in "greased banana leaves".
+  - The toyomansi has no asterisk explanation, though the original marks it with one.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: >-
+          Clean the tilapia and make a slit along its side. Using a sharp, pointed knife, deepen
+          and widen the cut along the belly.
+        tl: >-
+          Linisin ang tilapia at hiwaan ang tagiliran nito. Gamit ang matulis na kutsilyo, palalimin
+          at palaparin ang hiwa sa tiyan.
+      - en: Sprinkle both sides of the fish, including the belly, with salt. Set aside.
+        tl: Budburan ng asin ang magkabilang gilid ng isda, pati ang tiyan. Itabi.
+      - en: In a bowl, mix the soy sauce, onion and tomatoes.
+        tl: Sa isang bowl, paghaluin ang toyo, sibuyas at kamatis.
+      - en: Stuff the mixture into the belly of the tilapia.
+        tl: Ipalaman ang mixture sa tiyan ng tilapia.
+      - en: >-
+          Grease the banana leaves with butter and wrap the fish tightly. Grill for about 20
+          minutes, 10 minutes on each side.
+        tl: >-
+          Pahiran ng butter ang dahon ng saging at balutin nang mahigpit ang isda. Ihawin nang mga
+          20 minuto, 10 minuto bawat gilid.
+      - en: Serve with rice and toyomansi.
+        tl: Ihain kasama ng kanin at toyomansi.
