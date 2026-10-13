@@ -1,0 +1,77 @@
+title: Menudo
+subtitle: { tl: Sariling bersyon, en: Own version }
+summary:
+  tl: Baboy at atay na niluto sa tomato sauce at liver spread, may patatas, carrots at pasas.
+  en: Pork and liver stewed in tomato sauce and liver spread, with potatoes, carrots and raisins.
+category: ulam
+tags: [pork, liver, tomato]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        unit: { tl: kilo, en: kg }
+        item: { tl: baboy, en: pork }
+        note: menudo cut
+      - amount: 1/4
+        unit: { tl: kilo, en: kg }
+        item: { tl: atay, en: liver }
+      - amount: 1
+        unit: { tl: ulo, en: head }
+        item: { tl: bawang, en: garlic }
+        note: { tl: hiwain nang pino, en: finely chopped }
+      - amount: 2
+        item: { tl: pulang sibuyas, en: red onions }
+        note: { tl: pino, en: finely chopped }
+      - amount: 4
+        item: { tl: kamatis, en: tomatoes }
+        note: { tl: "pino, alisin ang buto", en: "finely chopped, seeded" }
+      - amount: 1
+        item: { tl: medyo malaking bell pepper, en: large bell pepper }
+      - amount: 1
+        unit: { tl: malaking lata, en: big can }
+        item: Reno liver spread
+      - amount: 1
+        unit: { tl: pakete, en: pack }
+        item: tomato sauce
+      - amount: 1/4
+        item: hotdog
+      - amount: 2
+        item: { tl: patatas, en: potatoes }
+      - amount: 2
+        item: carrots
+      - item: { tl: pasas, en: raisins }
+      - item: pickles
+      - item: { tl: keso, en: cheese }
+      - item: { tl: paminta, en: pepper }
+      - item: { tl: betsin, en: MSG }
+      - item: { tl: toyo, en: soy sauce }
+      - amount: 6
+        item: { tl: kalamansi, en: calamansi }
+      - item: { tl: itlog ng pugo, en: quail eggs }
+        note: optional
+
+review:
+  - The hotdog is listed ("1/4 hotdog", no unit) but no step uses it.
+  - The potatoes and carrots have no preparation (cubed or sliced).
+  - The quail eggs were only in the last step of the original. They were added to the ingredient list as optional.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: I-marinate ang baboy sa toyo, kalamansi at paminta nang mga 2 oras.
+        en: Marinate the pork in soy sauce, calamansi and pepper for about 2 hours.
+      - tl: Igisa ang sibuyas, bawang, kamatis at baboy, at palambutin.
+        en: Sauté the onion, garlic, tomatoes and pork, and cook until the pork is tender.
+      - tl: Pag malambot na, ilagay ang atay at bell pepper. Haluin at takpan.
+        en: When tender, add the liver and bell pepper. Stir and cover.
+      - tl: Pag kumulo na, ilagay ang patatas at carrots.
+        en: Once it boils, add the potatoes and carrots.
+      - tl: Then ilagay ang tomato sauce, Reno liver spread, pasas at pickles.
+        en: Then add the tomato sauce, liver spread, raisins and pickles.
+      - tl: Gadgaran ng keso.
+        en: Grate cheese over it.
+      - tl: Tikman at timplahan ayon sa panlasa.
+        en: Taste and adjust the seasoning.
+      - tl: Maaari ring dagdagan ng itlog ng pugo.
+        en: You can also add quail eggs.
