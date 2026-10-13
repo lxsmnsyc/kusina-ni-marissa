@@ -1,0 +1,59 @@
+title: Chicken à la King
+summary:
+  tl: Nilagang manok sa malapot na sarsang may cream of mushroom soup at siling pula at berde.
+  en: Simmered chicken in a creamy mushroom sauce with red and green bell peppers.
+category: ulam
+tags: [chicken, creamy, mushroom]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 1
+        item: { tl: manok, en: whole chicken }
+        note: { tl: pira-piraso, en: cut into pieces }
+      - amount: 4
+        unit: { tl: tasa, en: cup }
+        item: { tl: tubig, en: water }
+      - amount: 1
+        unit: { tl: kutsarita, en: tsp }
+        item: { tl: asin, en: salt }
+      - amount: 2
+        unit: { tl: kutsara, en: tbsp }
+        item: { tl: mantika, en: cooking oil }
+      - amount: 1
+        unit: { tl: ulo, en: head }
+        item: { tl: bawang, en: garlic }
+        note: { tl: binayo, en: crushed }
+      - amount: 4
+        unit: { tl: kutsara, en: tbsp }
+        item: { tl: harina, en: flour }
+      - amount: 1
+        item: { tl: sibuyas, en: onion }
+        note: { tl: hiniwa, en: sliced }
+      - amount: 1
+        item: { tl: siling pula, en: red bell pepper }
+        note: { tl: hiniwa, en: sliced }
+      - amount: 1
+        item: { tl: siling berde, en: green bell pepper }
+        note: { tl: hiniwa, en: sliced }
+      - amount: 1
+        unit: { tl: lata, en: can }
+        item: cream of mushroom soup
+
+review:
+  - No photo was sent with this recipe.
+  - The bawang is listed but no step uses it. It probably goes into the oil before the flour.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Ilaga ang manok na pira-piraso sa kaunting tubig na may asin hanggang lumambot.
+        en: Simmer the chicken pieces in a little salted water until tender.
+      - tl: Tunawin sa kaunting tubig ang harina. Ihulog sa mainit na mantika hanggang lumapot.
+        en: Dissolve the flour in a little water. Pour it into the hot oil and cook until thick.
+      - tl: Idagdag ang sibuyas at sili at lutuin nang mga 5 minuto.
+        en: Add the onion and bell peppers and cook for about 5 minutes.
+      - tl: Ihulog ang manok, kasama ang pinaglagaan.
+        en: Add the chicken along with its cooking liquid.
+      - tl: Idagdag ang cream of mushroom soup.
+        en: Stir in the cream of mushroom soup.
