@@ -1,0 +1,95 @@
+title: Chicken Cordon Bleu
+summary:
+  tl: Pitso ng manok na binilot na may ham at keso, binalot sa breadcrumbs at prinito, may cream sauce.
+  en: Chicken breast rolled around ham and cheese, breaded and fried, with a creamy sauce.
+category: ulam
+image: photos/chicken-cordon-bleu.png
+tags: [chicken, ham, cheese, fried]
+addedOn: "2026-10-13"
+
+ingredients:
+  - items:
+      - amount: 8
+        item: { tl: pitso ng manok, en: chicken breast }
+        note: fillet
+      - amount: 4
+        unit: { tl: piraso, en: slice }
+        item: sweet ham
+        note: { tl: hatiin sa gitna, en: cut in half }
+      - amount: 1/2
+        unit: bar
+        item: { tl: keso, en: cheese }
+        note: { tl: hiniwang ½″ × ½″ na sticks, en: cut into ½″ × ½″ sticks }
+      - item: { tl: asin, en: salt }
+      - item: { tl: paminta, en: pepper }
+      - amount: 1
+        unit: cup
+        item: all-purpose flour
+      - amount: 2
+        item: { tl: itlog, en: eggs }
+        note: { tl: binati, en: beaten }
+      - amount: 1
+        unit: cup
+        item: breadcrumbs
+  - title: Sauce
+    items:
+      - amount: 1
+        item: chicken cube
+      - amount: 6
+        item: { tl: keso stick, en: cheese sticks }
+        note: { tl: ginadgad, en: grated }
+      - amount: 2
+        unit: { tl: piraso, en: slice }
+        item: ham
+        note: { tl: hiniwang pino, en: finely chopped }
+      - amount: 2
+        unit: { tl: butil, en: clove }
+        item: { tl: bawang, en: garlic }
+        note: { tl: pino, en: minced }
+      - amount: 2
+        unit: tbsp
+        item: butter
+      - amount: 1/8
+        unit: tsp
+        item: { tl: paminta, en: pepper }
+      - amount: 1
+        unit: { tl: kahon, en: box }
+        item: all-purpose cream
+        note: { tl: o half-and-half, en: or half-and-half }
+      - item: { tl: asin, en: salt }
+
+review:
+  - The original title says "Cordon Blue". Changed to "Cordon Bleu".
+  - The sauce has a single step and does not say in what order to cook the ingredients.
+  - No oil is listed for frying.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Hugasan ang manok at patuluin.
+        en: Wash the chicken and let it drain.
+      - tl: Pag natulo na, lagyan ng asin at paminta. Itabi.
+        en: Once drained, season with salt and pepper. Set aside.
+      - tl: Sa isang bowl, timplahan ng asin at paminta ang harina. Ganoon din ang gawin sa breadcrumbs.
+        en: In a bowl, season the flour with salt and pepper. Do the same with the breadcrumbs.
+      - tl: "Iayos ang mga bowl nang sunod-sunod: harina, itlog, breadcrumbs."
+        en: "Line up the bowls in order: flour, egg, breadcrumbs."
+      - tl: >-
+          I-flat ang pitso. Lagyan ng ham at keso, at bilutin o gawing isang log. Lagyan ng
+          toothpick ang mga dulo.
+        en: >-
+          Flatten the chicken breast. Top with ham and cheese, then roll into a log. Secure the ends
+          with toothpicks.
+      - tl: >-
+          I-dip sa 3 bowl ayon sa pagkakasunod-sunod. Habang dini-dip, paikutin para malagyan ang
+          buo.
+        en: Dip into the 3 bowls in order, turning to coat all over.
+      - tl: >-
+          Ilagay sa ref nang magdamag at kinabukasan iprito. Kung umaga gagawin, sa gabi iprito.
+        en: >-
+          Refrigerate overnight and fry the next day. If you make them in the morning, fry them in
+          the evening.
+  - title: Sauce
+    steps:
+      - tl: Lutuin sa mahinang apoy. Timplahan ng asin ayon sa panlasa.
+        en: Cook the sauce ingredients over low heat. Season with salt to taste.
