@@ -1,0 +1,47 @@
+title: Blossom Steamed Cake
+summary:
+  en: Small steamed cakes that split open on top like a blossom, with optional food coloring.
+  tl: Maliliit na steamed cake na bumubuka sa ibabaw na parang bulaklak, puwedeng lagyan ng kulay.
+category: merienda
+image: photos/blossom-steamed-cake.png
+tags: [cupcakes, steamed]
+addedOn: "2026-10-14"
+
+ingredients:
+  - items:
+      - amount: 150
+        unit: g
+        item: all-purpose flour
+      - amount: 130
+        unit: g
+        item: { en: sugar, tl: asukal }
+      - amount: 1
+        item: { en: egg, tl: itlog }
+      - amount: 1
+        unit: tsp
+        item: baking powder
+      - amount: 100
+        unit: ml
+        item: { en: milk, tl: gatas }
+      - amount: 1/2
+        unit: tsp
+        item: vanilla
+      - amount: 1/2
+        unit: tsp
+        item: { en: cake emulsifier (Ovalett), tl: Ovalett }
+      - item: food coloring
+        note: { en: "optional, any color you like", tl: "opsyonal, kayo na po ang mamili ng kulay" }
+      - item: cupcake liners
+
+review:
+  - The recipe does not give a yield or say how full to fill the liners.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - en: Beat the egg, sugar and Ovalett until well combined.
+        tl: Paghaluin ang itlog, asukal at Ovalett hanggang maghalo nang mabuti.
+      - en: Add the milk and vanilla, then the flour and baking powder. Mix well.
+        tl: Ilagay ang gatas at vanilla, saka ang harina at baking powder. Haluin lang pong mabuti.
+      - en: Add food coloring if you like, spoon into cupcake liners, and steam for 15 minutes.
+        tl: Lagyan ng kulay kung nais, ilagay sa cupcake liners, at i-steam nang 15 minuto.
