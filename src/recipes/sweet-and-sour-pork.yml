@@ -1,0 +1,86 @@
+title: Sweet and Sour Pork
+summary:
+  en: Boiled then fried pork loin in a pineapple, ketchup and bell pepper sauce.
+  tl: Pinakuluan at prinitong pork loin sa sarsang may pinya, ketchup at bell pepper.
+category: ulam
+image: photos/sweet-and-sour-pork.png
+tags: [pork, pineapple, sweet and sour, fried]
+addedOn: "2026-10-14"
+
+ingredients:
+  - items:
+      - amount: 1/2
+        unit: kg
+        item: { en: pork loin, tl: pork loin }
+        note: { en: cut into pieces, tl: hiniwa }
+      - amount: 1
+        unit: small can
+        item: { en: pineapple chunks, tl: pineapple chunks }
+        note: { en: with the syrup, tl: kasama ang syrup }
+      - amount: 1
+        item: { en: large onion, tl: malaking sibuyas }
+        note: { en: quartered, tl: hiniwa sa apat }
+      - amount: 1
+        item: red bell pepper
+        note: { en: cut into strips, tl: hiniwa nang pahaba }
+      - amount: 1
+        item: green bell pepper
+        note: { en: cut into strips, tl: hiniwa nang pahaba }
+      - amount: 3
+        unit: { tl: butil, en: clove }
+        item: { en: garlic, tl: bawang }
+        note: { en: minced, tl: tinadtad }
+      - amount: 2
+        unit: tbsp
+        item: { en: soy sauce, tl: toyo }
+      - amount: 4
+        unit: tbsp
+        item: cornstarch
+        note: { en: divided, tl: hinati }
+      - amount: 3
+        unit: tbsp
+        item: ketchup
+      - amount: 1
+        unit: tbsp
+        item: { en: sugar, tl: asukal }
+      - amount: 1
+        unit: tsp
+        item: { en: salt, tl: asin }
+        note: { en: divided, tl: hinati }
+      - amount: 3
+        unit: tbsp
+        item: { en: peanut oil, tl: peanut oil }
+      - amount: 2
+        unit: cup
+        item: { en: water, tl: tubig }
+
+review:
+  - The original lists "2 1 small can pineapple chunks". It was read as 1 small can.
+  - The original numbers every step after the first as "2".
+  - Frying the pork in step 3 may need more oil than the 3 tbsp listed.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: >-
+          In a pot, boil the pork in the water with ½ tsp salt until tender. Drain, keeping the
+          stock.
+        tl: >-
+          Sa isang kaserola, pakuluan ang baboy sa tubig na may ½ kutsaritang asin hanggang
+          lumambot. Patuluin at itabi ang sabaw.
+      - en: Mix 2 tbsp cornstarch with the soy sauce and coat the pork with it.
+        tl: Paghaluin ang 2 kutsarang cornstarch at toyo, at ibalot ito sa baboy.
+      - en: Fry the pork in a skillet until golden brown. Set aside.
+        tl: Iprito ang baboy sa kawali hanggang pumula. Itabi.
+      - en: Dissolve the remaining 2 tbsp cornstarch in ½ cup of the pork stock. Set aside.
+        tl: Tunawin ang natitirang 2 kutsarang cornstarch sa ½ tasang sabaw ng baboy. Itabi.
+      - en: >-
+          Sauté the garlic and onion in the oil. Add the bell peppers, pineapple chunks with their
+          syrup, ketchup, sugar, the remaining ½ tsp salt and the dissolved cornstarch. Stir until
+          the sauce thickens.
+        tl: >-
+          Igisa ang bawang at sibuyas sa mantika. Ilagay ang bell pepper, pineapple chunks kasama
+          ang syrup, ketchup, asukal, ang natitirang ½ kutsaritang asin at ang tinunaw na
+          cornstarch. Haluin hanggang lumapot ang sarsa.
+      - en: Pour the sauce over the fried pork and serve with rice.
+        tl: Ibuhos ang sarsa sa prinitong baboy at ihain kasama ng kanin.
