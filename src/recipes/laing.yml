@@ -1,0 +1,51 @@
+title: Laing
+summary:
+  tl: Dahon at tangkay ng gabi na niluto sa gata, may baboy, isda, hibe at sili.
+  en: Taro leaves and stalks simmered in coconut milk with pork, fish, dried shrimp and chilies.
+category: ulam
+image: photos/laing.png
+tags: [gabi, gata, pork, bicolano, spicy]
+addedOn: "2026-10-14"
+
+ingredients:
+  - items:
+      - item: { tl: dahon at tangkay ng gabi, en: taro (gabi) leaves and stalks }
+        note: { tl: binalatan ang tangkay, en: stalks peeled }
+      - item: { tl: baboy, en: pork }
+      - item: { tl: sibuyas, en: onion }
+      - item: { tl: bawang, en: garlic }
+      - item: { tl: luya, en: ginger }
+      - item: { tl: gata, en: coconut milk }
+      - item: { tl: kakang gata, en: thick coconut cream (kakang gata) }
+      - item: bagoong
+      - item: { tl: labahita o dilis, en: dried labahita or dilis (anchovies) }
+      - item: { tl: hibe, en: dried shrimp (hibe) }
+      - item: { tl: sili, en: chilies }
+        note: { tl: opsyonal, en: optional }
+
+review:
+  - The recipe gives no amounts.
+  - The photo shows crabs on top, which are not in the recipe.
+  - The English translation was written during conversion.
+
+steps:
+  - steps:
+      - tl: Igisa ang sibuyas, bawang, luya at baboy.
+        en: Sauté the onion, garlic, ginger and pork.
+      - tl: Ilagay ang gata at halu-haluin hanggang kumulo.
+        en: Add the coconut milk and stir until it boils.
+      - tl: Ilagay ang bagoong, labahita o dilis, at hibe.
+        en: Add the bagoong, labahita or dilis, and dried shrimp.
+      - tl: >-
+          Ilagay ang tangkay at dahon ng gabi, at ang sili (opsyonal, dahil ayaw ng iba ng
+          maanghang).
+        en: Add the taro stalks and leaves, and the chilies (optional, if you don't like it spicy).
+      - tl: >-
+          Kapag lumalabas na ang mantika, ilagay ang kakang gata at hayaang kumulo nang 5 hanggang
+          10 minuto.
+        en: >-
+          When the oil starts to separate, add the kakang gata and simmer for 5 to 10 minutes.
+
+notes:
+  - tl: "Tip ni Ate Bheng: Balatan ang tangkay para hindi mapait."
+    en: "Ate Bheng's (Marissa's) tip: Peel the stalks so they are not bitter."
