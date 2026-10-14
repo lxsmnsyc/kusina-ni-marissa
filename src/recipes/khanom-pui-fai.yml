@@ -1,0 +1,63 @@
+title: Steamed Khanom Pui Fai Cupcakes
+subtitle: { en: Thai fluffy steamed cupcakes, tl: Thai na steamed cupcakes }
+summary:
+  en: Light, fluffy Thai steamed cupcakes scented with jasmine and lemon.
+  tl: Malambot at magaan na Thai steamed cupcakes na may bango ng jasmine at lemon.
+category: merienda
+image: photos/khanom-pui-fai.png
+tags: [cupcakes, steamed, thai]
+yield: { en: 30 pieces, tl: 30 piraso }
+addedOn: "2026-10-14"
+
+ingredients:
+  - items:
+      - amount: 2
+        unit: cup
+        item: cake flour
+      - amount: 1
+        unit: tsp
+        item: baking powder
+      - amount: 1 1/4
+        unit: cup
+        item: { en: sugar, tl: asukal }
+      - amount: 3
+        item: { en: eggs, tl: itlog }
+      - amount: 1
+        unit: cup
+        item: { en: water, tl: tubig }
+      - amount: 4
+        unit: tsp
+        item: { en: cake emulsifier, tl: emulsifier }
+        note: { en: Marissa uses Ovalett, tl: Ovalett ang gamit ni Marissa }
+      - amount: 3
+        unit: tbsp
+        item: { en: evaporated milk, tl: evaporada }
+      - amount: 1
+        unit: tsp
+        item: { en: lemon juice, tl: katas ng lemon }
+      - amount: 1
+        unit: tsp
+        item: jasmine extract
+      - item: cupcake liners
+
+review:
+  - The cupcakes in the photo are colored, but no food coloring is listed.
+  - The recipe does not say how full to fill the liners.
+  - The Tagalog translation was written during conversion.
+
+steps:
+  - steps:
+      - en: Combine the cake flour and baking powder. Set aside.
+        tl: Paghaluin ang cake flour at baking powder. Itabi.
+      - en: With a hand mixer, combine the eggs, water and sugar.
+        tl: Gamit ang hand mixer, paghaluin ang itlog, tubig at asukal.
+      - en: Add the emulsifier and beat on high speed for 3 to 5 minutes.
+        tl: Ilagay ang emulsifier at batihin sa high speed nang 3 hanggang 5 minuto.
+      - en: Add the flour mixture and mix on low speed.
+        tl: Ilagay ang flour mixture at haluin sa low speed.
+      - en: Add the evaporated milk, lemon juice and jasmine extract, and mix until well combined.
+        tl: Ilagay ang evaporada, katas ng lemon at jasmine extract, at haluin hanggang maghalo nang mabuti.
+      - en: Cover with a cloth and let rest for 30 minutes.
+        tl: Takpan ng tela at hayaan nang 30 minuto.
+      - en: Spoon into cupcake liners and steam for 15 minutes.
+        tl: Ilagay sa cupcake liners at i-steam nang 15 minuto.
