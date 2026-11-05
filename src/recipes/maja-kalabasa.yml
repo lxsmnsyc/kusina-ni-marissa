@@ -11,7 +11,7 @@ ingredients:
   - items:
       - amount: 2
         unit: cup
-        item: kalabasa
+        item: { tl: kalabasa, en: squash (kalabasa) }
         note: { tl: dinurog, en: mashed }
       - amount: 1 1/2
         unit: cup
@@ -61,8 +61,7 @@ steps:
           Sa pinaglutuan po ng latik, doon po natin iluto ang mixture o batter. Haluin po nang haluin
           hanggang sa maluto.
         en: >-
-          Cook the batter in the same pan used for the latik. Keep stirring until it is cooked and
-          thick.
+          Cook the batter in the same pan used for the latik. Keep stirring until it is cooked.
       - tl: Kapag luto na, ilagay na po sa isang lalagyan at ilagay ang latik para sa toppings.
         en: When cooked, transfer it to a dish and top with the latik.
 
