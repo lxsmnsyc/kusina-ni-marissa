@@ -1,0 +1,57 @@
+<script>
+  import { $memo, $props, $route } from 'brumate/signals';
+  import { raw } from 'brumate/html';
+  import { recipes } from '../lib/recipes';
+  import { langBase, langOf, languages, switchLang, t, type Lang } from '../lib/i18n';
+  import { LANG_SCRIPT } from '../lang-script';
+  import site from '../styles.css?inline';
+
+  const { children } = $props();
+  const route = $route();
+  const lang = $memo(langOf(route.url.pathname));
+  const codes = Object.keys(languages) as Lang[];
+  const base = import.meta.env.BASE_URL;
+  const count = recipes.length;
+</script>
+
+<html lang=lang>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Recipes from Marissa's kitchen.">
+    <link rel="icon" href=`${base}favicon.svg` type="image/svg+xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..600&family=Source+Sans+3:wght@400;500;600;700&display=swap">
+    {raw(LANG_SCRIPT)}
+    {raw(`<style>${site}</style>`)}
+  </head>
+  <body>
+    <div class="shell">
+      <header class="site-header">
+        <a class="wordmark" href=langBase(lang)>
+          <span class="wordmark-small">Kusina ni</span>
+          <span class="wordmark-big">Marissa</span>
+        </a>
+        <div class="header-end">
+          <span class="header-count">{t(lang).recipeCount(count)}</span>
+          <nav class="lang-switch" aria-label=t(lang).language>
+            #for (code of codes) {
+              <a
+                href=switchLang(route.url.pathname, code)
+                hreflang=code
+                lang=code
+                title=languages[code]
+                aria-current=(lang === code)
+              >{code.toUpperCase()}</a>
+            }
+          </nav>
+        </div>
+      </header>
+      <main class="site-main">{children}</main>
+      <footer class="site-footer">
+        <p>{t(lang).footer}</p>
+      </footer>
+    </div>
+  </body>
+</html>

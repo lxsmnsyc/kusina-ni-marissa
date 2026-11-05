@@ -1,0 +1,177 @@
+<script>
+  import { $memo, $props, $signal } from 'brumate/signals';
+  import { categories } from '../lib/categories';
+  import type { Recipe } from '../lib/schema';
+  import { langBase, t, text, type Lang } from '../lib/i18n';
+  import { formatMinutes } from '../lib/format';
+  import RecipeImage from '../components/RecipeImage.brm';
+  import IngredientLine from '../components/IngredientLine.brm';
+
+  const { recipe, lang } = $props<{ recipe: Recipe; lang: Lang }>();
+  const messages = t(lang);
+  const home = langBase(lang);
+  const tags = recipe.tags ?? [];
+  const notes = recipe.notes ?? [];
+  const review = import.meta.env.DEV ? (recipe.review ?? []) : [];
+
+  let servings = $signal(recipe.servings ?? 0);
+  // The ingredients and steps that the cook has checked off, by key.
+  let done = $signal<string[]>([]);
+  const scale = $memo(recipe.servings ? servings / recipe.servings : 1);
+
+  function toggle(key: string) {
+    done = done.includes(key) ? done.filter((other) => other !== key) : [...done, key];
+  }
+</script>
+
+#head {
+  <title>{`${text(recipe.title, lang)} · ${messages.siteName}`}</title>
+}
+
+<article class="recipe">
+  <a class="back" href=home>{messages.back}</a>
+
+  <header class="recipe-header">
+    <div class="recipe-heading">
+      <a class="recipe-category" href=`${home}?c=${recipe.category}`>
+        {categories[recipe.category][lang]}
+      </a>
+      <h1 class="recipe-title">{text(recipe.title, lang)}</h1>
+      #if (recipe.subtitle) {
+        <p class="recipe-subtitle">{text(recipe.subtitle, lang)}</p>
+      }
+      <p class="recipe-summary">{text(recipe.summary, lang)}</p>
+
+      <dl class="facts">
+        #if (recipe.prepMinutes) {
+          <div>
+            <dt>{messages.prep}</dt>
+            <dd>{formatMinutes(recipe.prepMinutes, lang)}</dd>
+          </div>
+        }
+        #if (recipe.cookMinutes) {
+          <div>
+            <dt>{messages.cook}</dt>
+            <dd>{formatMinutes(recipe.cookMinutes, lang)}</dd>
+          </div>
+        }
+        #if (recipe.servings) {
+          <div>
+            <dt>{messages.serves}</dt>
+            <dd>{servings}</dd>
+          </div>
+        }
+        #if (recipe.yield) {
+          <div>
+            <dt>{messages.makes}</dt>
+            <dd>{text(recipe.yield, lang)}</dd>
+          </div>
+        }
+      </dl>
+
+      #if (tags.length) {
+        <ul class="tags">
+          #for (tag of tags) {
+            <li>
+              <a class="tag" href=`${home}?t=${encodeURIComponent(tag)}`>{`#${tag}`}</a>
+            </li>
+          }
+        </ul>
+      }
+    </div>
+    <RecipeImage {recipe} {lang} class="recipe-image" />
+  </header>
+
+  #if (review.length) {
+    <aside class="review">
+      <h2>Review notes (dev only)</h2>
+      <ul>
+        #for (issue of review) {
+          <li>{issue}</li>
+        }
+      </ul>
+    </aside>
+  }
+
+  <div class="recipe-body">
+    <section class="ingredients" aria-labelledby="ingredients-heading">
+      <div class="section-head">
+        <h2 id="ingredients-heading">{messages.ingredients}</h2>
+        #if (recipe.servings) {
+          <div class="scaler" role="group" aria-label=messages.servings>
+            <button
+              type="button"
+              aria-label=messages.fewerServings
+              disabled=(servings <= 1)
+              onClick=(() => (servings = Math.max(1, servings - 1)))
+            >−</button>
+            <output aria-live="polite">{servings}</output>
+            <button type="button" aria-label=messages.moreServings onClick=(() => servings++)>+</button>
+          </div>
+        }
+      </div>
+
+      #for (group, groupIndex of recipe.ingredients by groupIndex) {
+        #if (group.title) {
+          <h3 class="group-title">{text(group.title, lang)}</h3>
+        }
+        <ul class="ingredient-list">
+          #for (item, index of group.items by index) {
+            <script>
+              const key = `i${groupIndex}-${index}`;
+            </script>
+            <li>
+              <label class={ checked: done.includes(key) }>
+                <input type="checkbox" checked=done.includes(key) onChange=(() => toggle(key))>
+                <IngredientLine {item} {scale} {lang} />
+              </label>
+            </li>
+          }
+        </ul>
+      }
+    </section>
+
+    <section class="method" aria-labelledby="method-heading">
+      <div class="section-head">
+        <h2 id="method-heading">{messages.method}</h2>
+      </div>
+      #for (group, groupIndex of recipe.steps by groupIndex) {
+        #if (group.title) {
+          <h3 class="group-title">{text(group.title, lang)}</h3>
+        }
+        <ol class="step-list">
+          #for (step, index of group.steps by index) {
+            <script>
+              const key = `s${groupIndex}-${index}`;
+            </script>
+            <li class={ checked: done.includes(key) }>
+              <button
+                type="button"
+                class="step-number"
+                aria-pressed=done.includes(key)
+                aria-label=messages.markStep(index + 1)
+                onClick=(() => toggle(key))
+              >{index + 1}</button>
+              <p>{text(step, lang)}</p>
+            </li>
+          }
+        </ol>
+      }
+
+      #if (notes.length) {
+        <aside class="notes">
+          <h2>{messages.notes}</h2>
+          <ul>
+            #for (note of notes) {
+              <li>{text(note, lang)}</li>
+            }
+          </ul>
+        </aside>
+      }
+
+      #if (recipe.source) {
+        <p class="source">{messages.source}: {text(recipe.source, lang)}</p>
+      }
+    </section>
+  </div>
+</article>

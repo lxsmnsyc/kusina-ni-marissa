@@ -1,5 +1,5 @@
 import { defineConfig, type Plugin } from "vite";
-import solid from "@solidjs/vite-plugin";
+import brumate from "brumate/vite";
 import { parse } from "yaml";
 import * as v from "valibot";
 import { RecipeSchema } from "./src/lib/schema";
@@ -26,5 +26,15 @@ function recipes(): Plugin {
 }
 
 export default defineConfig({
-  plugins: [recipes(), solid()],
+  plugins: [
+    recipes(),
+    // Every page is written as a static file. The crawl starts at both home pages and follows
+    // their links to every recipe.
+    brumate({ prerender: { paths: ["/", "/en/"] } }),
+  ],
+  build: {
+    // The prerender step reads the manifest to find the built client entry.
+    manifest: true,
+    rolldownOptions: { input: "src/client.ts" },
+  },
 });

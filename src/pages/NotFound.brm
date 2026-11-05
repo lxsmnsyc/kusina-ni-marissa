@@ -1,0 +1,17 @@
+<script>
+  import { $props } from 'brumate/signals';
+  import { langBase, t, type Lang } from '../lib/i18n';
+
+  const { lang } = $props<{ lang: Lang }>();
+  const messages = t(lang);
+</script>
+
+#head {
+  <title>{`${messages.notFoundTitle} · ${messages.siteName}`}</title>
+}
+
+<section class="not-found">
+  <p class="hero-eyebrow">{messages.notFoundEyebrow}</p>
+  <h1 class="hero-title">{messages.notFoundTitle}</h1>
+  <p><a href=langBase(lang)>{messages.notFoundBack}</a></p>
+</section>

@@ -1,0 +1,19 @@
+<script>
+  import { $memo, $props } from 'brumate/signals';
+  import type { Ingredient } from '../lib/schema';
+  import { text, type Lang } from '../lib/i18n';
+  import { formatIngredientAmount } from '../lib/format';
+
+  const { item, scale, lang } = $props<{ item: Ingredient; scale: number; lang: Lang }>();
+  const amount = $memo(formatIngredientAmount(item, scale, lang));
+</script>
+
+<span class="ingredient">
+  #if (amount) {
+    <strong class="amount">{amount}</strong>
+  }
+  {' '}<span>{text(item.item, lang)}</span>
+  #if (item.note) {
+    <span class="ingredient-note">, {text(item.note, lang)}</span>
+  }
+</span>

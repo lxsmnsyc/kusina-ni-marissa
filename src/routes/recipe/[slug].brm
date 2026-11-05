@@ -1,0 +1,15 @@
+<script>
+  import type { RouteParams } from 'brumate/routes';
+  import { $props } from 'brumate/signals';
+  import { ServerError } from 'brumate/server';
+  import { getRecipe } from '../../lib/recipes';
+  import RecipePage from '../../pages/Recipe.brm';
+
+  const { params } = $props<{ params: RouteParams<'/recipe/[slug]'> }>();
+  const recipe = getRecipe(params.slug);
+  if (!recipe) {
+    throw new ServerError('Not found', { status: 404 });
+  }
+</script>
+
+<RecipePage {recipe} lang="tl" />

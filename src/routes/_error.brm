@@ -1,0 +1,15 @@
+<script>
+  import { $props, $route } from 'brumate/signals';
+  import { langOf } from '../lib/i18n';
+  import NotFound from '../pages/NotFound.brm';
+
+  // Every error of this site is a missing page: a path that no route has, or an unknown recipe.
+  const { error } = $props<{ error: { message: string; status: number } }>();
+  const route = $route();
+  const lang = langOf(route.url.pathname);
+  if (error.status !== 404) {
+    console.error(error.message);
+  }
+</script>
+
+<NotFound {lang} />

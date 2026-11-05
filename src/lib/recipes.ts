@@ -1,5 +1,6 @@
 import type { CategoryKey } from "./categories";
 import type { Localized, Recipe, RecipeData } from "./schema";
+import type { SearchEntry } from "./search";
 
 // Each .yml file is parsed and validated by the recipe plugin in vite.config.ts.
 const modules = import.meta.glob<RecipeData>("../recipes/*.yml", {
@@ -52,19 +53,10 @@ function haystack(recipe: Recipe): string {
     .toLowerCase();
 }
 
-const haystacks = new Map(recipes.map((recipe) => [recipe.slug, haystack(recipe)]));
-
-export function filterRecipes(
-  all: readonly Recipe[],
-  query: string,
-  category: string | undefined,
-  tag: string | undefined,
-): Recipe[] {
-  const words = query.toLowerCase().split(/\s+/).filter(Boolean);
-  return all.filter(
-    (recipe) =>
-      (!category || recipe.category === category) &&
-      (!tag || recipe.tags?.includes(tag)) &&
-      words.every((word) => haystacks.get(recipe.slug)?.includes(word)),
-  );
-}
+/** What the home page searches, without the rest of each recipe, so the page state stays small. */
+export const searchIndex: SearchEntry[] = recipes.map((recipe) => ({
+  slug: recipe.slug,
+  category: recipe.category,
+  tags: recipe.tags ?? [],
+  text: haystack(recipe),
+}));

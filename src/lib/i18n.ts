@@ -1,39 +1,35 @@
-import { createSignal } from "solid-js";
 import type { Localized } from "./schema";
 
 export const languages = { tl: "Tagalog", en: "English" } as const;
 
 export type Lang = keyof typeof languages;
 
-const storageKey = "lang";
+/** The language that the site uses at `/`. English pages are under `/en`. */
+export const defaultLang: Lang = "tl";
 
-function initialLang(): Lang {
-  try {
-    const saved = localStorage.getItem(storageKey);
-    if (saved === "tl" || saved === "en") return saved;
-  } catch {
-    // Storage can be blocked; fall through to the browser language.
-  }
-  return /^(tl|fil)\b/i.test(navigator.language) ? "tl" : "en";
+/** The base path of the pages in a language, such as "/" or "/en/". */
+export function langBase(lang: Lang): string {
+  const base = import.meta.env.BASE_URL;
+  return lang === defaultLang ? base : `${base}${lang}/`;
 }
 
-export const [lang, setLangSignal] = createSignal<Lang>(initialLang());
+/** The language of a path, from its first segment. */
+export function langOf(pathname: string): Lang {
+  const rest = pathname.slice(import.meta.env.BASE_URL.length);
+  return rest === "en" || rest.startsWith("en/") ? "en" : "tl";
+}
 
-export function setLang(next: Lang) {
-  setLangSignal(next);
-  try {
-    localStorage.setItem(storageKey, next);
-  } catch {
-    // Not saved; the choice still applies for this visit.
-  }
+/** The same path in another language. */
+export function switchLang(pathname: string, to: Lang): string {
+  return `${langBase(to)}${pathname.slice(langBase(langOf(pathname)).length)}`;
 }
 
 /** Picks the reader's language, falling back to the other one. */
-export function text(value: Localized): string;
-export function text(value: Localized | undefined): string | undefined;
-export function text(value: Localized | undefined): string | undefined {
+export function text(value: Localized, lang: Lang): string;
+export function text(value: Localized | undefined, lang: Lang): string | undefined;
+export function text(value: Localized | undefined, lang: Lang): string | undefined {
   if (value === undefined || typeof value === "string") return value;
-  return value[lang()] ?? value.tl ?? value.en;
+  return value[lang] ?? value.tl ?? value.en;
 }
 
 const en = {
@@ -112,7 +108,9 @@ const tl: typeof en = {
 
 const messages = { en, tl };
 
-/** UI strings for the current language. Read inside JSX or a memo so it tracks. */
-export function t() {
-  return messages[lang()];
+export type Messages = typeof en;
+
+/** UI strings of a language. */
+export function t(lang: Lang): Messages {
+  return messages[lang];
 }

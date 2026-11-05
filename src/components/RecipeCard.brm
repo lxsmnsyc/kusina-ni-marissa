@@ -1,0 +1,34 @@
+<script>
+  import { $props } from 'brumate/signals';
+  import { categories } from '../lib/categories';
+  import type { Recipe } from '../lib/schema';
+  import { langBase, text, type Lang } from '../lib/i18n';
+  import { formatMinutes } from '../lib/format';
+  import RecipeImage from './RecipeImage.brm';
+
+  const { recipe, lang } = $props<{ recipe: Recipe; lang: Lang }>();
+  const total = (recipe.prepMinutes ?? 0) + (recipe.cookMinutes ?? 0);
+  const tags = recipe.tags ?? [];
+</script>
+
+<a class="card" href=`${langBase(lang)}recipe/${recipe.slug}`>
+  <RecipeImage {recipe} {lang} class="card-image" />
+  <div class="card-body">
+    <span class="card-category">{categories[recipe.category][lang]}</span>
+    <h3 class="card-title">{text(recipe.title, lang)}</h3>
+    #if (recipe.subtitle) {
+      <p class="card-subtitle">{text(recipe.subtitle, lang)}</p>
+    }
+    <p class="card-summary">{text(recipe.summary, lang)}</p>
+    #if (total > 0 || tags.length) {
+      <p class="card-meta">
+        #if (total > 0) {
+          <span>{formatMinutes(total, lang)}</span>
+        }
+        #for (tag of tags) {
+          <span class="card-tag">{`#${tag}`}</span>
+        }
+      </p>
+    }
+  </div>
+</a>

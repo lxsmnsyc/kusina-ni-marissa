@@ -1,0 +1,5 @@
+<script>
+  import Home from '../../pages/Home.brm';
+</script>
+
+<Home lang="en" />

@@ -6,11 +6,17 @@
     "suspicious": "warn"
   },
   "rules": {
-    "import/no-unassigned-import": ["warn", { "allow": ["**/*.css"] }]
+    "import/no-unassigned-import": [
+      "warn",
+      {
+        "allow": ["**/*.css"]
+      }
+    ]
   },
   "env": {
     "builtin": true,
-    "browser": true
+    "browser": true,
+    "node": true
   },
-  "ignorePatterns": ["dist"]
+  "ignorePatterns": ["dist", "src/brumate-routes.d.ts"]
 }

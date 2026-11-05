@@ -1,0 +1,17 @@
+<script>
+  import { $props } from 'brumate/signals';
+  import type { Recipe } from '../lib/schema';
+  import { text, type Lang } from '../lib/i18n';
+
+  // Shows the recipe photo from `public/`, or a patterned tile with the dish's initial when there is none.
+  const { recipe, lang, class: className } = $props<{ recipe: Recipe; lang: Lang; class: string }>();
+  const title = text(recipe.title, lang);
+</script>
+
+#if (recipe.image) {
+  <img class=className src=`${import.meta.env.BASE_URL}${recipe.image}` alt=title loading="lazy">
+} #else {
+  <div class=[className, 'image-placeholder'] aria-hidden="true">
+    <span>{title.charAt(0)}</span>
+  </div>
+}

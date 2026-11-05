@@ -1,0 +1,129 @@
+<script>
+  import { $client, $effect, $memo, $props, $signal } from 'brumate/signals';
+  import { categories, categoryKeys, isCategory } from '../lib/categories';
+  import { t, type Lang } from '../lib/i18n';
+  import { allTags, getRecipe, recipes, searchIndex, usedCategories } from '../lib/recipes';
+  import { search } from '../lib/search';
+  import RecipeCard from '../components/RecipeCard.brm';
+
+  const { lang } = $props<{ lang: Lang }>();
+  const messages = t(lang);
+  const available = usedCategories(recipes);
+  const chips = categoryKeys.filter((key) => available.has(key));
+  const tags = allTags(recipes);
+  const index = searchIndex;
+  const slugs = recipes.map((recipe) => recipe.slug);
+  const count = recipes.length;
+  const siteName = messages.siteName;
+  const names: Record<string, string> = {};
+  for (const key of chips) {
+    names[key] = categories[key][lang];
+  }
+
+  // The filters live in the query string, so a search can be shared. The page is prerendered
+  // without one, so the browser reads it when the page loads. $searchParam would drop the
+  // query on a prerendered page: https://github.com/lxsmnsyc/brumate/issues/466
+  let query = $signal('');
+  let category = $signal<string | null>(null);
+  let tag = $signal<string | null>(null);
+
+  $client(() => {
+    const search = new URLSearchParams(location.search);
+    query = search.get('q') ?? '';
+    category = search.get('c');
+    tag = search.get('t');
+  }, 'load');
+
+  $effect(() => {
+    const url = new URL(location.href);
+    for (const [name, value] of [['q', query], ['c', category], ['t', tag]] as const) {
+      if (value) {
+        url.searchParams.set(name, value);
+      } else {
+        url.searchParams.delete(name);
+      }
+    }
+    history.replaceState(history.state, '', url);
+    // The title in #head stops following the memo after a client navigation to this page:
+    // https://github.com/lxsmnsyc/brumate/issues/467
+    document.title = title;
+  });
+  const shown = $memo(new Set(search(index, query, category, tag)));
+  const title = $memo(
+    category && isCategory(category)
+      ? `${names[category]} · ${siteName}`
+      : siteName,
+  );
+
+  function clear() {
+    query = '';
+    category = null;
+    tag = null;
+  }
+</script>
+
+#head {
+  <title>{title}</title>
+}
+
+<section class="hero">
+  <p class="hero-eyebrow">{messages.heroEyebrow}</p>
+  <h1 class="hero-title">{messages.heroTitle}</h1>
+  <p class="hero-lede">{messages.heroLede}</p>
+  <label class="search">
+    <span class="visually-hidden">{messages.searchLabel}</span>
+    <input
+      type="search"
+      placeholder=messages.searchPlaceholder
+      value=query
+      onInput=((event) => (query = event.currentTarget.value))
+    >
+  </label>
+</section>
+
+<nav class="chips" aria-label=messages.categories>
+  <button type="button" class="chip" aria-pressed=!category onClick=(() => (category = null))>
+    {messages.all}
+  </button>
+  #for (key of chips) {
+    <button
+      type="button"
+      class="chip"
+      aria-pressed=(category === key)
+      onClick=(() => (category = category === key ? null : key))
+    >
+      {names[key]}
+    </button>
+  }
+</nav>
+
+#if (tags.length) {
+  <nav class="tag-filter" aria-label=messages.tags>
+    #for (name of tags) {
+      <button
+        type="button"
+        class="tag"
+        aria-pressed=(tag === name)
+        onClick=(() => (tag = tag === name ? null : name))
+      >
+        {`#${name}`}
+      </button>
+    }
+  </nav>
+}
+
+#if (!count) {
+  <div class="empty"><p>{messages.noRecipes}</p></div>
+} #else {
+  <div class="empty" hidden=(shown.size > 0)>
+    <p>{messages.noMatch}</p>
+    <button type="button" class="link-button" onClick=clear>{messages.clearSearch}</button>
+  </div>
+  <div class="grid" hidden=(shown.size === 0)>
+    #for (slug of slugs) {
+      <div class="grid-item" hidden=!shown.has(slug)>
+        <RecipeCard recipe=(getRecipe(slug)!) {lang} />
+      </div>
+    }
+  </div>
+}

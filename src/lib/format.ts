@@ -1,5 +1,5 @@
 import type { Ingredient } from "./schema";
-import { lang, t, text } from "./i18n";
+import { t, text, type Lang } from "./i18n";
 
 const fractions: [number, string][] = [
   [1 / 8, "⅛"],
@@ -42,11 +42,11 @@ const countable = new Set([
 ]);
 
 /** English units are pluralized; Tagalog units do not change. */
-export function formatUnit(unit: string, amount: number): string {
-  return lang() === "en" && amount > 1 && countable.has(unit) ? `${unit}s` : unit;
+export function formatUnit(unit: string, amount: number, lang: Lang): string {
+  return lang === "en" && amount > 1 && countable.has(unit) ? `${unit}s` : unit;
 }
 
-export function formatIngredientAmount(ingredient: Ingredient, scale: number): string {
+export function formatIngredientAmount(ingredient: Ingredient, scale: number, lang: Lang): string {
   if (ingredient.amount === undefined) return "";
   const [min, max] =
     typeof ingredient.amount === "number"
@@ -54,12 +54,12 @@ export function formatIngredientAmount(ingredient: Ingredient, scale: number): s
       : ingredient.amount.map((value) => value * scale);
   const amount =
     max === undefined ? formatAmount(min) : `${formatAmount(min)}–${formatAmount(max)}`;
-  const unit = text(ingredient.unit);
-  return unit ? `${amount} ${formatUnit(unit, max ?? min)}` : amount;
+  const unit = text(ingredient.unit, lang);
+  return unit ? `${amount} ${formatUnit(unit, max ?? min, lang)}` : amount;
 }
 
-export function formatMinutes(total: number): string {
-  const { hours: hr, minutes: min } = t();
+export function formatMinutes(total: number, lang: Lang): string {
+  const { hours: hr, minutes: min } = t(lang);
   const hours = Math.floor(total / 60);
   const minutes = total % 60;
   if (!hours) return `${minutes} ${min}`;

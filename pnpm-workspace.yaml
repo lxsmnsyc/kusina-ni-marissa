@@ -1,0 +1,4 @@
+minimumReleaseAgeExclude:
+  - brumate@0.6.0
+  - "@brumate/language-core@0.2.8"
+  - "@brumate/tsc@0.1.12"
