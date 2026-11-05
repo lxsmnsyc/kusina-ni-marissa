@@ -18,7 +18,7 @@ ingredients:
         item: { en: white sugar, tl: puting asukal }
       - amount: 1/4
         unit: cup
-        item: { en: dark or light brown sugar, tl: dark o brown sugar }
+        item: { en: dark or light brown sugar, tl: dark o light brown sugar }
       - amount: 1
         unit: tsp
         item: baking soda
