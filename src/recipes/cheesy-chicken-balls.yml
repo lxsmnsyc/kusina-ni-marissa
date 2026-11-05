@@ -14,7 +14,7 @@ ingredients:
         item: { en: ground chicken, tl: giniling na manok }
         note: { en: boiled, tl: pinakuluan }
       - amount: 2
-        item: { en: medium potatoes, tl: katamtamang laki ng patatas }
+        item: { en: medium potatoes, tl: katamtamang laking patatas }
         note: { en: boiled and mashed, tl: nilaga at dinurog }
       - amount: 1
         unit: { tl: kahon, en: box }
