@@ -39,7 +39,7 @@ ingredients:
       - item: { tl: asin, en: salt }
       - item: { tl: patis, en: fish sauce }
       - item: { tl: tubig, en: water }
-  - title: Optional
+  - title: { tl: Opsyonal, en: Optional }
     items:
       - item: sibot
       - item: { tl: sibuyas na mura, en: green onions }
