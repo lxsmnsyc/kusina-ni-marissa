@@ -13,7 +13,7 @@ ingredients:
         item: { tl: isdang biya, en: goby fish (biya) }
       - amount: 1
         item: { tl: niyog, en: coconut }
-        note: { tl: piniga para sa gata, en: grated and squeezed for coconut milk }
+        note: { tl: piniga para sa gata, en: squeezed for coconut milk }
       - item: { tl: luya, en: ginger }
         note: { tl: "kapiraso, pinitpit", en: "a small piece, crushed" }
       - amount: 1/2
