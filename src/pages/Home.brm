@@ -26,12 +26,17 @@
   let query = $signal('');
   let category = $signal<string | null>(null);
   let tag = $signal<string | null>(null);
+  // The tag list is long, so it stays closed unless the page opens with a tag chosen.
+  let tagPanel = $signal<HTMLDetailsElement>();
 
   $client(() => {
     const search = new URLSearchParams(location.search);
     query = search.get('q') ?? '';
     category = search.get('c');
     tag = search.get('t');
+    if (tag && tagPanel) {
+      tagPanel.toggleAttribute('open', true);
+    }
   }, 'load');
 
   $effect(() => {
@@ -67,7 +72,6 @@
 }
 
 <section class="hero">
-  <p class="hero-eyebrow">{messages.heroEyebrow}</p>
   <h1 class="hero-title">{messages.heroTitle}</h1>
   <p class="hero-lede">{messages.heroLede}</p>
   <label class="search">
@@ -98,7 +102,14 @@
 </nav>
 
 #if (tags.length) {
-  <nav class="tag-filter" aria-label=messages.tags>
+  <details class="tag-filter" ref=$bind(tagPanel)>
+    <summary>
+      {messages.tags}
+      #if (tag) {
+        <span class="tag tag-active">{`#${tag}`}</span>
+      }
+    </summary>
+    <div class="tag-list">
     #for (name of tags) {
       <button
         type="button"
@@ -109,7 +120,8 @@
         {`#${name}`}
       </button>
     }
-  </nav>
+    </div>
+  </details>
 }
 
 #if (!count) {

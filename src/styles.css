@@ -151,7 +151,7 @@ button {
   margin-bottom: 28px;
 }
 
-.hero-eyebrow {
+.not-found .hero-eyebrow {
   margin: 0 0 8px;
   font: italic 500 1rem var(--serif);
   color: var(--leaf);
@@ -434,11 +434,67 @@ button {
   color: var(--bg);
 }
 
+.tag-active {
+  background: var(--leaf);
+  color: var(--bg);
+}
+
 .tag-filter {
+  margin: -12px 0 28px;
+}
+
+.tag-filter summary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  list-style: none;
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--ink-soft);
+}
+
+.tag-filter summary::-webkit-details-marker {
+  display: none;
+}
+
+.tag-filter summary::before {
+  content: "";
+  width: 0.45em;
+  height: 0.45em;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(-45deg);
+  transition: transform 0.15s;
+}
+
+.tag-filter[open] summary::before {
+  transform: rotate(45deg);
+}
+
+.tag-filter summary:hover {
+  color: var(--ink);
+}
+
+.tag-list {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
-  margin: -12px 0 28px;
+  margin-top: 12px;
+}
+
+@media (max-width: 759px) {
+  /* One row that scrolls sideways, so the recipes start on the first screen. */
+  .chips {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    margin-inline: -16px;
+    padding-inline: 16px;
+    scrollbar-width: none;
+  }
+
+  .chip {
+    flex: none;
+  }
 }
 
 .recipe-body {
@@ -469,6 +525,20 @@ button {
 
 .ingredients {
   align-self: start;
+}
+
+.servings {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.servings-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
 }
 
 .scaler {
@@ -610,7 +680,7 @@ button {
 }
 
 @media (min-width: 760px) {
-  .recipe-header {
+  .recipe-header.has-image {
     grid-template-columns: 1.1fr 1fr;
     align-items: center;
   }
@@ -623,6 +693,9 @@ button {
   .ingredients {
     position: sticky;
     top: 24px;
+    /* A long list scrolls on its own, so its last items stay reachable. */
+    max-height: calc(100vh - 48px);
+    overflow-y: auto;
   }
 }
 
@@ -630,7 +703,7 @@ button {
   .site-header,
   .site-footer,
   .back,
-  .scaler,
+  .scaler button,
   .recipe-image,
   .ingredient-list input {
     display: none;

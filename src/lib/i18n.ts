@@ -37,10 +37,8 @@ const en = {
   recipeCount: (count: number) => (count === 1 ? "1 recipe" : `${count} recipes`),
   language: "Language",
   footer: "Cooked by Marissa, with love. Recipes collected for family and friends.",
-  heroEyebrow: "Home cooking",
   heroTitle: "Recipes from Marissa's kitchen",
-  heroLede:
-    "Home cooking written down so it can be cooked again. Search by dish or by what is in the pantry.",
+  heroLede: "Home cooking written down so it can be cooked again.",
   searchLabel: "Search recipes",
   searchPlaceholder: "Search adobo, gata, calamansi…",
   categories: "Categories",
@@ -74,10 +72,8 @@ const tl: typeof en = {
   recipeCount: (count: number) => `${count} resipe`,
   language: "Wika",
   footer: "Luto ni Marissa, may pagmamahal. Mga resipeng tinipon para sa pamilya at kaibigan.",
-  heroEyebrow: "Lutong bahay",
   heroTitle: "Mga resipe mula sa kusina ni Marissa",
-  heroLede:
-    "Mga lutong bahay na isinulat para maluto muli. Maghanap ayon sa putahe o sa sangkap na mayroon ka.",
+  heroLede: "Mga lutong bahay na isinulat para maluto muli.",
   searchLabel: "Maghanap ng resipe",
   searchPlaceholder: "Hanapin ang adobo, gata, calamansi…",
   categories: "Mga kategorya",

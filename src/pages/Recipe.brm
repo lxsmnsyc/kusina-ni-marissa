@@ -31,7 +31,7 @@
 <article class="recipe">
   <a class="back" href=home>{messages.back}</a>
 
-  <header class="recipe-header">
+  <header class={ "recipe-header": true, "has-image": Boolean(recipe.image) }>
     <div class="recipe-heading">
       <a class="recipe-category" href=`${home}?c=${recipe.category}`>
         {categories[recipe.category][lang]}
@@ -42,32 +42,28 @@
       }
       <p class="recipe-summary">{text(recipe.summary, lang)}</p>
 
-      <dl class="facts">
-        #if (recipe.prepMinutes) {
-          <div>
-            <dt>{messages.prep}</dt>
-            <dd>{formatMinutes(recipe.prepMinutes, lang)}</dd>
-          </div>
-        }
-        #if (recipe.cookMinutes) {
-          <div>
-            <dt>{messages.cook}</dt>
-            <dd>{formatMinutes(recipe.cookMinutes, lang)}</dd>
-          </div>
-        }
-        #if (recipe.servings) {
-          <div>
-            <dt>{messages.serves}</dt>
-            <dd>{servings}</dd>
-          </div>
-        }
-        #if (recipe.yield) {
-          <div>
-            <dt>{messages.makes}</dt>
-            <dd>{text(recipe.yield, lang)}</dd>
-          </div>
-        }
-      </dl>
+      #if (recipe.prepMinutes || recipe.cookMinutes || recipe.yield) {
+        <dl class="facts">
+          #if (recipe.prepMinutes) {
+            <div>
+              <dt>{messages.prep}</dt>
+              <dd>{formatMinutes(recipe.prepMinutes, lang)}</dd>
+            </div>
+          }
+          #if (recipe.cookMinutes) {
+            <div>
+              <dt>{messages.cook}</dt>
+              <dd>{formatMinutes(recipe.cookMinutes, lang)}</dd>
+            </div>
+          }
+          #if (recipe.yield) {
+            <div>
+              <dt>{messages.makes}</dt>
+              <dd>{text(recipe.yield, lang)}</dd>
+            </div>
+          }
+        </dl>
+      }
 
       #if (tags.length) {
         <ul class="tags">
@@ -79,7 +75,9 @@
         </ul>
       }
     </div>
-    <RecipeImage {recipe} {lang} class="recipe-image" />
+    #if (recipe.image) {
+      <RecipeImage {recipe} {lang} class="recipe-image" />
+    }
   </header>
 
   #if (review.length) {
@@ -98,15 +96,18 @@
       <div class="section-head">
         <h2 id="ingredients-heading">{messages.ingredients}</h2>
         #if (recipe.servings) {
-          <div class="scaler" role="group" aria-label=messages.servings>
-            <button
-              type="button"
-              aria-label=messages.fewerServings
-              disabled=(servings <= 1)
-              onClick=(() => (servings = Math.max(1, servings - 1)))
-            >−</button>
-            <output aria-live="polite">{servings}</output>
-            <button type="button" aria-label=messages.moreServings onClick=(() => servings++)>+</button>
+          <div class="servings">
+            <span class="servings-label">{messages.serves}</span>
+            <div class="scaler" role="group" aria-label=messages.servings>
+              <button
+                type="button"
+                aria-label=messages.fewerServings
+                disabled=(servings <= 1)
+                onClick=(() => (servings = Math.max(1, servings - 1)))
+              >−</button>
+              <output aria-live="polite">{servings}</output>
+              <button type="button" aria-label=messages.moreServings onClick=(() => servings++)>+</button>
+            </div>
           </div>
         }
       </div>
