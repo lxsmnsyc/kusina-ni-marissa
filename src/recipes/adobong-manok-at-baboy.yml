@@ -13,7 +13,7 @@ ingredients:
       - amount: 1/2
         unit: lb
         item: { tl: baboy, en: pork }
-        note: { tl: hiniwa, en: sliced }
+        note: { tl: hiniwa, en: cut into pieces }
       - amount: 1/4
         unit: { tl: tasa, en: cup }
         item: { tl: suka, en: vinegar }
