@@ -18,7 +18,7 @@ ingredients:
         item: evaporated milk
       - amount: 1/2
         unit: cup
-        item: kalabasa
+        item: { tl: kalabasa, en: squash }
         note: { tl: dinurog, en: mashed }
       - item: vanilla essence
         note: optional
