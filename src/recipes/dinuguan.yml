@@ -20,7 +20,7 @@ ingredients:
         item: { tl: sibuyas, en: onion }
         note: { tl: hiniwa-hiwa, en: sliced }
       - amount: 1/4
-        unit: cup
+        unit: { tl: tasa, en: cup }
         item: { tl: luya, en: ginger }
       - amount: 1 1/2
         unit: { tl: kilo, en: kg }
@@ -38,7 +38,7 @@ ingredients:
         item: { tl: atay ng baboy, en: pork liver }
         note: { tl: hiniwa nang pakuwadrado, en: cubed }
       - amount: 2
-        unit: cup
+        unit: { tl: tasa, en: cup }
         item: { tl: sabaw ng baboy, en: pork broth }
       - amount: 1 1/2
         unit: { tl: tasa, en: cup }
@@ -47,7 +47,7 @@ ingredients:
         item: { tl: mahabang siling berde, en: long green chilies }
       - item: { tl: asin, en: salt }
       - amount: 1/2
-        unit: cup
+        unit: { tl: tasa, en: cup }
         item: { tl: suka, en: vinegar }
   - title: { tl: Para sa paghahain, en: For serving }
     items:
