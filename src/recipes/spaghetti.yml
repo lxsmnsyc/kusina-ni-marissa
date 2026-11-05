@@ -49,6 +49,7 @@ review:
   - The ham and hotdog ("1/4") have no unit. They probably mean ¼ kilo.
   - The sibuyas, bawang, pickles and keso are used in the steps but not listed.
   - The paminta is listed but no step uses it.
+  - The steps say "tomato sauce" but the ingredient list has "spaghetti sauce". Check which one Marissa uses.
   - The English translation was written during conversion.
 
 steps:
@@ -60,7 +61,7 @@ steps:
       - tl: If okay na, ilagay ang carrots na ginadgad at bell pepper na hiniwang pino.
         en: Then add the grated carrots and finely chopped bell pepper.
       - tl: Ilagay ang tomato sauce.
-        en: Add the spaghetti sauce.
+        en: Add the tomato sauce.
       - tl: Ilagay ang mushroom, ham at hotdog. Ilagay ang Nestlé cream at Reno.
         en: Add the mushrooms, ham and hotdog, then the cream and liver spread.
       - tl: Pakuluin nang mga ilang minuto. Lagyan ng pickles, asukal, asin at betsin.
