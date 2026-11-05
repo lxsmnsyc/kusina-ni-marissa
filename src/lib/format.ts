@@ -27,23 +27,44 @@ export function formatAmount(value: number): string {
 }
 
 const countable = new Set([
-  "cup",
-  "clove",
-  "piece",
-  "can",
-  "small can",
+  "bar",
   "big can",
-  "pack",
+  "bottle",
+  "box",
   "bunch",
-  "stalk",
+  "can",
+  "clove",
+  "cup",
+  "finger-length piece",
+  "glass",
   "head",
+  "jar",
+  "loaf",
+  "pack",
+  "piece",
   "pouch",
+  "slab",
   "slice",
+  "small box",
+  "small bunch",
+  "small can",
+  "small pack",
+  "stalk",
+  "stick",
+  "tetra brick",
+  "thumb-sized piece",
 ]);
+
+/** "box" becomes "boxes", "loaf" becomes "loaves", and other units take an "s". */
+function plural(unit: string): string {
+  if (/(x|ch|sh|s)$/.test(unit)) return `${unit}es`;
+  if (unit.endsWith("loaf")) return `${unit.slice(0, -1)}ves`;
+  return `${unit}s`;
+}
 
 /** English units are pluralized; Tagalog units do not change. */
 export function formatUnit(unit: string, amount: number, lang: Lang): string {
-  return lang === "en" && amount > 1 && countable.has(unit) ? `${unit}s` : unit;
+  return lang === "en" && amount > 1 && countable.has(unit) ? plural(unit) : unit;
 }
 
 export function formatIngredientAmount(ingredient: Ingredient, scale: number, lang: Lang): string {
