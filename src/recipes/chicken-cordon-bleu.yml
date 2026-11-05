@@ -10,7 +10,7 @@ addedOn: "2026-10-13"
 ingredients:
   - items:
       - amount: 8
-        item: { tl: pitso ng manok, en: chicken breast }
+        item: { tl: pitso ng manok, en: chicken breasts }
         note: fillet
       - amount: 4
         unit: { tl: piraso, en: slice }
